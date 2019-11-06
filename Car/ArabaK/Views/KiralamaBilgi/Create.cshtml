@@ -1,0 +1,288 @@
+﻿@model ArabaK.Models.KiralamaBilgi
+
+@{
+    ViewBag.Title = "Create";
+    Layout = null;
+}
+
+<!DOCTYPE html>
+<html class="no-js" lang="en">
+
+<head>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <!--=== Favicon ===-->
+    <link rel="shortcut icon" href="~/cardoor/favicon.ico" type="image/x-icon" />
+
+    <title>Cardoor - Car Rental HTML Template</title>
+
+    <!--=== Bootstrap CSS ===-->
+    <link href="~/cardoor/assets/css/bootstrap.min.css" rel="stylesheet">
+    <!--=== Slicknav CSS ===-->
+    <link href="~/cardoor/assets/css/plugins/slicknav.min.css" rel="stylesheet">
+    <!--=== Magnific Popup CSS ===-->
+    <link href="~/cardoor/assets/css/plugins/magnific-popup.css" rel="stylesheet">
+    <!--=== Owl Carousel CSS ===-->
+    <link href="~/cardoor/assets/css/plugins/owl.carousel.min.css" rel="stylesheet">
+    <!--=== Gijgo CSS ===-->
+    <link href="~/cardoor/assets/css/plugins/gijgo.css" rel="stylesheet">
+    <!--=== FontAwesome CSS ===-->
+    <link href="~/cardoor/assets/css/font-awesome.css" rel="stylesheet">
+    <!--=== Theme Reset CSS ===-->
+    <link href="~/cardoor/assets/css/reset.css" rel="stylesheet">
+    <!--=== Main Style CSS ===-->
+    <link href="~/cardoor/style.css" rel="stylesheet">
+    <!--=== Responsive CSS ===-->
+    <link href="~/cardoor/assets/css/responsive.css" rel="stylesheet">
+
+
+    <!--[if lt IE 9]>
+        <script src="//oss.maxcdn.com/html5shiv/3.7.2/html5shiv.min.js"></script>
+        <script src="//oss.maxcdn.com/respond/1.4.2/respond.min.js"></script>
+    <![endif]-->
+</head>
+
+<body class="loader-active">
+
+    <!--== Preloader Area Start ==-->
+    <div class="preloader">
+        <div class="preloader-spinner">
+            <div class="loader-content">
+                <img src="~/cardoor/assets/img/preloader.gif" alt="JSOFT">
+            </div>
+        </div>
+    </div>
+    <!--== Preloader Area End ==-->
+    <!--== Header Area Start ==-->
+    <header id="header-area" class="fixed-top">
+        <!--== Header Top Start ==-->
+        <div id="header-top" class="d-none d-xl-block">
+            <div class="container">
+                <div class="row">
+                    <!--== Single HeaderTop Start ==-->
+                    <div class="col-lg-4 text-left">
+                        <i class="fa fa-map-marker"></i> 4444 Üsküdar/İstanbul
+                    </div>
+                    <!--== Single HeaderTop End ==-->
+                    <!--== Single HeaderTop Start ==-->
+                    <div class="col-lg-4 text-center">
+                        <i class="fa fa-mobile"></i> 444 4 444
+                    </div>
+                    <!--== Single HeaderTop End ==-->
+                    <!--== Single HeaderTop Start ==-->
+                    <div class="col-lg-4 text-center">
+                        <i class="fa fa-clock-o"></i> 7/24
+                    </div>
+                    <!--== Single HeaderTop End ==-->
+                </div>
+            </div>
+        </div>
+        <!--== Header Top End ==-->
+        <!--== Header Bottom Start ==-->
+        <div id="header-bottom">
+            <div class="container">
+                <div class="row">
+                    <!--== Logo Start ==-->
+                    <div class="col-lg-4">
+                        <a href="/Home/Index" class="logo">
+                            <img src="~/cardoor/assets/img/logo2.png" alt="JSOFT">
+                        </a>
+                    </div>
+                    <!--== Logo End ==-->
+                    <!--== Main Menu Start ==-->
+                    <div class="col-lg-8 d-none d-xl-block">
+                        <nav class="mainmenu alignright">
+                            <ul>
+                                <li>
+                                    <a href="/Home/Index">Anasayfa</a>
+                                </li>
+                                <li class="active">
+                                    <a href="/Home/Arabalar">Arabalar</a>
+                                </li>
+                                <li><a href="/Kullanicis/Giris">Giriş</a></li>
+                            </ul>
+                        </nav>
+                    </div>
+                    <!--== Main Menu End ==-->
+                </div>
+            </div>
+        </div>
+        <!--== Header Bottom End ==-->
+    </header>
+    <!--== Header Area End ==-->
+    <!--== Page Title Area Start ==-->
+    <section id="page-title-area" class="section-padding overlay">
+        <div class="container">
+            <div class="row">
+                <!-- Page Title Start -->
+                <div class="col-lg-12">
+                    <div class="section-title  text-center">
+                        <h2>Arabalarımız</h2>
+                        <span class="title-line"><i class="fa fa-car"></i></span>
+                        <p>Car Araç Kiralama</p>
+                    </div>
+                </div>
+                <!-- Page Title End -->
+            </div>
+        </div>
+    </section>
+    <!--== Page Title Area End ==-->
+    <!--== Car List Area Start ==-->
+    <section id="car-list-area" class="section-padding">
+        <div class="container">
+            <div class="row">
+                <!-- Sidebar Area Start -->
+                <div class="col-lg-3">
+                    <div class="sidebar-content-wrap">
+                        <!-- Single Sidebar Start -->
+                        <div class="single-sidebar">
+                            <h3>For More Informations</h3>
+
+                            <div class="sidebar-body">
+                                <p><i class="fa fa-mobile"></i> 444 4 444</p>
+                                <p><i class="fa fa-clock-o"></i> 7/24</p>
+                            </div>
+                        </div>
+                        <!-- Single Sidebar End -->
+                    </div>
+                </div>
+                <!-- Sidebar Area End -->
+                <!-- Car List Content Start -->
+                <div class="col-lg-9">
+                 @using (Html.BeginForm())
+    {
+                     @Html.AntiForgeryToken()
+
+                    <div class="form-horizontal">
+                        <h4>KiralamaBilgi</h4>
+                        <hr />
+                        @Html.ValidationSummary(true, "", new { @class = "text-danger" })
+                        <div class="form-group">
+                            @Html.LabelFor(model => model.Ad, htmlAttributes: new { @class = "control-label col-md-2" })
+                            <div class="col-md-10">
+                                @Html.EditorFor(model => model.Ad, new { htmlAttributes = new { @class = "form-control" } })
+                                @Html.ValidationMessageFor(model => model.Ad, "", new { @class = "text-danger" })
+                            </div>
+                        </div>
+                        <div class="form-group">
+                            @Html.LabelFor(model => model.Soyad, htmlAttributes: new { @class = "control-label col-md-2" })
+                            <div class="col-md-10">
+                                @Html.EditorFor(model => model.Soyad, new { htmlAttributes = new { @class = "form-control" } })
+                                @Html.ValidationMessageFor(model => model.Soyad, "", new { @class = "text-danger" })
+                            </div>
+                        </div>
+                        <div class="form-group">
+                            @Html.LabelFor(model => model.Telefon, htmlAttributes: new { @class = "control-label col-md-2" })
+                            <div class="col-md-10">
+                                @Html.EditorFor(model => model.Telefon, new { htmlAttributes = new { @class = "form-control" } })
+                                @Html.ValidationMessageFor(model => model.Telefon, "", new { @class = "text-danger" })
+                            </div>
+                        </div>
+                        <div class="form-group">
+                            @Html.LabelFor(model => model.Email, htmlAttributes: new { @class = "control-label col-md-2" })
+                            <div class="col-md-10">
+                                @Html.EditorFor(model => model.Email, new { htmlAttributes = new { @class = "form-control" } })
+                                @Html.ValidationMessageFor(model => model.Email, "", new { @class = "text-danger" })
+                            </div>
+                        </div>
+                        <div class="form-group">
+                            @Html.LabelFor(model => model.VerilisTarihi, htmlAttributes: new { @class = "control-label col-md-2" })
+                            <div class="col-md-10">
+                                @Html.EditorFor(model => model.VerilisTarihi, new { htmlAttributes = new { @class = "form-control" } })
+                                @Html.ValidationMessageFor(model => model.VerilisTarihi, "", new { @class = "text-danger" })
+                            </div>
+                        </div>
+
+                        <div class="form-group">
+                            @Html.LabelFor(model => model.AlinisTarihi, htmlAttributes: new { @class = "control-label col-md-2" })
+                            <div class="col-md-10">
+                                @Html.EditorFor(model => model.AlinisTarihi, new { htmlAttributes = new { @class = "form-control" } })
+                                @Html.ValidationMessageFor(model => model.AlinisTarihi, "", new { @class = "text-danger" })
+                            </div>
+                        </div>
+
+                        <div class="form-group">
+                            @Html.LabelFor(model => model.VerilisKilometre, htmlAttributes: new { @class = "control-label col-md-2" })
+                            <div class="col-md-10">
+                                @Html.EditorFor(model => model.VerilisKilometre, new { htmlAttributes = new { @class = "form-control" } })
+                                @Html.ValidationMessageFor(model => model.VerilisKilometre, "", new { @class = "text-danger" })
+                            </div>
+                        </div>
+
+                        <div class="form-group">
+                            @Html.LabelFor(model => model.GidilenKilometre, htmlAttributes: new { @class = "control-label col-md-2" })
+                            <div class="col-md-10">
+                                @Html.EditorFor(model => model.GidilenKilometre, new { htmlAttributes = new { @class = "form-control" } })
+                                @Html.ValidationMessageFor(model => model.GidilenKilometre, "", new { @class = "text-danger" })
+                            </div>
+                        </div>
+
+                        <div class="form-group">
+                            @Html.LabelFor(model => model.AlinanUcret, htmlAttributes: new { @class = "control-label col-md-2" })
+                            <div class="col-md-10">
+                                @Html.EditorFor(model => model.AlinanUcret, new { htmlAttributes = new { @class = "form-control" } })
+                                @Html.ValidationMessageFor(model => model.AlinanUcret, "", new { @class = "text-danger" })
+                            </div>
+                        </div>
+                        <div class="form-group">
+                            @Html.LabelFor(model => model.Arac, "Arac", htmlAttributes: new { @class = "control-label col-md-2" })
+                            <div class="col-md-10">
+                                @Html.DropDownList("Arac", null, htmlAttributes: new { @class = "form-control" })
+                                @Html.ValidationMessageFor(model => model.Arac, "", new { @class = "text-danger" })
+                            </div>
+                        </div>
+                        <div class="form-group">
+                            <div class="col-md-offset-2 col-md-10">
+                                <input type="submit" value="Araç Kirala" class="btn btn-default" />
+                            </div>
+                        </div>
+                    </div>
+}
+                </div>
+                <!-- Car List Content End -->
+            </div>
+        </div>
+    </section>
+    <!--== Car List Area End ==-->
+    <!--== Scroll Top Area Start ==-->
+    <div class="scroll-top">
+        <img src="~/cardoor/assets/img/scroll-top.png" alt="JSOFT">
+    </div>
+    <!--== Scroll Top Area End ==-->
+    <!--=======================Javascript============================-->
+    <!--=== Jquery Min Js ===-->
+    <script src="~/cardoor/assets/js/jquery-3.2.1.min.js"></script>
+    <!--=== Jquery Migrate Min Js ===-->
+    <script src="~/cardoor/assets/js/jquery-migrate.min.js"></script>
+    <!--=== Popper Min Js ===-->
+    <script src="~/cardoor/assets/js/popper.min.js"></script>
+    <!--=== Bootstrap Min Js ===-->
+    <script src="~/cardoor/assets/js/bootstrap.min.js"></script>
+    <!--=== Gijgo Min Js ===-->
+    <script src="~/cardoor/assets/js/plugins/gijgo.js"></script>
+    <!--=== Vegas Min Js ===-->
+    <script src="~/cardoor/assets/js/plugins/vegas.min.js"></script>
+    <!--=== Isotope Min Js ===-->
+    <script src="~/cardoor/assets/js/plugins/isotope.min.js"></script>
+    <!--=== Owl Caousel Min Js ===-->
+    <script src="~/cardoor/assets/js/plugins/owl.carousel.min.js"></script>
+    <!--=== Waypoint Min Js ===-->
+    <script src="~/cardoor/assets/js/plugins/waypoints.min.js"></script>
+    <!--=== CounTotop Min Js ===-->
+    <script src="~/cardoor/assets/js/plugins/counterup.min.js"></script>
+    <!--=== YtPlayer Min Js ===-->
+    <script src="~/cardoor/assets/js/plugins/mb.YTPlayer.js"></script>
+    <!--=== Magnific Popup Min Js ===-->
+    <script src="~/cardoor/assets/js/plugins/magnific-popup.min.js"></script>
+    <!--=== Slicknav Min Js ===-->
+    <script src="~/cardoor/assets/js/plugins/slicknav.min.js"></script>
+
+    <!--=== Mian Js ===-->
+    <script src="~/cardoor/assets/js/main.js"></script>
+
+</body>
+
+</html>
+
+

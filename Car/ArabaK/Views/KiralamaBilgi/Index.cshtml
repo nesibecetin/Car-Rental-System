@@ -1,0 +1,70 @@
+﻿@model IEnumerable<ArabaK.Models.KiralamaBilgi>
+
+@{
+    ViewBag.Title = "Index";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<h2>Index</h2>
+
+<p>
+    @Html.ActionLink("Create New", "Create")
+</p>
+<table class="table">
+    <tr>
+        <th>
+            @Html.DisplayNameFor(model => model.VerilisTarihi)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.AlinisTarihi)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.VerilisKilometre)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.GidilenKilometre)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.AlinanUcret)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.Araba.AracMarka)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.Kullanici1.Ad)
+        </th>
+        <th></th>
+    </tr>
+
+@foreach (var item in Model) {
+    <tr>
+        <td>
+            @Html.DisplayFor(modelItem => item.VerilisTarihi)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.AlinisTarihi)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.VerilisKilometre)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.GidilenKilometre)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.AlinanUcret)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.Araba.AracMarka)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.Kullanici1.Ad)
+        </td>
+        <td>
+            @Html.ActionLink("Edit", "Edit", new { id=item.KiralamaID }) |
+            @Html.ActionLink("Details", "Details", new { id=item.KiralamaID }) |
+            @Html.ActionLink("Delete", "Delete", new { id=item.KiralamaID })
+        </td>
+    </tr>
+}
+
+</table>

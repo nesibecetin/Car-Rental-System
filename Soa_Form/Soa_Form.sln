@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27428.2043
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Soa_Form", "Soa_Form\Soa_Form.csproj", "{76D0E8E4-5EE8-4EB5-BEF8-28FAEC1ED7F9}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Soa_Form_RestApi", "Soa_Form_RestApi\Soa_Form_RestApi.csproj", "{79CCA826-5528-4E61-8A4C-FB6286E82DB6}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{76D0E8E4-5EE8-4EB5-BEF8-28FAEC1ED7F9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{76D0E8E4-5EE8-4EB5-BEF8-28FAEC1ED7F9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{76D0E8E4-5EE8-4EB5-BEF8-28FAEC1ED7F9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{76D0E8E4-5EE8-4EB5-BEF8-28FAEC1ED7F9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{79CCA826-5528-4E61-8A4C-FB6286E82DB6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{79CCA826-5528-4E61-8A4C-FB6286E82DB6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{79CCA826-5528-4E61-8A4C-FB6286E82DB6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{79CCA826-5528-4E61-8A4C-FB6286E82DB6}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {586DE825-1AC5-4DD0-80FD-1D995EE67A63}
+	EndGlobalSection
+EndGlobal

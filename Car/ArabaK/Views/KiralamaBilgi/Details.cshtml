@@ -1,0 +1,75 @@
+﻿@model ArabaK.Models.KiralamaBilgi
+
+@{
+    ViewBag.Title = "Details";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<h2>Details</h2>
+
+<div>
+    <h4>KiralamaBilgi</h4>
+    <hr />
+    <dl class="dl-horizontal">
+        <dt>
+            @Html.DisplayNameFor(model => model.VerilisTarihi)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.VerilisTarihi)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.AlinisTarihi)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.AlinisTarihi)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.VerilisKilometre)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.VerilisKilometre)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.GidilenKilometre)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.GidilenKilometre)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.AlinanUcret)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.AlinanUcret)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.Araba.AracMarka)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.Araba.AracMarka)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.Kullanici1.Ad)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.Kullanici1.Ad)
+        </dd>
+
+    </dl>
+</div>
+<p>
+    @Html.ActionLink("Edit", "Edit", new { id = Model.KiralamaID }) |
+    @Html.ActionLink("Back to List", "Index")
+</p>

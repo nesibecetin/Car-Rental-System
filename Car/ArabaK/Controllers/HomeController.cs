@@ -1,0 +1,63 @@
+﻿using System;
+using System.Collections.Generic;
+using System.Linq;
+using System.Web;
+using System.Web.Mvc;
+
+namespace ArabaK.Controllers
+{
+    public class HomeController : Controller
+    {
+        public ActionResult Index()
+        {
+            return View();
+        }
+        public ActionResult Giris()
+        {
+            return View();
+        }
+        public ActionResult KayıtOl()
+        {
+            return View();
+        }
+        public ActionResult Arabalar()
+        {
+            return View();
+        }
+        public ActionResult ArabaDetay()
+        {
+            return View();
+        }
+        public ActionResult Sirketler()
+        {
+            return View();
+        }
+        public ActionResult Calisanlar()
+        {
+            return View();
+        }
+        public ActionResult Calisan()
+        {
+            return View();
+        }
+        public ActionResult ArabaEkle()
+        {
+            return View();
+        }
+
+
+        public ActionResult About()
+        {
+            ViewBag.Message = "Your application description page.";
+
+            return View();
+        }
+
+        public ActionResult Contact()
+        {
+            ViewBag.Message = "Your contact page.";
+
+            return View();
+        }
+    }
+}

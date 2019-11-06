@@ -1,0 +1,630 @@
+C:\Users\ayrem\Source\Repos\SOA_Web_Api\SOA_Web_Api\bin\ApplicationInsights.config
+C:\Users\ayrem\Source\Repos\SOA_Web_Api\SOA_Web_Api\bin\SOA_Web_Api.dll.config
+C:\Users\ayrem\Source\Repos\SOA_Web_Api\SOA_Web_Api\bin\SOA_Web_Api.dll
+C:\Users\ayrem\Source\Repos\SOA_Web_Api\SOA_Web_Api\bin\SOA_Web_Api.pdb
+C:\Users\ayrem\Source\Repos\SOA_Web_Api\SOA_Web_Api\bin\roslyn\csc.exe
+C:\Users\ayrem\Source\Repos\SOA_Web_Api\SOA_Web_Api\bin\roslyn\csc.exe.config
+C:\Users\ayrem\Source\Repos\SOA_Web_Api\SOA_Web_Api\bin\roslyn\csc.rsp
+C:\Users\ayrem\Source\Repos\SOA_Web_Api\SOA_Web_Api\bin\roslyn\csi.exe
+C:\Users\ayrem\Source\Repos\SOA_Web_Api\SOA_Web_Api\bin\roslyn\csi.exe.config
+C:\Users\ayrem\Source\Repos\SOA_Web_Api\SOA_Web_Api\bin\roslyn\csi.rsp
+C:\Users\ayrem\Source\Repos\SOA_Web_Api\SOA_Web_Api\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\ayrem\Source\Repos\SOA_Web_Api\SOA_Web_Api\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\ayrem\Source\Repos\SOA_Web_Api\SOA_Web_Api\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\ayrem\Source\Repos\SOA_Web_Api\SOA_Web_Api\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\ayrem\Source\Repos\SOA_Web_Api\SOA_Web_Api\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\ayrem\Source\Repos\SOA_Web_Api\SOA_Web_Api\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\ayrem\Source\Repos\SOA_Web_Api\SOA_Web_Api\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\ayrem\Source\Repos\SOA_Web_Api\SOA_Web_Api\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\ayrem\Source\Repos\SOA_Web_Api\SOA_Web_Api\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\ayrem\Source\Repos\SOA_Web_Api\SOA_Web_Api\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\ayrem\Source\Repos\SOA_Web_Api\SOA_Web_Api\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\ayrem\Source\Repos\SOA_Web_Api\SOA_Web_Api\bin\roslyn\System.AppContext.dll
+C:\Users\ayrem\Source\Repos\SOA_Web_Api\SOA_Web_Api\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\ayrem\Source\Repos\SOA_Web_Api\SOA_Web_Api\bin\roslyn\System.Console.dll
+C:\Users\ayrem\Source\Repos\SOA_Web_Api\SOA_Web_Api\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\ayrem\Source\Repos\SOA_Web_Api\SOA_Web_Api\bin\roslyn\System.Diagnostics.Process.dll
+C:\Users\ayrem\Source\Repos\SOA_Web_Api\SOA_Web_Api\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\ayrem\Source\Repos\SOA_Web_Api\SOA_Web_Api\bin\roslyn\System.IO.Compression.dll
+C:\Users\ayrem\Source\Repos\SOA_Web_Api\SOA_Web_Api\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\ayrem\Source\Repos\SOA_Web_Api\SOA_Web_Api\bin\roslyn\System.IO.FileSystem.DriveInfo.dll
+C:\Users\ayrem\Source\Repos\SOA_Web_Api\SOA_Web_Api\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\ayrem\Source\Repos\SOA_Web_Api\SOA_Web_Api\bin\roslyn\System.IO.Pipes.dll
+C:\Users\ayrem\Source\Repos\SOA_Web_Api\SOA_Web_Api\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\ayrem\Source\Repos\SOA_Web_Api\SOA_Web_Api\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\ayrem\Source\Repos\SOA_Web_Api\SOA_Web_Api\bin\roslyn\System.Security.Claims.dll
+C:\Users\ayrem\Source\Repos\SOA_Web_Api\SOA_Web_Api\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\ayrem\Source\Repos\SOA_Web_Api\SOA_Web_Api\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\ayrem\Source\Repos\SOA_Web_Api\SOA_Web_Api\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\ayrem\Source\Repos\SOA_Web_Api\SOA_Web_Api\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\ayrem\Source\Repos\SOA_Web_Api\SOA_Web_Api\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\ayrem\Source\Repos\SOA_Web_Api\SOA_Web_Api\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\ayrem\Source\Repos\SOA_Web_Api\SOA_Web_Api\bin\roslyn\System.Threading.Thread.dll
+C:\Users\ayrem\Source\Repos\SOA_Web_Api\SOA_Web_Api\bin\roslyn\System.ValueTuple.dll
+C:\Users\ayrem\Source\Repos\SOA_Web_Api\SOA_Web_Api\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\ayrem\Source\Repos\SOA_Web_Api\SOA_Web_Api\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\ayrem\Source\Repos\SOA_Web_Api\SOA_Web_Api\bin\roslyn\System.Xml.XPath.dll
+C:\Users\ayrem\Source\Repos\SOA_Web_Api\SOA_Web_Api\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\ayrem\Source\Repos\SOA_Web_Api\SOA_Web_Api\bin\roslyn\vbc.exe
+C:\Users\ayrem\Source\Repos\SOA_Web_Api\SOA_Web_Api\bin\roslyn\vbc.exe.config
+C:\Users\ayrem\Source\Repos\SOA_Web_Api\SOA_Web_Api\bin\roslyn\vbc.rsp
+C:\Users\ayrem\Source\Repos\SOA_Web_Api\SOA_Web_Api\bin\roslyn\VBCSCompiler.exe
+C:\Users\ayrem\Source\Repos\SOA_Web_Api\SOA_Web_Api\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\ayrem\Source\Repos\SOA_Web_Api\SOA_Web_Api\bin\Antlr3.Runtime.dll
+C:\Users\ayrem\Source\Repos\SOA_Web_Api\SOA_Web_Api\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\ayrem\Source\Repos\SOA_Web_Api\SOA_Web_Api\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\ayrem\Source\Repos\SOA_Web_Api\SOA_Web_Api\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\ayrem\Source\Repos\SOA_Web_Api\SOA_Web_Api\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\ayrem\Source\Repos\SOA_Web_Api\SOA_Web_Api\bin\Microsoft.AI.Web.dll
+C:\Users\ayrem\Source\Repos\SOA_Web_Api\SOA_Web_Api\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\ayrem\Source\Repos\SOA_Web_Api\SOA_Web_Api\bin\Microsoft.ApplicationInsights.dll
+C:\Users\ayrem\Source\Repos\SOA_Web_Api\SOA_Web_Api\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\ayrem\Source\Repos\SOA_Web_Api\SOA_Web_Api\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\ayrem\Source\Repos\SOA_Web_Api\SOA_Web_Api\bin\Newtonsoft.Json.dll
+C:\Users\ayrem\Source\Repos\SOA_Web_Api\SOA_Web_Api\bin\SOABusiness.dll
+C:\Users\ayrem\Source\Repos\SOA_Web_Api\SOA_Web_Api\bin\SOAModel.dll
+C:\Users\ayrem\Source\Repos\SOA_Web_Api\SOA_Web_Api\bin\System.Net.Http.Formatting.dll
+C:\Users\ayrem\Source\Repos\SOA_Web_Api\SOA_Web_Api\bin\System.Web.Helpers.dll
+C:\Users\ayrem\Source\Repos\SOA_Web_Api\SOA_Web_Api\bin\System.Web.Http.dll
+C:\Users\ayrem\Source\Repos\SOA_Web_Api\SOA_Web_Api\bin\System.Web.Http.WebHost.dll
+C:\Users\ayrem\Source\Repos\SOA_Web_Api\SOA_Web_Api\bin\System.Web.Mvc.dll
+C:\Users\ayrem\Source\Repos\SOA_Web_Api\SOA_Web_Api\bin\System.Web.Optimization.dll
+C:\Users\ayrem\Source\Repos\SOA_Web_Api\SOA_Web_Api\bin\System.Web.Razor.dll
+C:\Users\ayrem\Source\Repos\SOA_Web_Api\SOA_Web_Api\bin\System.Web.WebPages.Deployment.dll
+C:\Users\ayrem\Source\Repos\SOA_Web_Api\SOA_Web_Api\bin\System.Web.WebPages.dll
+C:\Users\ayrem\Source\Repos\SOA_Web_Api\SOA_Web_Api\bin\System.Web.WebPages.Razor.dll
+C:\Users\ayrem\Source\Repos\SOA_Web_Api\SOA_Web_Api\bin\WebGrease.dll
+C:\Users\ayrem\Source\Repos\SOA_Web_Api\SOA_Web_Api\bin\SOAData.dll
+C:\Users\ayrem\Source\Repos\SOA_Web_Api\SOA_Web_Api\bin\SOACommons.dll
+C:\Users\ayrem\Source\Repos\SOA_Web_Api\SOA_Web_Api\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\ayrem\Source\Repos\SOA_Web_Api\SOA_Web_Api\bin\SOABusiness.pdb
+C:\Users\ayrem\Source\Repos\SOA_Web_Api\SOA_Web_Api\bin\SOAModel.pdb
+C:\Users\ayrem\Source\Repos\SOA_Web_Api\SOA_Web_Api\bin\Newtonsoft.Json.xml
+C:\Users\ayrem\Source\Repos\SOA_Web_Api\SOA_Web_Api\bin\System.Net.Http.Formatting.xml
+C:\Users\ayrem\Source\Repos\SOA_Web_Api\SOA_Web_Api\bin\System.Web.Helpers.xml
+C:\Users\ayrem\Source\Repos\SOA_Web_Api\SOA_Web_Api\bin\System.Web.Http.xml
+C:\Users\ayrem\Source\Repos\SOA_Web_Api\SOA_Web_Api\bin\System.Web.Http.WebHost.xml
+C:\Users\ayrem\Source\Repos\SOA_Web_Api\SOA_Web_Api\bin\System.Web.Mvc.xml
+C:\Users\ayrem\Source\Repos\SOA_Web_Api\SOA_Web_Api\bin\System.Web.Optimization.xml
+C:\Users\ayrem\Source\Repos\SOA_Web_Api\SOA_Web_Api\bin\System.Web.Razor.xml
+C:\Users\ayrem\Source\Repos\SOA_Web_Api\SOA_Web_Api\bin\System.Web.WebPages.xml
+C:\Users\ayrem\Source\Repos\SOA_Web_Api\SOA_Web_Api\bin\System.Web.WebPages.Deployment.xml
+C:\Users\ayrem\Source\Repos\SOA_Web_Api\SOA_Web_Api\bin\System.Web.WebPages.Razor.xml
+C:\Users\ayrem\Source\Repos\SOA_Web_Api\SOA_Web_Api\bin\Antlr3.Runtime.pdb
+C:\Users\ayrem\Source\Repos\SOA_Web_Api\SOA_Web_Api\bin\Microsoft.ApplicationInsights.xml
+C:\Users\ayrem\Source\Repos\SOA_Web_Api\SOA_Web_Api\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\ayrem\Source\Repos\SOA_Web_Api\SOA_Web_Api\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\ayrem\Source\Repos\SOA_Web_Api\SOA_Web_Api\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\ayrem\Source\Repos\SOA_Web_Api\SOA_Web_Api\bin\Microsoft.AI.Web.xml
+C:\Users\ayrem\Source\Repos\SOA_Web_Api\SOA_Web_Api\bin\SOAData.pdb
+C:\Users\ayrem\Source\Repos\SOA_Web_Api\SOA_Web_Api\bin\SOACommons.pdb
+C:\Users\ayrem\Source\Repos\SOA_Web_Api\SOA_Web_Api\obj\Debug\SOA_Web_Api.csprojResolveAssemblyReference.cache
+C:\Users\ayrem\Source\Repos\SOA_Web_Api\SOA_Web_Api\obj\Debug\SOA_Web_Api.csproj.CoreCompileInputs.cache
+C:\Users\ayrem\Source\Repos\SOA_Web_Api\SOA_Web_Api\obj\Debug\SOA_Web_Api.csproj.CopyComplete
+C:\Users\ayrem\Source\Repos\SOA_Web_Api\SOA_Web_Api\obj\Debug\SOA_Web_Api.dll
+C:\Users\ayrem\Source\Repos\SOA_Web_Api\SOA_Web_Api\obj\Debug\SOA_Web_Api.pdb
+C:\Users\Asus\Desktop\Proje Son - - Kopya - Kopya - Kopya 2\SOA_Web_Api\SOA_Web_Api\bin\ApplicationInsights.config
+C:\Users\Asus\Desktop\Proje Son - - Kopya - Kopya - Kopya 2\SOA_Web_Api\SOA_Web_Api\bin\SOA_Web_Api.dll.config
+C:\Users\Asus\Desktop\Proje Son - - Kopya - Kopya - Kopya 2\SOA_Web_Api\SOA_Web_Api\bin\SOA_Web_Api.dll
+C:\Users\Asus\Desktop\Proje Son - - Kopya - Kopya - Kopya 2\SOA_Web_Api\SOA_Web_Api\bin\SOA_Web_Api.pdb
+C:\Users\Asus\Desktop\Proje Son - - Kopya - Kopya - Kopya 2\SOA_Web_Api\SOA_Web_Api\bin\roslyn\csc.exe
+C:\Users\Asus\Desktop\Proje Son - - Kopya - Kopya - Kopya 2\SOA_Web_Api\SOA_Web_Api\bin\roslyn\csc.exe.config
+C:\Users\Asus\Desktop\Proje Son - - Kopya - Kopya - Kopya 2\SOA_Web_Api\SOA_Web_Api\bin\roslyn\csc.rsp
+C:\Users\Asus\Desktop\Proje Son - - Kopya - Kopya - Kopya 2\SOA_Web_Api\SOA_Web_Api\bin\roslyn\csi.exe
+C:\Users\Asus\Desktop\Proje Son - - Kopya - Kopya - Kopya 2\SOA_Web_Api\SOA_Web_Api\bin\roslyn\csi.exe.config
+C:\Users\Asus\Desktop\Proje Son - - Kopya - Kopya - Kopya 2\SOA_Web_Api\SOA_Web_Api\bin\roslyn\csi.rsp
+C:\Users\Asus\Desktop\Proje Son - - Kopya - Kopya - Kopya 2\SOA_Web_Api\SOA_Web_Api\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Asus\Desktop\Proje Son - - Kopya - Kopya - Kopya 2\SOA_Web_Api\SOA_Web_Api\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Asus\Desktop\Proje Son - - Kopya - Kopya - Kopya 2\SOA_Web_Api\SOA_Web_Api\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Asus\Desktop\Proje Son - - Kopya - Kopya - Kopya 2\SOA_Web_Api\SOA_Web_Api\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Asus\Desktop\Proje Son - - Kopya - Kopya - Kopya 2\SOA_Web_Api\SOA_Web_Api\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Asus\Desktop\Proje Son - - Kopya - Kopya - Kopya 2\SOA_Web_Api\SOA_Web_Api\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Asus\Desktop\Proje Son - - Kopya - Kopya - Kopya 2\SOA_Web_Api\SOA_Web_Api\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Asus\Desktop\Proje Son - - Kopya - Kopya - Kopya 2\SOA_Web_Api\SOA_Web_Api\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Asus\Desktop\Proje Son - - Kopya - Kopya - Kopya 2\SOA_Web_Api\SOA_Web_Api\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Asus\Desktop\Proje Son - - Kopya - Kopya - Kopya 2\SOA_Web_Api\SOA_Web_Api\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Asus\Desktop\Proje Son - - Kopya - Kopya - Kopya 2\SOA_Web_Api\SOA_Web_Api\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\Asus\Desktop\Proje Son - - Kopya - Kopya - Kopya 2\SOA_Web_Api\SOA_Web_Api\bin\roslyn\System.AppContext.dll
+C:\Users\Asus\Desktop\Proje Son - - Kopya - Kopya - Kopya 2\SOA_Web_Api\SOA_Web_Api\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Asus\Desktop\Proje Son - - Kopya - Kopya - Kopya 2\SOA_Web_Api\SOA_Web_Api\bin\roslyn\System.Console.dll
+C:\Users\Asus\Desktop\Proje Son - - Kopya - Kopya - Kopya 2\SOA_Web_Api\SOA_Web_Api\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\Asus\Desktop\Proje Son - - Kopya - Kopya - Kopya 2\SOA_Web_Api\SOA_Web_Api\bin\roslyn\System.Diagnostics.Process.dll
+C:\Users\Asus\Desktop\Proje Son - - Kopya - Kopya - Kopya 2\SOA_Web_Api\SOA_Web_Api\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\Asus\Desktop\Proje Son - - Kopya - Kopya - Kopya 2\SOA_Web_Api\SOA_Web_Api\bin\roslyn\System.IO.Compression.dll
+C:\Users\Asus\Desktop\Proje Son - - Kopya - Kopya - Kopya 2\SOA_Web_Api\SOA_Web_Api\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\Asus\Desktop\Proje Son - - Kopya - Kopya - Kopya 2\SOA_Web_Api\SOA_Web_Api\bin\roslyn\System.IO.FileSystem.DriveInfo.dll
+C:\Users\Asus\Desktop\Proje Son - - Kopya - Kopya - Kopya 2\SOA_Web_Api\SOA_Web_Api\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\Asus\Desktop\Proje Son - - Kopya - Kopya - Kopya 2\SOA_Web_Api\SOA_Web_Api\bin\roslyn\System.IO.Pipes.dll
+C:\Users\Asus\Desktop\Proje Son - - Kopya - Kopya - Kopya 2\SOA_Web_Api\SOA_Web_Api\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Asus\Desktop\Proje Son - - Kopya - Kopya - Kopya 2\SOA_Web_Api\SOA_Web_Api\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\Asus\Desktop\Proje Son - - Kopya - Kopya - Kopya 2\SOA_Web_Api\SOA_Web_Api\bin\roslyn\System.Security.Claims.dll
+C:\Users\Asus\Desktop\Proje Son - - Kopya - Kopya - Kopya 2\SOA_Web_Api\SOA_Web_Api\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\Asus\Desktop\Proje Son - - Kopya - Kopya - Kopya 2\SOA_Web_Api\SOA_Web_Api\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\Asus\Desktop\Proje Son - - Kopya - Kopya - Kopya 2\SOA_Web_Api\SOA_Web_Api\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\Asus\Desktop\Proje Son - - Kopya - Kopya - Kopya 2\SOA_Web_Api\SOA_Web_Api\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\Asus\Desktop\Proje Son - - Kopya - Kopya - Kopya 2\SOA_Web_Api\SOA_Web_Api\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\Asus\Desktop\Proje Son - - Kopya - Kopya - Kopya 2\SOA_Web_Api\SOA_Web_Api\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\Asus\Desktop\Proje Son - - Kopya - Kopya - Kopya 2\SOA_Web_Api\SOA_Web_Api\bin\roslyn\System.Threading.Thread.dll
+C:\Users\Asus\Desktop\Proje Son - - Kopya - Kopya - Kopya 2\SOA_Web_Api\SOA_Web_Api\bin\roslyn\System.ValueTuple.dll
+C:\Users\Asus\Desktop\Proje Son - - Kopya - Kopya - Kopya 2\SOA_Web_Api\SOA_Web_Api\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\Asus\Desktop\Proje Son - - Kopya - Kopya - Kopya 2\SOA_Web_Api\SOA_Web_Api\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\Asus\Desktop\Proje Son - - Kopya - Kopya - Kopya 2\SOA_Web_Api\SOA_Web_Api\bin\roslyn\System.Xml.XPath.dll
+C:\Users\Asus\Desktop\Proje Son - - Kopya - Kopya - Kopya 2\SOA_Web_Api\SOA_Web_Api\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\Asus\Desktop\Proje Son - - Kopya - Kopya - Kopya 2\SOA_Web_Api\SOA_Web_Api\bin\roslyn\vbc.exe
+C:\Users\Asus\Desktop\Proje Son - - Kopya - Kopya - Kopya 2\SOA_Web_Api\SOA_Web_Api\bin\roslyn\vbc.exe.config
+C:\Users\Asus\Desktop\Proje Son - - Kopya - Kopya - Kopya 2\SOA_Web_Api\SOA_Web_Api\bin\roslyn\vbc.rsp
+C:\Users\Asus\Desktop\Proje Son - - Kopya - Kopya - Kopya 2\SOA_Web_Api\SOA_Web_Api\bin\roslyn\VBCSCompiler.exe
+C:\Users\Asus\Desktop\Proje Son - - Kopya - Kopya - Kopya 2\SOA_Web_Api\SOA_Web_Api\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Asus\Desktop\Proje Son - - Kopya - Kopya - Kopya 2\SOA_Web_Api\SOA_Web_Api\bin\Antlr3.Runtime.dll
+C:\Users\Asus\Desktop\Proje Son - - Kopya - Kopya - Kopya 2\SOA_Web_Api\SOA_Web_Api\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\Asus\Desktop\Proje Son - - Kopya - Kopya - Kopya 2\SOA_Web_Api\SOA_Web_Api\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\Asus\Desktop\Proje Son - - Kopya - Kopya - Kopya 2\SOA_Web_Api\SOA_Web_Api\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\Asus\Desktop\Proje Son - - Kopya - Kopya - Kopya 2\SOA_Web_Api\SOA_Web_Api\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\Asus\Desktop\Proje Son - - Kopya - Kopya - Kopya 2\SOA_Web_Api\SOA_Web_Api\bin\Microsoft.AI.Web.dll
+C:\Users\Asus\Desktop\Proje Son - - Kopya - Kopya - Kopya 2\SOA_Web_Api\SOA_Web_Api\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\Asus\Desktop\Proje Son - - Kopya - Kopya - Kopya 2\SOA_Web_Api\SOA_Web_Api\bin\Microsoft.ApplicationInsights.dll
+C:\Users\Asus\Desktop\Proje Son - - Kopya - Kopya - Kopya 2\SOA_Web_Api\SOA_Web_Api\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Asus\Desktop\Proje Son - - Kopya - Kopya - Kopya 2\SOA_Web_Api\SOA_Web_Api\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Asus\Desktop\Proje Son - - Kopya - Kopya - Kopya 2\SOA_Web_Api\SOA_Web_Api\bin\Newtonsoft.Json.dll
+C:\Users\Asus\Desktop\Proje Son - - Kopya - Kopya - Kopya 2\SOA_Web_Api\SOA_Web_Api\bin\SOABusiness.dll
+C:\Users\Asus\Desktop\Proje Son - - Kopya - Kopya - Kopya 2\SOA_Web_Api\SOA_Web_Api\bin\SOAModel.dll
+C:\Users\Asus\Desktop\Proje Son - - Kopya - Kopya - Kopya 2\SOA_Web_Api\SOA_Web_Api\bin\System.Net.Http.Formatting.dll
+C:\Users\Asus\Desktop\Proje Son - - Kopya - Kopya - Kopya 2\SOA_Web_Api\SOA_Web_Api\bin\System.Web.Helpers.dll
+C:\Users\Asus\Desktop\Proje Son - - Kopya - Kopya - Kopya 2\SOA_Web_Api\SOA_Web_Api\bin\System.Web.Http.dll
+C:\Users\Asus\Desktop\Proje Son - - Kopya - Kopya - Kopya 2\SOA_Web_Api\SOA_Web_Api\bin\System.Web.Http.WebHost.dll
+C:\Users\Asus\Desktop\Proje Son - - Kopya - Kopya - Kopya 2\SOA_Web_Api\SOA_Web_Api\bin\System.Web.Mvc.dll
+C:\Users\Asus\Desktop\Proje Son - - Kopya - Kopya - Kopya 2\SOA_Web_Api\SOA_Web_Api\bin\System.Web.Optimization.dll
+C:\Users\Asus\Desktop\Proje Son - - Kopya - Kopya - Kopya 2\SOA_Web_Api\SOA_Web_Api\bin\System.Web.Razor.dll
+C:\Users\Asus\Desktop\Proje Son - - Kopya - Kopya - Kopya 2\SOA_Web_Api\SOA_Web_Api\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Asus\Desktop\Proje Son - - Kopya - Kopya - Kopya 2\SOA_Web_Api\SOA_Web_Api\bin\System.Web.WebPages.dll
+C:\Users\Asus\Desktop\Proje Son - - Kopya - Kopya - Kopya 2\SOA_Web_Api\SOA_Web_Api\bin\System.Web.WebPages.Razor.dll
+C:\Users\Asus\Desktop\Proje Son - - Kopya - Kopya - Kopya 2\SOA_Web_Api\SOA_Web_Api\bin\WebGrease.dll
+C:\Users\Asus\Desktop\Proje Son - - Kopya - Kopya - Kopya 2\SOA_Web_Api\SOA_Web_Api\bin\SOAData.dll
+C:\Users\Asus\Desktop\Proje Son - - Kopya - Kopya - Kopya 2\SOA_Web_Api\SOA_Web_Api\bin\SOACommons.dll
+C:\Users\Asus\Desktop\Proje Son - - Kopya - Kopya - Kopya 2\SOA_Web_Api\SOA_Web_Api\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Asus\Desktop\Proje Son - - Kopya - Kopya - Kopya 2\SOA_Web_Api\SOA_Web_Api\bin\SOABusiness.pdb
+C:\Users\Asus\Desktop\Proje Son - - Kopya - Kopya - Kopya 2\SOA_Web_Api\SOA_Web_Api\bin\SOAModel.pdb
+C:\Users\Asus\Desktop\Proje Son - - Kopya - Kopya - Kopya 2\SOA_Web_Api\SOA_Web_Api\bin\Newtonsoft.Json.xml
+C:\Users\Asus\Desktop\Proje Son - - Kopya - Kopya - Kopya 2\SOA_Web_Api\SOA_Web_Api\bin\System.Net.Http.Formatting.xml
+C:\Users\Asus\Desktop\Proje Son - - Kopya - Kopya - Kopya 2\SOA_Web_Api\SOA_Web_Api\bin\System.Web.Helpers.xml
+C:\Users\Asus\Desktop\Proje Son - - Kopya - Kopya - Kopya 2\SOA_Web_Api\SOA_Web_Api\bin\System.Web.Http.xml
+C:\Users\Asus\Desktop\Proje Son - - Kopya - Kopya - Kopya 2\SOA_Web_Api\SOA_Web_Api\bin\System.Web.Http.WebHost.xml
+C:\Users\Asus\Desktop\Proje Son - - Kopya - Kopya - Kopya 2\SOA_Web_Api\SOA_Web_Api\bin\System.Web.Mvc.xml
+C:\Users\Asus\Desktop\Proje Son - - Kopya - Kopya - Kopya 2\SOA_Web_Api\SOA_Web_Api\bin\System.Web.Optimization.xml
+C:\Users\Asus\Desktop\Proje Son - - Kopya - Kopya - Kopya 2\SOA_Web_Api\SOA_Web_Api\bin\System.Web.Razor.xml
+C:\Users\Asus\Desktop\Proje Son - - Kopya - Kopya - Kopya 2\SOA_Web_Api\SOA_Web_Api\bin\System.Web.WebPages.xml
+C:\Users\Asus\Desktop\Proje Son - - Kopya - Kopya - Kopya 2\SOA_Web_Api\SOA_Web_Api\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Asus\Desktop\Proje Son - - Kopya - Kopya - Kopya 2\SOA_Web_Api\SOA_Web_Api\bin\System.Web.WebPages.Razor.xml
+C:\Users\Asus\Desktop\Proje Son - - Kopya - Kopya - Kopya 2\SOA_Web_Api\SOA_Web_Api\bin\Antlr3.Runtime.pdb
+C:\Users\Asus\Desktop\Proje Son - - Kopya - Kopya - Kopya 2\SOA_Web_Api\SOA_Web_Api\bin\Microsoft.ApplicationInsights.xml
+C:\Users\Asus\Desktop\Proje Son - - Kopya - Kopya - Kopya 2\SOA_Web_Api\SOA_Web_Api\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\Asus\Desktop\Proje Son - - Kopya - Kopya - Kopya 2\SOA_Web_Api\SOA_Web_Api\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\Asus\Desktop\Proje Son - - Kopya - Kopya - Kopya 2\SOA_Web_Api\SOA_Web_Api\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\Asus\Desktop\Proje Son - - Kopya - Kopya - Kopya 2\SOA_Web_Api\SOA_Web_Api\bin\Microsoft.AI.Web.xml
+C:\Users\Asus\Desktop\Proje Son - - Kopya - Kopya - Kopya 2\SOA_Web_Api\SOA_Web_Api\bin\SOAData.pdb
+C:\Users\Asus\Desktop\Proje Son - - Kopya - Kopya - Kopya 2\SOA_Web_Api\SOA_Web_Api\bin\SOACommons.pdb
+C:\Users\Asus\Desktop\Proje Son - - Kopya - Kopya - Kopya 2\SOA_Web_Api\SOA_Web_Api\obj\Debug\SOA_Web_Api.csprojAssemblyReference.cache
+C:\Users\Asus\Desktop\Proje Son - - Kopya - Kopya - Kopya 2\SOA_Web_Api\SOA_Web_Api\obj\Debug\SOA_Web_Api.csproj.CoreCompileInputs.cache
+C:\Users\Asus\Desktop\Proje Son - - Kopya - Kopya - Kopya 2\SOA_Web_Api\SOA_Web_Api\obj\Debug\SOA_Web_Api.csproj.CopyComplete
+C:\Users\Asus\Desktop\Proje Son - - Kopya - Kopya - Kopya 2\SOA_Web_Api\SOA_Web_Api\obj\Debug\SOA_Web_Api.dll
+C:\Users\Asus\Desktop\Proje Son - - Kopya - Kopya - Kopya 2\SOA_Web_Api\SOA_Web_Api\obj\Debug\SOA_Web_Api.pdb
+C:\Users\Asus\Desktop\Proje Son - - - Kopya\SOA_Web_Api\SOA_Web_Api\bin\ApplicationInsights.config
+C:\Users\Asus\Desktop\Proje Son - - - Kopya\SOA_Web_Api\SOA_Web_Api\bin\SOA_Web_Api.dll.config
+C:\Users\Asus\Desktop\Proje Son - - - Kopya\SOA_Web_Api\SOA_Web_Api\bin\SOA_Web_Api.dll
+C:\Users\Asus\Desktop\Proje Son - - - Kopya\SOA_Web_Api\SOA_Web_Api\bin\SOA_Web_Api.pdb
+C:\Users\Asus\Desktop\Proje Son - - - Kopya\SOA_Web_Api\SOA_Web_Api\bin\roslyn\csc.exe
+C:\Users\Asus\Desktop\Proje Son - - - Kopya\SOA_Web_Api\SOA_Web_Api\bin\roslyn\csc.exe.config
+C:\Users\Asus\Desktop\Proje Son - - - Kopya\SOA_Web_Api\SOA_Web_Api\bin\roslyn\csc.rsp
+C:\Users\Asus\Desktop\Proje Son - - - Kopya\SOA_Web_Api\SOA_Web_Api\bin\roslyn\csi.exe
+C:\Users\Asus\Desktop\Proje Son - - - Kopya\SOA_Web_Api\SOA_Web_Api\bin\roslyn\csi.exe.config
+C:\Users\Asus\Desktop\Proje Son - - - Kopya\SOA_Web_Api\SOA_Web_Api\bin\roslyn\csi.rsp
+C:\Users\Asus\Desktop\Proje Son - - - Kopya\SOA_Web_Api\SOA_Web_Api\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Asus\Desktop\Proje Son - - - Kopya\SOA_Web_Api\SOA_Web_Api\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Asus\Desktop\Proje Son - - - Kopya\SOA_Web_Api\SOA_Web_Api\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Asus\Desktop\Proje Son - - - Kopya\SOA_Web_Api\SOA_Web_Api\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Asus\Desktop\Proje Son - - - Kopya\SOA_Web_Api\SOA_Web_Api\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Asus\Desktop\Proje Son - - - Kopya\SOA_Web_Api\SOA_Web_Api\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Asus\Desktop\Proje Son - - - Kopya\SOA_Web_Api\SOA_Web_Api\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Asus\Desktop\Proje Son - - - Kopya\SOA_Web_Api\SOA_Web_Api\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Asus\Desktop\Proje Son - - - Kopya\SOA_Web_Api\SOA_Web_Api\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Asus\Desktop\Proje Son - - - Kopya\SOA_Web_Api\SOA_Web_Api\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Asus\Desktop\Proje Son - - - Kopya\SOA_Web_Api\SOA_Web_Api\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\Asus\Desktop\Proje Son - - - Kopya\SOA_Web_Api\SOA_Web_Api\bin\roslyn\System.AppContext.dll
+C:\Users\Asus\Desktop\Proje Son - - - Kopya\SOA_Web_Api\SOA_Web_Api\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Asus\Desktop\Proje Son - - - Kopya\SOA_Web_Api\SOA_Web_Api\bin\roslyn\System.Console.dll
+C:\Users\Asus\Desktop\Proje Son - - - Kopya\SOA_Web_Api\SOA_Web_Api\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\Asus\Desktop\Proje Son - - - Kopya\SOA_Web_Api\SOA_Web_Api\bin\roslyn\System.Diagnostics.Process.dll
+C:\Users\Asus\Desktop\Proje Son - - - Kopya\SOA_Web_Api\SOA_Web_Api\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\Asus\Desktop\Proje Son - - - Kopya\SOA_Web_Api\SOA_Web_Api\bin\roslyn\System.IO.Compression.dll
+C:\Users\Asus\Desktop\Proje Son - - - Kopya\SOA_Web_Api\SOA_Web_Api\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\Asus\Desktop\Proje Son - - - Kopya\SOA_Web_Api\SOA_Web_Api\bin\roslyn\System.IO.FileSystem.DriveInfo.dll
+C:\Users\Asus\Desktop\Proje Son - - - Kopya\SOA_Web_Api\SOA_Web_Api\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\Asus\Desktop\Proje Son - - - Kopya\SOA_Web_Api\SOA_Web_Api\bin\roslyn\System.IO.Pipes.dll
+C:\Users\Asus\Desktop\Proje Son - - - Kopya\SOA_Web_Api\SOA_Web_Api\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Asus\Desktop\Proje Son - - - Kopya\SOA_Web_Api\SOA_Web_Api\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\Asus\Desktop\Proje Son - - - Kopya\SOA_Web_Api\SOA_Web_Api\bin\roslyn\System.Security.Claims.dll
+C:\Users\Asus\Desktop\Proje Son - - - Kopya\SOA_Web_Api\SOA_Web_Api\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\Asus\Desktop\Proje Son - - - Kopya\SOA_Web_Api\SOA_Web_Api\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\Asus\Desktop\Proje Son - - - Kopya\SOA_Web_Api\SOA_Web_Api\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\Asus\Desktop\Proje Son - - - Kopya\SOA_Web_Api\SOA_Web_Api\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\Asus\Desktop\Proje Son - - - Kopya\SOA_Web_Api\SOA_Web_Api\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\Asus\Desktop\Proje Son - - - Kopya\SOA_Web_Api\SOA_Web_Api\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\Asus\Desktop\Proje Son - - - Kopya\SOA_Web_Api\SOA_Web_Api\bin\roslyn\System.Threading.Thread.dll
+C:\Users\Asus\Desktop\Proje Son - - - Kopya\SOA_Web_Api\SOA_Web_Api\bin\roslyn\System.ValueTuple.dll
+C:\Users\Asus\Desktop\Proje Son - - - Kopya\SOA_Web_Api\SOA_Web_Api\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\Asus\Desktop\Proje Son - - - Kopya\SOA_Web_Api\SOA_Web_Api\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\Asus\Desktop\Proje Son - - - Kopya\SOA_Web_Api\SOA_Web_Api\bin\roslyn\System.Xml.XPath.dll
+C:\Users\Asus\Desktop\Proje Son - - - Kopya\SOA_Web_Api\SOA_Web_Api\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\Asus\Desktop\Proje Son - - - Kopya\SOA_Web_Api\SOA_Web_Api\bin\roslyn\vbc.exe
+C:\Users\Asus\Desktop\Proje Son - - - Kopya\SOA_Web_Api\SOA_Web_Api\bin\roslyn\vbc.exe.config
+C:\Users\Asus\Desktop\Proje Son - - - Kopya\SOA_Web_Api\SOA_Web_Api\bin\roslyn\vbc.rsp
+C:\Users\Asus\Desktop\Proje Son - - - Kopya\SOA_Web_Api\SOA_Web_Api\bin\roslyn\VBCSCompiler.exe
+C:\Users\Asus\Desktop\Proje Son - - - Kopya\SOA_Web_Api\SOA_Web_Api\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Asus\Desktop\Proje Son - - - Kopya\SOA_Web_Api\SOA_Web_Api\bin\Antlr3.Runtime.dll
+C:\Users\Asus\Desktop\Proje Son - - - Kopya\SOA_Web_Api\SOA_Web_Api\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\Asus\Desktop\Proje Son - - - Kopya\SOA_Web_Api\SOA_Web_Api\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\Asus\Desktop\Proje Son - - - Kopya\SOA_Web_Api\SOA_Web_Api\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\Asus\Desktop\Proje Son - - - Kopya\SOA_Web_Api\SOA_Web_Api\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\Asus\Desktop\Proje Son - - - Kopya\SOA_Web_Api\SOA_Web_Api\bin\Microsoft.AI.Web.dll
+C:\Users\Asus\Desktop\Proje Son - - - Kopya\SOA_Web_Api\SOA_Web_Api\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\Asus\Desktop\Proje Son - - - Kopya\SOA_Web_Api\SOA_Web_Api\bin\Microsoft.ApplicationInsights.dll
+C:\Users\Asus\Desktop\Proje Son - - - Kopya\SOA_Web_Api\SOA_Web_Api\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Asus\Desktop\Proje Son - - - Kopya\SOA_Web_Api\SOA_Web_Api\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Asus\Desktop\Proje Son - - - Kopya\SOA_Web_Api\SOA_Web_Api\bin\Newtonsoft.Json.dll
+C:\Users\Asus\Desktop\Proje Son - - - Kopya\SOA_Web_Api\SOA_Web_Api\bin\SOABusiness.dll
+C:\Users\Asus\Desktop\Proje Son - - - Kopya\SOA_Web_Api\SOA_Web_Api\bin\SOAModel.dll
+C:\Users\Asus\Desktop\Proje Son - - - Kopya\SOA_Web_Api\SOA_Web_Api\bin\System.Net.Http.Formatting.dll
+C:\Users\Asus\Desktop\Proje Son - - - Kopya\SOA_Web_Api\SOA_Web_Api\bin\System.Web.Helpers.dll
+C:\Users\Asus\Desktop\Proje Son - - - Kopya\SOA_Web_Api\SOA_Web_Api\bin\System.Web.Http.dll
+C:\Users\Asus\Desktop\Proje Son - - - Kopya\SOA_Web_Api\SOA_Web_Api\bin\System.Web.Http.WebHost.dll
+C:\Users\Asus\Desktop\Proje Son - - - Kopya\SOA_Web_Api\SOA_Web_Api\bin\System.Web.Mvc.dll
+C:\Users\Asus\Desktop\Proje Son - - - Kopya\SOA_Web_Api\SOA_Web_Api\bin\System.Web.Optimization.dll
+C:\Users\Asus\Desktop\Proje Son - - - Kopya\SOA_Web_Api\SOA_Web_Api\bin\System.Web.Razor.dll
+C:\Users\Asus\Desktop\Proje Son - - - Kopya\SOA_Web_Api\SOA_Web_Api\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Asus\Desktop\Proje Son - - - Kopya\SOA_Web_Api\SOA_Web_Api\bin\System.Web.WebPages.dll
+C:\Users\Asus\Desktop\Proje Son - - - Kopya\SOA_Web_Api\SOA_Web_Api\bin\System.Web.WebPages.Razor.dll
+C:\Users\Asus\Desktop\Proje Son - - - Kopya\SOA_Web_Api\SOA_Web_Api\bin\WebGrease.dll
+C:\Users\Asus\Desktop\Proje Son - - - Kopya\SOA_Web_Api\SOA_Web_Api\bin\SOAData.dll
+C:\Users\Asus\Desktop\Proje Son - - - Kopya\SOA_Web_Api\SOA_Web_Api\bin\SOACommons.dll
+C:\Users\Asus\Desktop\Proje Son - - - Kopya\SOA_Web_Api\SOA_Web_Api\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Asus\Desktop\Proje Son - - - Kopya\SOA_Web_Api\SOA_Web_Api\bin\SOABusiness.pdb
+C:\Users\Asus\Desktop\Proje Son - - - Kopya\SOA_Web_Api\SOA_Web_Api\bin\SOAModel.pdb
+C:\Users\Asus\Desktop\Proje Son - - - Kopya\SOA_Web_Api\SOA_Web_Api\bin\Newtonsoft.Json.xml
+C:\Users\Asus\Desktop\Proje Son - - - Kopya\SOA_Web_Api\SOA_Web_Api\bin\System.Net.Http.Formatting.xml
+C:\Users\Asus\Desktop\Proje Son - - - Kopya\SOA_Web_Api\SOA_Web_Api\bin\System.Web.Helpers.xml
+C:\Users\Asus\Desktop\Proje Son - - - Kopya\SOA_Web_Api\SOA_Web_Api\bin\System.Web.Http.xml
+C:\Users\Asus\Desktop\Proje Son - - - Kopya\SOA_Web_Api\SOA_Web_Api\bin\System.Web.Http.WebHost.xml
+C:\Users\Asus\Desktop\Proje Son - - - Kopya\SOA_Web_Api\SOA_Web_Api\bin\System.Web.Mvc.xml
+C:\Users\Asus\Desktop\Proje Son - - - Kopya\SOA_Web_Api\SOA_Web_Api\bin\System.Web.Optimization.xml
+C:\Users\Asus\Desktop\Proje Son - - - Kopya\SOA_Web_Api\SOA_Web_Api\bin\System.Web.Razor.xml
+C:\Users\Asus\Desktop\Proje Son - - - Kopya\SOA_Web_Api\SOA_Web_Api\bin\System.Web.WebPages.xml
+C:\Users\Asus\Desktop\Proje Son - - - Kopya\SOA_Web_Api\SOA_Web_Api\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Asus\Desktop\Proje Son - - - Kopya\SOA_Web_Api\SOA_Web_Api\bin\System.Web.WebPages.Razor.xml
+C:\Users\Asus\Desktop\Proje Son - - - Kopya\SOA_Web_Api\SOA_Web_Api\bin\Antlr3.Runtime.pdb
+C:\Users\Asus\Desktop\Proje Son - - - Kopya\SOA_Web_Api\SOA_Web_Api\bin\Microsoft.ApplicationInsights.xml
+C:\Users\Asus\Desktop\Proje Son - - - Kopya\SOA_Web_Api\SOA_Web_Api\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\Asus\Desktop\Proje Son - - - Kopya\SOA_Web_Api\SOA_Web_Api\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\Asus\Desktop\Proje Son - - - Kopya\SOA_Web_Api\SOA_Web_Api\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\Asus\Desktop\Proje Son - - - Kopya\SOA_Web_Api\SOA_Web_Api\bin\Microsoft.AI.Web.xml
+C:\Users\Asus\Desktop\Proje Son - - - Kopya\SOA_Web_Api\SOA_Web_Api\bin\SOAData.pdb
+C:\Users\Asus\Desktop\Proje Son - - - Kopya\SOA_Web_Api\SOA_Web_Api\bin\SOACommons.pdb
+C:\Users\Asus\Desktop\Proje Son - - - Kopya\SOA_Web_Api\SOA_Web_Api\obj\Debug\SOA_Web_Api.csprojAssemblyReference.cache
+C:\Users\Asus\Desktop\Proje Son - - - Kopya\SOA_Web_Api\SOA_Web_Api\obj\Debug\SOA_Web_Api.csproj.CoreCompileInputs.cache
+C:\Users\Asus\Desktop\Proje Son - - - Kopya\SOA_Web_Api\SOA_Web_Api\obj\Debug\SOA_Web_Api.csproj.CopyComplete
+C:\Users\Asus\Desktop\Proje Son - - - Kopya\SOA_Web_Api\SOA_Web_Api\obj\Debug\SOA_Web_Api.dll
+C:\Users\Asus\Desktop\Proje Son - - - Kopya\SOA_Web_Api\SOA_Web_Api\obj\Debug\SOA_Web_Api.pdb
+C:\Users\Asus\Desktop\Proje Son - - - Kopya - Kopya\SOA_Web_Api\SOA_Web_Api\bin\ApplicationInsights.config
+C:\Users\Asus\Desktop\Proje Son - - - Kopya - Kopya\SOA_Web_Api\SOA_Web_Api\bin\SOA_Web_Api.dll.config
+C:\Users\Asus\Desktop\Proje Son - - - Kopya - Kopya\SOA_Web_Api\SOA_Web_Api\bin\SOA_Web_Api.dll
+C:\Users\Asus\Desktop\Proje Son - - - Kopya - Kopya\SOA_Web_Api\SOA_Web_Api\bin\SOA_Web_Api.pdb
+C:\Users\Asus\Desktop\Proje Son - - - Kopya - Kopya\SOA_Web_Api\SOA_Web_Api\bin\roslyn\csc.exe
+C:\Users\Asus\Desktop\Proje Son - - - Kopya - Kopya\SOA_Web_Api\SOA_Web_Api\bin\roslyn\csc.exe.config
+C:\Users\Asus\Desktop\Proje Son - - - Kopya - Kopya\SOA_Web_Api\SOA_Web_Api\bin\roslyn\csc.rsp
+C:\Users\Asus\Desktop\Proje Son - - - Kopya - Kopya\SOA_Web_Api\SOA_Web_Api\bin\roslyn\csi.exe
+C:\Users\Asus\Desktop\Proje Son - - - Kopya - Kopya\SOA_Web_Api\SOA_Web_Api\bin\roslyn\csi.exe.config
+C:\Users\Asus\Desktop\Proje Son - - - Kopya - Kopya\SOA_Web_Api\SOA_Web_Api\bin\roslyn\csi.rsp
+C:\Users\Asus\Desktop\Proje Son - - - Kopya - Kopya\SOA_Web_Api\SOA_Web_Api\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Asus\Desktop\Proje Son - - - Kopya - Kopya\SOA_Web_Api\SOA_Web_Api\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Asus\Desktop\Proje Son - - - Kopya - Kopya\SOA_Web_Api\SOA_Web_Api\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Asus\Desktop\Proje Son - - - Kopya - Kopya\SOA_Web_Api\SOA_Web_Api\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Asus\Desktop\Proje Son - - - Kopya - Kopya\SOA_Web_Api\SOA_Web_Api\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Asus\Desktop\Proje Son - - - Kopya - Kopya\SOA_Web_Api\SOA_Web_Api\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Asus\Desktop\Proje Son - - - Kopya - Kopya\SOA_Web_Api\SOA_Web_Api\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Asus\Desktop\Proje Son - - - Kopya - Kopya\SOA_Web_Api\SOA_Web_Api\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Asus\Desktop\Proje Son - - - Kopya - Kopya\SOA_Web_Api\SOA_Web_Api\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Asus\Desktop\Proje Son - - - Kopya - Kopya\SOA_Web_Api\SOA_Web_Api\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Asus\Desktop\Proje Son - - - Kopya - Kopya\SOA_Web_Api\SOA_Web_Api\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\Asus\Desktop\Proje Son - - - Kopya - Kopya\SOA_Web_Api\SOA_Web_Api\bin\roslyn\System.AppContext.dll
+C:\Users\Asus\Desktop\Proje Son - - - Kopya - Kopya\SOA_Web_Api\SOA_Web_Api\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Asus\Desktop\Proje Son - - - Kopya - Kopya\SOA_Web_Api\SOA_Web_Api\bin\roslyn\System.Console.dll
+C:\Users\Asus\Desktop\Proje Son - - - Kopya - Kopya\SOA_Web_Api\SOA_Web_Api\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\Asus\Desktop\Proje Son - - - Kopya - Kopya\SOA_Web_Api\SOA_Web_Api\bin\roslyn\System.Diagnostics.Process.dll
+C:\Users\Asus\Desktop\Proje Son - - - Kopya - Kopya\SOA_Web_Api\SOA_Web_Api\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\Asus\Desktop\Proje Son - - - Kopya - Kopya\SOA_Web_Api\SOA_Web_Api\bin\roslyn\System.IO.Compression.dll
+C:\Users\Asus\Desktop\Proje Son - - - Kopya - Kopya\SOA_Web_Api\SOA_Web_Api\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\Asus\Desktop\Proje Son - - - Kopya - Kopya\SOA_Web_Api\SOA_Web_Api\bin\roslyn\System.IO.FileSystem.DriveInfo.dll
+C:\Users\Asus\Desktop\Proje Son - - - Kopya - Kopya\SOA_Web_Api\SOA_Web_Api\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\Asus\Desktop\Proje Son - - - Kopya - Kopya\SOA_Web_Api\SOA_Web_Api\bin\roslyn\System.IO.Pipes.dll
+C:\Users\Asus\Desktop\Proje Son - - - Kopya - Kopya\SOA_Web_Api\SOA_Web_Api\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Asus\Desktop\Proje Son - - - Kopya - Kopya\SOA_Web_Api\SOA_Web_Api\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\Asus\Desktop\Proje Son - - - Kopya - Kopya\SOA_Web_Api\SOA_Web_Api\bin\roslyn\System.Security.Claims.dll
+C:\Users\Asus\Desktop\Proje Son - - - Kopya - Kopya\SOA_Web_Api\SOA_Web_Api\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\Asus\Desktop\Proje Son - - - Kopya - Kopya\SOA_Web_Api\SOA_Web_Api\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\Asus\Desktop\Proje Son - - - Kopya - Kopya\SOA_Web_Api\SOA_Web_Api\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\Asus\Desktop\Proje Son - - - Kopya - Kopya\SOA_Web_Api\SOA_Web_Api\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\Asus\Desktop\Proje Son - - - Kopya - Kopya\SOA_Web_Api\SOA_Web_Api\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\Asus\Desktop\Proje Son - - - Kopya - Kopya\SOA_Web_Api\SOA_Web_Api\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\Asus\Desktop\Proje Son - - - Kopya - Kopya\SOA_Web_Api\SOA_Web_Api\bin\roslyn\System.Threading.Thread.dll
+C:\Users\Asus\Desktop\Proje Son - - - Kopya - Kopya\SOA_Web_Api\SOA_Web_Api\bin\roslyn\System.ValueTuple.dll
+C:\Users\Asus\Desktop\Proje Son - - - Kopya - Kopya\SOA_Web_Api\SOA_Web_Api\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\Asus\Desktop\Proje Son - - - Kopya - Kopya\SOA_Web_Api\SOA_Web_Api\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\Asus\Desktop\Proje Son - - - Kopya - Kopya\SOA_Web_Api\SOA_Web_Api\bin\roslyn\System.Xml.XPath.dll
+C:\Users\Asus\Desktop\Proje Son - - - Kopya - Kopya\SOA_Web_Api\SOA_Web_Api\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\Asus\Desktop\Proje Son - - - Kopya - Kopya\SOA_Web_Api\SOA_Web_Api\bin\roslyn\vbc.exe
+C:\Users\Asus\Desktop\Proje Son - - - Kopya - Kopya\SOA_Web_Api\SOA_Web_Api\bin\roslyn\vbc.exe.config
+C:\Users\Asus\Desktop\Proje Son - - - Kopya - Kopya\SOA_Web_Api\SOA_Web_Api\bin\roslyn\vbc.rsp
+C:\Users\Asus\Desktop\Proje Son - - - Kopya - Kopya\SOA_Web_Api\SOA_Web_Api\bin\roslyn\VBCSCompiler.exe
+C:\Users\Asus\Desktop\Proje Son - - - Kopya - Kopya\SOA_Web_Api\SOA_Web_Api\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Asus\Desktop\Proje Son - - - Kopya - Kopya\SOA_Web_Api\SOA_Web_Api\bin\Antlr3.Runtime.dll
+C:\Users\Asus\Desktop\Proje Son - - - Kopya - Kopya\SOA_Web_Api\SOA_Web_Api\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\Asus\Desktop\Proje Son - - - Kopya - Kopya\SOA_Web_Api\SOA_Web_Api\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\Asus\Desktop\Proje Son - - - Kopya - Kopya\SOA_Web_Api\SOA_Web_Api\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\Asus\Desktop\Proje Son - - - Kopya - Kopya\SOA_Web_Api\SOA_Web_Api\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\Asus\Desktop\Proje Son - - - Kopya - Kopya\SOA_Web_Api\SOA_Web_Api\bin\Microsoft.AI.Web.dll
+C:\Users\Asus\Desktop\Proje Son - - - Kopya - Kopya\SOA_Web_Api\SOA_Web_Api\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\Asus\Desktop\Proje Son - - - Kopya - Kopya\SOA_Web_Api\SOA_Web_Api\bin\Microsoft.ApplicationInsights.dll
+C:\Users\Asus\Desktop\Proje Son - - - Kopya - Kopya\SOA_Web_Api\SOA_Web_Api\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Asus\Desktop\Proje Son - - - Kopya - Kopya\SOA_Web_Api\SOA_Web_Api\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Asus\Desktop\Proje Son - - - Kopya - Kopya\SOA_Web_Api\SOA_Web_Api\bin\Newtonsoft.Json.dll
+C:\Users\Asus\Desktop\Proje Son - - - Kopya - Kopya\SOA_Web_Api\SOA_Web_Api\bin\SOABusiness.dll
+C:\Users\Asus\Desktop\Proje Son - - - Kopya - Kopya\SOA_Web_Api\SOA_Web_Api\bin\SOAModel.dll
+C:\Users\Asus\Desktop\Proje Son - - - Kopya - Kopya\SOA_Web_Api\SOA_Web_Api\bin\System.Net.Http.Formatting.dll
+C:\Users\Asus\Desktop\Proje Son - - - Kopya - Kopya\SOA_Web_Api\SOA_Web_Api\bin\System.Web.Helpers.dll
+C:\Users\Asus\Desktop\Proje Son - - - Kopya - Kopya\SOA_Web_Api\SOA_Web_Api\bin\System.Web.Http.dll
+C:\Users\Asus\Desktop\Proje Son - - - Kopya - Kopya\SOA_Web_Api\SOA_Web_Api\bin\System.Web.Http.WebHost.dll
+C:\Users\Asus\Desktop\Proje Son - - - Kopya - Kopya\SOA_Web_Api\SOA_Web_Api\bin\System.Web.Mvc.dll
+C:\Users\Asus\Desktop\Proje Son - - - Kopya - Kopya\SOA_Web_Api\SOA_Web_Api\bin\System.Web.Optimization.dll
+C:\Users\Asus\Desktop\Proje Son - - - Kopya - Kopya\SOA_Web_Api\SOA_Web_Api\bin\System.Web.Razor.dll
+C:\Users\Asus\Desktop\Proje Son - - - Kopya - Kopya\SOA_Web_Api\SOA_Web_Api\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Asus\Desktop\Proje Son - - - Kopya - Kopya\SOA_Web_Api\SOA_Web_Api\bin\System.Web.WebPages.dll
+C:\Users\Asus\Desktop\Proje Son - - - Kopya - Kopya\SOA_Web_Api\SOA_Web_Api\bin\System.Web.WebPages.Razor.dll
+C:\Users\Asus\Desktop\Proje Son - - - Kopya - Kopya\SOA_Web_Api\SOA_Web_Api\bin\WebGrease.dll
+C:\Users\Asus\Desktop\Proje Son - - - Kopya - Kopya\SOA_Web_Api\SOA_Web_Api\bin\SOAData.dll
+C:\Users\Asus\Desktop\Proje Son - - - Kopya - Kopya\SOA_Web_Api\SOA_Web_Api\bin\SOACommons.dll
+C:\Users\Asus\Desktop\Proje Son - - - Kopya - Kopya\SOA_Web_Api\SOA_Web_Api\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Asus\Desktop\Proje Son - - - Kopya - Kopya\SOA_Web_Api\SOA_Web_Api\bin\SOABusiness.pdb
+C:\Users\Asus\Desktop\Proje Son - - - Kopya - Kopya\SOA_Web_Api\SOA_Web_Api\bin\SOAModel.pdb
+C:\Users\Asus\Desktop\Proje Son - - - Kopya - Kopya\SOA_Web_Api\SOA_Web_Api\bin\Newtonsoft.Json.xml
+C:\Users\Asus\Desktop\Proje Son - - - Kopya - Kopya\SOA_Web_Api\SOA_Web_Api\bin\System.Net.Http.Formatting.xml
+C:\Users\Asus\Desktop\Proje Son - - - Kopya - Kopya\SOA_Web_Api\SOA_Web_Api\bin\System.Web.Helpers.xml
+C:\Users\Asus\Desktop\Proje Son - - - Kopya - Kopya\SOA_Web_Api\SOA_Web_Api\bin\System.Web.Http.xml
+C:\Users\Asus\Desktop\Proje Son - - - Kopya - Kopya\SOA_Web_Api\SOA_Web_Api\bin\System.Web.Http.WebHost.xml
+C:\Users\Asus\Desktop\Proje Son - - - Kopya - Kopya\SOA_Web_Api\SOA_Web_Api\bin\System.Web.Mvc.xml
+C:\Users\Asus\Desktop\Proje Son - - - Kopya - Kopya\SOA_Web_Api\SOA_Web_Api\bin\System.Web.Optimization.xml
+C:\Users\Asus\Desktop\Proje Son - - - Kopya - Kopya\SOA_Web_Api\SOA_Web_Api\bin\System.Web.Razor.xml
+C:\Users\Asus\Desktop\Proje Son - - - Kopya - Kopya\SOA_Web_Api\SOA_Web_Api\bin\System.Web.WebPages.xml
+C:\Users\Asus\Desktop\Proje Son - - - Kopya - Kopya\SOA_Web_Api\SOA_Web_Api\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Asus\Desktop\Proje Son - - - Kopya - Kopya\SOA_Web_Api\SOA_Web_Api\bin\System.Web.WebPages.Razor.xml
+C:\Users\Asus\Desktop\Proje Son - - - Kopya - Kopya\SOA_Web_Api\SOA_Web_Api\bin\Antlr3.Runtime.pdb
+C:\Users\Asus\Desktop\Proje Son - - - Kopya - Kopya\SOA_Web_Api\SOA_Web_Api\bin\Microsoft.ApplicationInsights.xml
+C:\Users\Asus\Desktop\Proje Son - - - Kopya - Kopya\SOA_Web_Api\SOA_Web_Api\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\Asus\Desktop\Proje Son - - - Kopya - Kopya\SOA_Web_Api\SOA_Web_Api\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\Asus\Desktop\Proje Son - - - Kopya - Kopya\SOA_Web_Api\SOA_Web_Api\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\Asus\Desktop\Proje Son - - - Kopya - Kopya\SOA_Web_Api\SOA_Web_Api\bin\Microsoft.AI.Web.xml
+C:\Users\Asus\Desktop\Proje Son - - - Kopya - Kopya\SOA_Web_Api\SOA_Web_Api\bin\SOAData.pdb
+C:\Users\Asus\Desktop\Proje Son - - - Kopya - Kopya\SOA_Web_Api\SOA_Web_Api\bin\SOACommons.pdb
+C:\Users\Asus\Desktop\Proje Son - - - Kopya - Kopya\SOA_Web_Api\SOA_Web_Api\obj\Debug\SOA_Web_Api.csprojAssemblyReference.cache
+C:\Users\Asus\Desktop\Proje Son - - - Kopya - Kopya\SOA_Web_Api\SOA_Web_Api\obj\Debug\SOA_Web_Api.csproj.CoreCompileInputs.cache
+C:\Users\Asus\Desktop\Proje Son - - - Kopya - Kopya\SOA_Web_Api\SOA_Web_Api\obj\Debug\SOA_Web_Api.csproj.CopyComplete
+C:\Users\Asus\Desktop\Proje Son - - - Kopya - Kopya\SOA_Web_Api\SOA_Web_Api\obj\Debug\SOA_Web_Api.dll
+C:\Users\Asus\Desktop\Proje Son - - - Kopya - Kopya\SOA_Web_Api\SOA_Web_Api\obj\Debug\SOA_Web_Api.pdb
+C:\Users\Asus\Desktop\Proje - Kopya\SOA_Web_Api\SOA_Web_Api\bin\ApplicationInsights.config
+C:\Users\Asus\Desktop\Proje - Kopya\SOA_Web_Api\SOA_Web_Api\bin\SOA_Web_Api.dll.config
+C:\Users\Asus\Desktop\Proje - Kopya\SOA_Web_Api\SOA_Web_Api\bin\SOA_Web_Api.dll
+C:\Users\Asus\Desktop\Proje - Kopya\SOA_Web_Api\SOA_Web_Api\bin\SOA_Web_Api.pdb
+C:\Users\Asus\Desktop\Proje - Kopya\SOA_Web_Api\SOA_Web_Api\bin\roslyn\csc.exe
+C:\Users\Asus\Desktop\Proje - Kopya\SOA_Web_Api\SOA_Web_Api\bin\roslyn\csc.exe.config
+C:\Users\Asus\Desktop\Proje - Kopya\SOA_Web_Api\SOA_Web_Api\bin\roslyn\csc.rsp
+C:\Users\Asus\Desktop\Proje - Kopya\SOA_Web_Api\SOA_Web_Api\bin\roslyn\csi.exe
+C:\Users\Asus\Desktop\Proje - Kopya\SOA_Web_Api\SOA_Web_Api\bin\roslyn\csi.exe.config
+C:\Users\Asus\Desktop\Proje - Kopya\SOA_Web_Api\SOA_Web_Api\bin\roslyn\csi.rsp
+C:\Users\Asus\Desktop\Proje - Kopya\SOA_Web_Api\SOA_Web_Api\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Asus\Desktop\Proje - Kopya\SOA_Web_Api\SOA_Web_Api\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Asus\Desktop\Proje - Kopya\SOA_Web_Api\SOA_Web_Api\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Asus\Desktop\Proje - Kopya\SOA_Web_Api\SOA_Web_Api\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Asus\Desktop\Proje - Kopya\SOA_Web_Api\SOA_Web_Api\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Asus\Desktop\Proje - Kopya\SOA_Web_Api\SOA_Web_Api\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Asus\Desktop\Proje - Kopya\SOA_Web_Api\SOA_Web_Api\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Asus\Desktop\Proje - Kopya\SOA_Web_Api\SOA_Web_Api\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Asus\Desktop\Proje - Kopya\SOA_Web_Api\SOA_Web_Api\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Asus\Desktop\Proje - Kopya\SOA_Web_Api\SOA_Web_Api\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Asus\Desktop\Proje - Kopya\SOA_Web_Api\SOA_Web_Api\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\Asus\Desktop\Proje - Kopya\SOA_Web_Api\SOA_Web_Api\bin\roslyn\System.AppContext.dll
+C:\Users\Asus\Desktop\Proje - Kopya\SOA_Web_Api\SOA_Web_Api\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Asus\Desktop\Proje - Kopya\SOA_Web_Api\SOA_Web_Api\bin\roslyn\System.Console.dll
+C:\Users\Asus\Desktop\Proje - Kopya\SOA_Web_Api\SOA_Web_Api\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\Asus\Desktop\Proje - Kopya\SOA_Web_Api\SOA_Web_Api\bin\roslyn\System.Diagnostics.Process.dll
+C:\Users\Asus\Desktop\Proje - Kopya\SOA_Web_Api\SOA_Web_Api\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\Asus\Desktop\Proje - Kopya\SOA_Web_Api\SOA_Web_Api\bin\roslyn\System.IO.Compression.dll
+C:\Users\Asus\Desktop\Proje - Kopya\SOA_Web_Api\SOA_Web_Api\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\Asus\Desktop\Proje - Kopya\SOA_Web_Api\SOA_Web_Api\bin\roslyn\System.IO.FileSystem.DriveInfo.dll
+C:\Users\Asus\Desktop\Proje - Kopya\SOA_Web_Api\SOA_Web_Api\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\Asus\Desktop\Proje - Kopya\SOA_Web_Api\SOA_Web_Api\bin\roslyn\System.IO.Pipes.dll
+C:\Users\Asus\Desktop\Proje - Kopya\SOA_Web_Api\SOA_Web_Api\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Asus\Desktop\Proje - Kopya\SOA_Web_Api\SOA_Web_Api\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\Asus\Desktop\Proje - Kopya\SOA_Web_Api\SOA_Web_Api\bin\roslyn\System.Security.Claims.dll
+C:\Users\Asus\Desktop\Proje - Kopya\SOA_Web_Api\SOA_Web_Api\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\Asus\Desktop\Proje - Kopya\SOA_Web_Api\SOA_Web_Api\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\Asus\Desktop\Proje - Kopya\SOA_Web_Api\SOA_Web_Api\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\Asus\Desktop\Proje - Kopya\SOA_Web_Api\SOA_Web_Api\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\Asus\Desktop\Proje - Kopya\SOA_Web_Api\SOA_Web_Api\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\Asus\Desktop\Proje - Kopya\SOA_Web_Api\SOA_Web_Api\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\Asus\Desktop\Proje - Kopya\SOA_Web_Api\SOA_Web_Api\bin\roslyn\System.Threading.Thread.dll
+C:\Users\Asus\Desktop\Proje - Kopya\SOA_Web_Api\SOA_Web_Api\bin\roslyn\System.ValueTuple.dll
+C:\Users\Asus\Desktop\Proje - Kopya\SOA_Web_Api\SOA_Web_Api\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\Asus\Desktop\Proje - Kopya\SOA_Web_Api\SOA_Web_Api\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\Asus\Desktop\Proje - Kopya\SOA_Web_Api\SOA_Web_Api\bin\roslyn\System.Xml.XPath.dll
+C:\Users\Asus\Desktop\Proje - Kopya\SOA_Web_Api\SOA_Web_Api\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\Asus\Desktop\Proje - Kopya\SOA_Web_Api\SOA_Web_Api\bin\roslyn\vbc.exe
+C:\Users\Asus\Desktop\Proje - Kopya\SOA_Web_Api\SOA_Web_Api\bin\roslyn\vbc.exe.config
+C:\Users\Asus\Desktop\Proje - Kopya\SOA_Web_Api\SOA_Web_Api\bin\roslyn\vbc.rsp
+C:\Users\Asus\Desktop\Proje - Kopya\SOA_Web_Api\SOA_Web_Api\bin\roslyn\VBCSCompiler.exe
+C:\Users\Asus\Desktop\Proje - Kopya\SOA_Web_Api\SOA_Web_Api\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Asus\Desktop\Proje - Kopya\SOA_Web_Api\SOA_Web_Api\bin\Antlr3.Runtime.dll
+C:\Users\Asus\Desktop\Proje - Kopya\SOA_Web_Api\SOA_Web_Api\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\Asus\Desktop\Proje - Kopya\SOA_Web_Api\SOA_Web_Api\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\Asus\Desktop\Proje - Kopya\SOA_Web_Api\SOA_Web_Api\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\Asus\Desktop\Proje - Kopya\SOA_Web_Api\SOA_Web_Api\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\Asus\Desktop\Proje - Kopya\SOA_Web_Api\SOA_Web_Api\bin\Microsoft.AI.Web.dll
+C:\Users\Asus\Desktop\Proje - Kopya\SOA_Web_Api\SOA_Web_Api\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\Asus\Desktop\Proje - Kopya\SOA_Web_Api\SOA_Web_Api\bin\Microsoft.ApplicationInsights.dll
+C:\Users\Asus\Desktop\Proje - Kopya\SOA_Web_Api\SOA_Web_Api\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Asus\Desktop\Proje - Kopya\SOA_Web_Api\SOA_Web_Api\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Asus\Desktop\Proje - Kopya\SOA_Web_Api\SOA_Web_Api\bin\Newtonsoft.Json.dll
+C:\Users\Asus\Desktop\Proje - Kopya\SOA_Web_Api\SOA_Web_Api\bin\SOABusiness.dll
+C:\Users\Asus\Desktop\Proje - Kopya\SOA_Web_Api\SOA_Web_Api\bin\SOAModel.dll
+C:\Users\Asus\Desktop\Proje - Kopya\SOA_Web_Api\SOA_Web_Api\bin\System.Net.Http.Formatting.dll
+C:\Users\Asus\Desktop\Proje - Kopya\SOA_Web_Api\SOA_Web_Api\bin\System.Web.Helpers.dll
+C:\Users\Asus\Desktop\Proje - Kopya\SOA_Web_Api\SOA_Web_Api\bin\System.Web.Http.dll
+C:\Users\Asus\Desktop\Proje - Kopya\SOA_Web_Api\SOA_Web_Api\bin\System.Web.Http.WebHost.dll
+C:\Users\Asus\Desktop\Proje - Kopya\SOA_Web_Api\SOA_Web_Api\bin\System.Web.Mvc.dll
+C:\Users\Asus\Desktop\Proje - Kopya\SOA_Web_Api\SOA_Web_Api\bin\System.Web.Optimization.dll
+C:\Users\Asus\Desktop\Proje - Kopya\SOA_Web_Api\SOA_Web_Api\bin\System.Web.Razor.dll
+C:\Users\Asus\Desktop\Proje - Kopya\SOA_Web_Api\SOA_Web_Api\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Asus\Desktop\Proje - Kopya\SOA_Web_Api\SOA_Web_Api\bin\System.Web.WebPages.dll
+C:\Users\Asus\Desktop\Proje - Kopya\SOA_Web_Api\SOA_Web_Api\bin\System.Web.WebPages.Razor.dll
+C:\Users\Asus\Desktop\Proje - Kopya\SOA_Web_Api\SOA_Web_Api\bin\WebGrease.dll
+C:\Users\Asus\Desktop\Proje - Kopya\SOA_Web_Api\SOA_Web_Api\bin\SOAData.dll
+C:\Users\Asus\Desktop\Proje - Kopya\SOA_Web_Api\SOA_Web_Api\bin\SOACommons.dll
+C:\Users\Asus\Desktop\Proje - Kopya\SOA_Web_Api\SOA_Web_Api\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Asus\Desktop\Proje - Kopya\SOA_Web_Api\SOA_Web_Api\bin\SOABusiness.pdb
+C:\Users\Asus\Desktop\Proje - Kopya\SOA_Web_Api\SOA_Web_Api\bin\SOAModel.pdb
+C:\Users\Asus\Desktop\Proje - Kopya\SOA_Web_Api\SOA_Web_Api\bin\Newtonsoft.Json.xml
+C:\Users\Asus\Desktop\Proje - Kopya\SOA_Web_Api\SOA_Web_Api\bin\System.Net.Http.Formatting.xml
+C:\Users\Asus\Desktop\Proje - Kopya\SOA_Web_Api\SOA_Web_Api\bin\System.Web.Helpers.xml
+C:\Users\Asus\Desktop\Proje - Kopya\SOA_Web_Api\SOA_Web_Api\bin\System.Web.Http.xml
+C:\Users\Asus\Desktop\Proje - Kopya\SOA_Web_Api\SOA_Web_Api\bin\System.Web.Http.WebHost.xml
+C:\Users\Asus\Desktop\Proje - Kopya\SOA_Web_Api\SOA_Web_Api\bin\System.Web.Mvc.xml
+C:\Users\Asus\Desktop\Proje - Kopya\SOA_Web_Api\SOA_Web_Api\bin\System.Web.Optimization.xml
+C:\Users\Asus\Desktop\Proje - Kopya\SOA_Web_Api\SOA_Web_Api\bin\System.Web.Razor.xml
+C:\Users\Asus\Desktop\Proje - Kopya\SOA_Web_Api\SOA_Web_Api\bin\System.Web.WebPages.xml
+C:\Users\Asus\Desktop\Proje - Kopya\SOA_Web_Api\SOA_Web_Api\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Asus\Desktop\Proje - Kopya\SOA_Web_Api\SOA_Web_Api\bin\System.Web.WebPages.Razor.xml
+C:\Users\Asus\Desktop\Proje - Kopya\SOA_Web_Api\SOA_Web_Api\bin\Antlr3.Runtime.pdb
+C:\Users\Asus\Desktop\Proje - Kopya\SOA_Web_Api\SOA_Web_Api\bin\Microsoft.ApplicationInsights.xml
+C:\Users\Asus\Desktop\Proje - Kopya\SOA_Web_Api\SOA_Web_Api\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\Asus\Desktop\Proje - Kopya\SOA_Web_Api\SOA_Web_Api\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\Asus\Desktop\Proje - Kopya\SOA_Web_Api\SOA_Web_Api\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\Asus\Desktop\Proje - Kopya\SOA_Web_Api\SOA_Web_Api\bin\Microsoft.AI.Web.xml
+C:\Users\Asus\Desktop\Proje - Kopya\SOA_Web_Api\SOA_Web_Api\bin\SOAData.pdb
+C:\Users\Asus\Desktop\Proje - Kopya\SOA_Web_Api\SOA_Web_Api\bin\SOACommons.pdb
+C:\Users\Asus\Desktop\Proje - Kopya\SOA_Web_Api\SOA_Web_Api\obj\Debug\SOA_Web_Api.csprojAssemblyReference.cache
+C:\Users\Asus\Desktop\Proje - Kopya\SOA_Web_Api\SOA_Web_Api\obj\Debug\SOA_Web_Api.csproj.CoreCompileInputs.cache
+C:\Users\Asus\Desktop\Proje - Kopya\SOA_Web_Api\SOA_Web_Api\obj\Debug\SOA_Web_Api.csproj.CopyComplete
+C:\Users\Asus\Desktop\Proje - Kopya\SOA_Web_Api\SOA_Web_Api\obj\Debug\SOA_Web_Api.dll
+C:\Users\Asus\Desktop\Proje - Kopya\SOA_Web_Api\SOA_Web_Api\obj\Debug\SOA_Web_Api.pdb
+C:\Users\Asus\Desktop\Proje - Kopya - Kopya\SOA_Web_Api\SOA_Web_Api\bin\ApplicationInsights.config
+C:\Users\Asus\Desktop\Proje - Kopya - Kopya\SOA_Web_Api\SOA_Web_Api\bin\SOA_Web_Api.dll.config
+C:\Users\Asus\Desktop\Proje - Kopya - Kopya\SOA_Web_Api\SOA_Web_Api\bin\SOA_Web_Api.dll
+C:\Users\Asus\Desktop\Proje - Kopya - Kopya\SOA_Web_Api\SOA_Web_Api\bin\SOA_Web_Api.pdb
+C:\Users\Asus\Desktop\Proje - Kopya - Kopya\SOA_Web_Api\SOA_Web_Api\bin\roslyn\csc.exe
+C:\Users\Asus\Desktop\Proje - Kopya - Kopya\SOA_Web_Api\SOA_Web_Api\bin\roslyn\csc.exe.config
+C:\Users\Asus\Desktop\Proje - Kopya - Kopya\SOA_Web_Api\SOA_Web_Api\bin\roslyn\csc.rsp
+C:\Users\Asus\Desktop\Proje - Kopya - Kopya\SOA_Web_Api\SOA_Web_Api\bin\roslyn\csi.exe
+C:\Users\Asus\Desktop\Proje - Kopya - Kopya\SOA_Web_Api\SOA_Web_Api\bin\roslyn\csi.exe.config
+C:\Users\Asus\Desktop\Proje - Kopya - Kopya\SOA_Web_Api\SOA_Web_Api\bin\roslyn\csi.rsp
+C:\Users\Asus\Desktop\Proje - Kopya - Kopya\SOA_Web_Api\SOA_Web_Api\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Asus\Desktop\Proje - Kopya - Kopya\SOA_Web_Api\SOA_Web_Api\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Asus\Desktop\Proje - Kopya - Kopya\SOA_Web_Api\SOA_Web_Api\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Asus\Desktop\Proje - Kopya - Kopya\SOA_Web_Api\SOA_Web_Api\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Asus\Desktop\Proje - Kopya - Kopya\SOA_Web_Api\SOA_Web_Api\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Asus\Desktop\Proje - Kopya - Kopya\SOA_Web_Api\SOA_Web_Api\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Asus\Desktop\Proje - Kopya - Kopya\SOA_Web_Api\SOA_Web_Api\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Asus\Desktop\Proje - Kopya - Kopya\SOA_Web_Api\SOA_Web_Api\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Asus\Desktop\Proje - Kopya - Kopya\SOA_Web_Api\SOA_Web_Api\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Asus\Desktop\Proje - Kopya - Kopya\SOA_Web_Api\SOA_Web_Api\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Asus\Desktop\Proje - Kopya - Kopya\SOA_Web_Api\SOA_Web_Api\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\Asus\Desktop\Proje - Kopya - Kopya\SOA_Web_Api\SOA_Web_Api\bin\roslyn\System.AppContext.dll
+C:\Users\Asus\Desktop\Proje - Kopya - Kopya\SOA_Web_Api\SOA_Web_Api\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Asus\Desktop\Proje - Kopya - Kopya\SOA_Web_Api\SOA_Web_Api\bin\roslyn\System.Console.dll
+C:\Users\Asus\Desktop\Proje - Kopya - Kopya\SOA_Web_Api\SOA_Web_Api\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\Asus\Desktop\Proje - Kopya - Kopya\SOA_Web_Api\SOA_Web_Api\bin\roslyn\System.Diagnostics.Process.dll
+C:\Users\Asus\Desktop\Proje - Kopya - Kopya\SOA_Web_Api\SOA_Web_Api\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\Asus\Desktop\Proje - Kopya - Kopya\SOA_Web_Api\SOA_Web_Api\bin\roslyn\System.IO.Compression.dll
+C:\Users\Asus\Desktop\Proje - Kopya - Kopya\SOA_Web_Api\SOA_Web_Api\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\Asus\Desktop\Proje - Kopya - Kopya\SOA_Web_Api\SOA_Web_Api\bin\roslyn\System.IO.FileSystem.DriveInfo.dll
+C:\Users\Asus\Desktop\Proje - Kopya - Kopya\SOA_Web_Api\SOA_Web_Api\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\Asus\Desktop\Proje - Kopya - Kopya\SOA_Web_Api\SOA_Web_Api\bin\roslyn\System.IO.Pipes.dll
+C:\Users\Asus\Desktop\Proje - Kopya - Kopya\SOA_Web_Api\SOA_Web_Api\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Asus\Desktop\Proje - Kopya - Kopya\SOA_Web_Api\SOA_Web_Api\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\Asus\Desktop\Proje - Kopya - Kopya\SOA_Web_Api\SOA_Web_Api\bin\roslyn\System.Security.Claims.dll
+C:\Users\Asus\Desktop\Proje - Kopya - Kopya\SOA_Web_Api\SOA_Web_Api\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\Asus\Desktop\Proje - Kopya - Kopya\SOA_Web_Api\SOA_Web_Api\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\Asus\Desktop\Proje - Kopya - Kopya\SOA_Web_Api\SOA_Web_Api\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\Asus\Desktop\Proje - Kopya - Kopya\SOA_Web_Api\SOA_Web_Api\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\Asus\Desktop\Proje - Kopya - Kopya\SOA_Web_Api\SOA_Web_Api\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\Asus\Desktop\Proje - Kopya - Kopya\SOA_Web_Api\SOA_Web_Api\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\Asus\Desktop\Proje - Kopya - Kopya\SOA_Web_Api\SOA_Web_Api\bin\roslyn\System.Threading.Thread.dll
+C:\Users\Asus\Desktop\Proje - Kopya - Kopya\SOA_Web_Api\SOA_Web_Api\bin\roslyn\System.ValueTuple.dll
+C:\Users\Asus\Desktop\Proje - Kopya - Kopya\SOA_Web_Api\SOA_Web_Api\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\Asus\Desktop\Proje - Kopya - Kopya\SOA_Web_Api\SOA_Web_Api\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\Asus\Desktop\Proje - Kopya - Kopya\SOA_Web_Api\SOA_Web_Api\bin\roslyn\System.Xml.XPath.dll
+C:\Users\Asus\Desktop\Proje - Kopya - Kopya\SOA_Web_Api\SOA_Web_Api\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\Asus\Desktop\Proje - Kopya - Kopya\SOA_Web_Api\SOA_Web_Api\bin\roslyn\vbc.exe
+C:\Users\Asus\Desktop\Proje - Kopya - Kopya\SOA_Web_Api\SOA_Web_Api\bin\roslyn\vbc.exe.config
+C:\Users\Asus\Desktop\Proje - Kopya - Kopya\SOA_Web_Api\SOA_Web_Api\bin\roslyn\vbc.rsp
+C:\Users\Asus\Desktop\Proje - Kopya - Kopya\SOA_Web_Api\SOA_Web_Api\bin\roslyn\VBCSCompiler.exe
+C:\Users\Asus\Desktop\Proje - Kopya - Kopya\SOA_Web_Api\SOA_Web_Api\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Asus\Desktop\Proje - Kopya - Kopya\SOA_Web_Api\SOA_Web_Api\bin\Antlr3.Runtime.dll
+C:\Users\Asus\Desktop\Proje - Kopya - Kopya\SOA_Web_Api\SOA_Web_Api\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\Asus\Desktop\Proje - Kopya - Kopya\SOA_Web_Api\SOA_Web_Api\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\Asus\Desktop\Proje - Kopya - Kopya\SOA_Web_Api\SOA_Web_Api\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\Asus\Desktop\Proje - Kopya - Kopya\SOA_Web_Api\SOA_Web_Api\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\Asus\Desktop\Proje - Kopya - Kopya\SOA_Web_Api\SOA_Web_Api\bin\Microsoft.AI.Web.dll
+C:\Users\Asus\Desktop\Proje - Kopya - Kopya\SOA_Web_Api\SOA_Web_Api\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\Asus\Desktop\Proje - Kopya - Kopya\SOA_Web_Api\SOA_Web_Api\bin\Microsoft.ApplicationInsights.dll
+C:\Users\Asus\Desktop\Proje - Kopya - Kopya\SOA_Web_Api\SOA_Web_Api\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Asus\Desktop\Proje - Kopya - Kopya\SOA_Web_Api\SOA_Web_Api\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Asus\Desktop\Proje - Kopya - Kopya\SOA_Web_Api\SOA_Web_Api\bin\Newtonsoft.Json.dll
+C:\Users\Asus\Desktop\Proje - Kopya - Kopya\SOA_Web_Api\SOA_Web_Api\bin\SOABusiness.dll
+C:\Users\Asus\Desktop\Proje - Kopya - Kopya\SOA_Web_Api\SOA_Web_Api\bin\SOAModel.dll
+C:\Users\Asus\Desktop\Proje - Kopya - Kopya\SOA_Web_Api\SOA_Web_Api\bin\System.Net.Http.Formatting.dll
+C:\Users\Asus\Desktop\Proje - Kopya - Kopya\SOA_Web_Api\SOA_Web_Api\bin\System.Web.Helpers.dll
+C:\Users\Asus\Desktop\Proje - Kopya - Kopya\SOA_Web_Api\SOA_Web_Api\bin\System.Web.Http.dll
+C:\Users\Asus\Desktop\Proje - Kopya - Kopya\SOA_Web_Api\SOA_Web_Api\bin\System.Web.Http.WebHost.dll
+C:\Users\Asus\Desktop\Proje - Kopya - Kopya\SOA_Web_Api\SOA_Web_Api\bin\System.Web.Mvc.dll
+C:\Users\Asus\Desktop\Proje - Kopya - Kopya\SOA_Web_Api\SOA_Web_Api\bin\System.Web.Optimization.dll
+C:\Users\Asus\Desktop\Proje - Kopya - Kopya\SOA_Web_Api\SOA_Web_Api\bin\System.Web.Razor.dll
+C:\Users\Asus\Desktop\Proje - Kopya - Kopya\SOA_Web_Api\SOA_Web_Api\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Asus\Desktop\Proje - Kopya - Kopya\SOA_Web_Api\SOA_Web_Api\bin\System.Web.WebPages.dll
+C:\Users\Asus\Desktop\Proje - Kopya - Kopya\SOA_Web_Api\SOA_Web_Api\bin\System.Web.WebPages.Razor.dll
+C:\Users\Asus\Desktop\Proje - Kopya - Kopya\SOA_Web_Api\SOA_Web_Api\bin\WebGrease.dll
+C:\Users\Asus\Desktop\Proje - Kopya - Kopya\SOA_Web_Api\SOA_Web_Api\bin\SOAData.dll
+C:\Users\Asus\Desktop\Proje - Kopya - Kopya\SOA_Web_Api\SOA_Web_Api\bin\SOACommons.dll
+C:\Users\Asus\Desktop\Proje - Kopya - Kopya\SOA_Web_Api\SOA_Web_Api\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Asus\Desktop\Proje - Kopya - Kopya\SOA_Web_Api\SOA_Web_Api\bin\SOABusiness.pdb
+C:\Users\Asus\Desktop\Proje - Kopya - Kopya\SOA_Web_Api\SOA_Web_Api\bin\SOAModel.pdb
+C:\Users\Asus\Desktop\Proje - Kopya - Kopya\SOA_Web_Api\SOA_Web_Api\bin\Newtonsoft.Json.xml
+C:\Users\Asus\Desktop\Proje - Kopya - Kopya\SOA_Web_Api\SOA_Web_Api\bin\System.Net.Http.Formatting.xml
+C:\Users\Asus\Desktop\Proje - Kopya - Kopya\SOA_Web_Api\SOA_Web_Api\bin\System.Web.Helpers.xml
+C:\Users\Asus\Desktop\Proje - Kopya - Kopya\SOA_Web_Api\SOA_Web_Api\bin\System.Web.Http.xml
+C:\Users\Asus\Desktop\Proje - Kopya - Kopya\SOA_Web_Api\SOA_Web_Api\bin\System.Web.Http.WebHost.xml
+C:\Users\Asus\Desktop\Proje - Kopya - Kopya\SOA_Web_Api\SOA_Web_Api\bin\System.Web.Mvc.xml
+C:\Users\Asus\Desktop\Proje - Kopya - Kopya\SOA_Web_Api\SOA_Web_Api\bin\System.Web.Optimization.xml
+C:\Users\Asus\Desktop\Proje - Kopya - Kopya\SOA_Web_Api\SOA_Web_Api\bin\System.Web.Razor.xml
+C:\Users\Asus\Desktop\Proje - Kopya - Kopya\SOA_Web_Api\SOA_Web_Api\bin\System.Web.WebPages.xml
+C:\Users\Asus\Desktop\Proje - Kopya - Kopya\SOA_Web_Api\SOA_Web_Api\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Asus\Desktop\Proje - Kopya - Kopya\SOA_Web_Api\SOA_Web_Api\bin\System.Web.WebPages.Razor.xml
+C:\Users\Asus\Desktop\Proje - Kopya - Kopya\SOA_Web_Api\SOA_Web_Api\bin\Antlr3.Runtime.pdb
+C:\Users\Asus\Desktop\Proje - Kopya - Kopya\SOA_Web_Api\SOA_Web_Api\bin\Microsoft.ApplicationInsights.xml
+C:\Users\Asus\Desktop\Proje - Kopya - Kopya\SOA_Web_Api\SOA_Web_Api\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\Asus\Desktop\Proje - Kopya - Kopya\SOA_Web_Api\SOA_Web_Api\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\Asus\Desktop\Proje - Kopya - Kopya\SOA_Web_Api\SOA_Web_Api\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\Asus\Desktop\Proje - Kopya - Kopya\SOA_Web_Api\SOA_Web_Api\bin\Microsoft.AI.Web.xml
+C:\Users\Asus\Desktop\Proje - Kopya - Kopya\SOA_Web_Api\SOA_Web_Api\bin\SOAData.pdb
+C:\Users\Asus\Desktop\Proje - Kopya - Kopya\SOA_Web_Api\SOA_Web_Api\bin\SOACommons.pdb
+C:\Users\Asus\Desktop\Proje - Kopya - Kopya\SOA_Web_Api\SOA_Web_Api\obj\Debug\SOA_Web_Api.csprojAssemblyReference.cache
+C:\Users\Asus\Desktop\Proje - Kopya - Kopya\SOA_Web_Api\SOA_Web_Api\obj\Debug\SOA_Web_Api.csproj.CoreCompileInputs.cache
+C:\Users\Asus\Desktop\Proje - Kopya - Kopya\SOA_Web_Api\SOA_Web_Api\obj\Debug\SOA_Web_Api.csproj.CopyComplete
+C:\Users\Asus\Desktop\Proje - Kopya - Kopya\SOA_Web_Api\SOA_Web_Api\obj\Debug\SOA_Web_Api.dll
+C:\Users\Asus\Desktop\Proje - Kopya - Kopya\SOA_Web_Api\SOA_Web_Api\obj\Debug\SOA_Web_Api.pdb

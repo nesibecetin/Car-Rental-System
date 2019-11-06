@@ -1,0 +1,355 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<edmx:Edmx Version="3.0" xmlns:edmx="http://schemas.microsoft.com/ado/2009/11/edmx">
+  <!-- EF Runtime content -->
+  <edmx:Runtime>
+    <!-- SSDL content -->
+    <edmx:StorageModels>
+      <Schema Namespace="SOAProjeModel.Store" Provider="System.Data.SqlClient" ProviderManifestToken="2012" Alias="Self" xmlns:store="http://schemas.microsoft.com/ado/2007/12/edm/EntityStoreSchemaGenerator" xmlns:customannotation="http://schemas.microsoft.com/ado/2013/11/edm/customannotation" xmlns="http://schemas.microsoft.com/ado/2009/11/edm/ssdl">
+        <EntityType Name="Araba">
+          <Key>
+            <PropertyRef Name="AracID" />
+          </Key>
+          <Property Name="AracID" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+          <Property Name="AracMarka" Type="nvarchar" MaxLength="50" />
+          <Property Name="AracModel" Type="nvarchar" MaxLength="50" />
+          <Property Name="Plaka" Type="nvarchar" MaxLength="50" />
+          <Property Name="EhliyetYasi" Type="nvarchar" MaxLength="50" />
+          <Property Name="YasSiniri" Type="nvarchar" MaxLength="50" />
+          <Property Name="GunlukSinirKilometre" Type="int" />
+          <Property Name="AnlikKilometre" Type="int" />
+          <Property Name="Airbag" Type="bit" />
+          <Property Name="BagajHacmi" Type="int" />
+          <Property Name="KoltukSayisi" Type="int" />
+          <Property Name="KiralamaBedeli" Type="int" />
+          <Property Name="Sirket" Type="int" />
+        </EntityType>
+        <EntityType Name="KiralamaBilgi">
+          <Key>
+            <PropertyRef Name="KiralamaID" />
+          </Key>
+          <Property Name="KiralamaID" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+          <Property Name="VerilisTarihi" Type="nvarchar" MaxLength="50" />
+          <Property Name="AlinisTarihi" Type="nvarchar" MaxLength="50" />
+          <Property Name="VerilisKilometre" Type="int" />
+          <Property Name="GidilenKilometre" Type="int" />
+          <Property Name="AlinanUcret" Type="int" />
+          <Property Name="Kullanici" Type="int" />
+          <Property Name="Arac" Type="int" />
+        </EntityType>
+        <EntityType Name="Kullanici">
+          <Key>
+            <PropertyRef Name="KullaniciID" />
+          </Key>
+          <Property Name="KullaniciID" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+          <Property Name="Ad" Type="nvarchar" MaxLength="50" />
+          <Property Name="Soyad" Type="nvarchar" MaxLength="50" />
+          <Property Name="Adres" Type="nvarchar" MaxLength="50" />
+          <Property Name="Telefon" Type="nvarchar" MaxLength="50" />
+          <Property Name="Email" Type="nvarchar" MaxLength="50" />
+          <Property Name="Sifre" Type="nvarchar" MaxLength="50" />
+          <Property Name="Rol" Type="varchar" MaxLength="50" />
+        </EntityType>
+        <EntityType Name="Sirket">
+          <Key>
+            <PropertyRef Name="SirketID" />
+          </Key>
+          <Property Name="SirketID" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+          <Property Name="SirketAd" Type="nvarchar" MaxLength="50" />
+          <Property Name="Sehir" Type="nvarchar" MaxLength="50" />
+          <Property Name="SirketAdres" Type="nvarchar" MaxLength="50" />
+          <Property Name="AracSayisi" Type="int" />
+        </EntityType>
+        <EntityType Name="sysdiagrams">
+          <Key>
+            <PropertyRef Name="diagram_id" />
+          </Key>
+          <Property Name="name" Type="nvarchar" MaxLength="128" Nullable="false" />
+          <Property Name="principal_id" Type="int" Nullable="false" />
+          <Property Name="diagram_id" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+          <Property Name="version" Type="int" />
+          <Property Name="definition" Type="varbinary(max)" />
+        </EntityType>
+        <Association Name="FK_Araba_Sirket">
+          <End Role="Sirket" Type="Self.Sirket" Multiplicity="0..1" />
+          <End Role="Araba" Type="Self.Araba" Multiplicity="*" />
+          <ReferentialConstraint>
+            <Principal Role="Sirket">
+              <PropertyRef Name="SirketID" />
+            </Principal>
+            <Dependent Role="Araba">
+              <PropertyRef Name="Sirket" />
+            </Dependent>
+          </ReferentialConstraint>
+        </Association>
+        <Association Name="FK_KiralamaBilgi_Araba">
+          <End Role="Araba" Type="Self.Araba" Multiplicity="0..1" />
+          <End Role="KiralamaBilgi" Type="Self.KiralamaBilgi" Multiplicity="*" />
+          <ReferentialConstraint>
+            <Principal Role="Araba">
+              <PropertyRef Name="AracID" />
+            </Principal>
+            <Dependent Role="KiralamaBilgi">
+              <PropertyRef Name="Arac" />
+            </Dependent>
+          </ReferentialConstraint>
+        </Association>
+        <Association Name="FK_KiralamaBilgi_Kullanici">
+          <End Role="Kullanici" Type="Self.Kullanici" Multiplicity="0..1" />
+          <End Role="KiralamaBilgi" Type="Self.KiralamaBilgi" Multiplicity="*" />
+          <ReferentialConstraint>
+            <Principal Role="Kullanici">
+              <PropertyRef Name="KullaniciID" />
+            </Principal>
+            <Dependent Role="KiralamaBilgi">
+              <PropertyRef Name="Kullanici" />
+            </Dependent>
+          </ReferentialConstraint>
+        </Association>
+        <EntityContainer Name="SOAProjeModelStoreContainer">
+          <EntitySet Name="Araba" EntityType="Self.Araba" Schema="dbo" store:Type="Tables" />
+          <EntitySet Name="KiralamaBilgi" EntityType="Self.KiralamaBilgi" Schema="dbo" store:Type="Tables" />
+          <EntitySet Name="Kullanici" EntityType="Self.Kullanici" Schema="dbo" store:Type="Tables" />
+          <EntitySet Name="Sirket" EntityType="Self.Sirket" Schema="dbo" store:Type="Tables" />
+          <EntitySet Name="sysdiagrams" EntityType="Self.sysdiagrams" Schema="dbo" store:Type="Tables" />
+          <AssociationSet Name="FK_Araba_Sirket" Association="Self.FK_Araba_Sirket">
+            <End Role="Sirket" EntitySet="Sirket" />
+            <End Role="Araba" EntitySet="Araba" />
+          </AssociationSet>
+          <AssociationSet Name="FK_KiralamaBilgi_Araba" Association="Self.FK_KiralamaBilgi_Araba">
+            <End Role="Araba" EntitySet="Araba" />
+            <End Role="KiralamaBilgi" EntitySet="KiralamaBilgi" />
+          </AssociationSet>
+          <AssociationSet Name="FK_KiralamaBilgi_Kullanici" Association="Self.FK_KiralamaBilgi_Kullanici">
+            <End Role="Kullanici" EntitySet="Kullanici" />
+            <End Role="KiralamaBilgi" EntitySet="KiralamaBilgi" />
+          </AssociationSet>
+        </EntityContainer>
+      </Schema>
+    </edmx:StorageModels>
+    <!-- CSDL content -->
+    <edmx:ConceptualModels>
+      <Schema Namespace="SOAProjeModel" Alias="Self" annotation:UseStrongSpatialTypes="false" xmlns:annotation="http://schemas.microsoft.com/ado/2009/02/edm/annotation" xmlns:customannotation="http://schemas.microsoft.com/ado/2013/11/edm/customannotation" xmlns="http://schemas.microsoft.com/ado/2009/11/edm">
+        <EntityType Name="Araba">
+          <Key>
+            <PropertyRef Name="AracID" />
+          </Key>
+          <Property Name="AracID" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+          <Property Name="AracMarka" Type="String" MaxLength="50" FixedLength="false" Unicode="true" />
+          <Property Name="AracModel" Type="String" MaxLength="50" FixedLength="false" Unicode="true" />
+          <Property Name="Plaka" Type="String" MaxLength="50" FixedLength="false" Unicode="true" />
+          <Property Name="EhliyetYasi" Type="String" MaxLength="50" FixedLength="false" Unicode="true" />
+          <Property Name="YasSiniri" Type="String" MaxLength="50" FixedLength="false" Unicode="true" />
+          <Property Name="GunlukSinirKilometre" Type="Int32" />
+          <Property Name="AnlikKilometre" Type="Int32" />
+          <Property Name="Airbag" Type="Boolean" />
+          <Property Name="BagajHacmi" Type="Int32" />
+          <Property Name="KoltukSayisi" Type="Int32" />
+          <Property Name="KiralamaBedeli" Type="Int32" />
+          <Property Name="Sirket" Type="Int32" />
+          <NavigationProperty Name="Sirket1" Relationship="Self.FK_Araba_Sirket" FromRole="Araba" ToRole="Sirket" />
+          <NavigationProperty Name="KiralamaBilgi" Relationship="Self.FK_KiralamaBilgi_Araba" FromRole="Araba" ToRole="KiralamaBilgi" />
+        </EntityType>
+        <EntityType Name="KiralamaBilgi">
+          <Key>
+            <PropertyRef Name="KiralamaID" />
+          </Key>
+          <Property Name="KiralamaID" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+          <Property Name="VerilisTarihi" Type="String" MaxLength="50" FixedLength="false" Unicode="true" />
+          <Property Name="AlinisTarihi" Type="String" MaxLength="50" FixedLength="false" Unicode="true" />
+          <Property Name="VerilisKilometre" Type="Int32" />
+          <Property Name="GidilenKilometre" Type="Int32" />
+          <Property Name="AlinanUcret" Type="Int32" />
+          <Property Name="Kullanici" Type="Int32" />
+          <Property Name="Arac" Type="Int32" />
+          <NavigationProperty Name="Araba" Relationship="Self.FK_KiralamaBilgi_Araba" FromRole="KiralamaBilgi" ToRole="Araba" />
+          <NavigationProperty Name="Kullanici1" Relationship="Self.FK_KiralamaBilgi_Kullanici" FromRole="KiralamaBilgi" ToRole="Kullanici" />
+        </EntityType>
+        <EntityType Name="Kullanici">
+          <Key>
+            <PropertyRef Name="KullaniciID" />
+          </Key>
+          <Property Name="KullaniciID" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+          <Property Name="Ad" Type="String" MaxLength="50" FixedLength="false" Unicode="true" />
+          <Property Name="Soyad" Type="String" MaxLength="50" FixedLength="false" Unicode="true" />
+          <Property Name="Adres" Type="String" MaxLength="50" FixedLength="false" Unicode="true" />
+          <Property Name="Telefon" Type="String" MaxLength="50" FixedLength="false" Unicode="true" />
+          <Property Name="Email" Type="String" MaxLength="50" FixedLength="false" Unicode="true" />
+          <Property Name="Sifre" Type="String" MaxLength="50" FixedLength="false" Unicode="true" />
+          <Property Name="Rol" Type="String" MaxLength="50" FixedLength="false" Unicode="false" />
+          <NavigationProperty Name="KiralamaBilgi" Relationship="Self.FK_KiralamaBilgi_Kullanici" FromRole="Kullanici" ToRole="KiralamaBilgi" />
+        </EntityType>
+        <EntityType Name="Sirket">
+          <Key>
+            <PropertyRef Name="SirketID" />
+          </Key>
+          <Property Name="SirketID" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+          <Property Name="SirketAd" Type="String" MaxLength="50" FixedLength="false" Unicode="true" />
+          <Property Name="Sehir" Type="String" MaxLength="50" FixedLength="false" Unicode="true" />
+          <Property Name="SirketAdres" Type="String" MaxLength="50" FixedLength="false" Unicode="true" />
+          <Property Name="AracSayisi" Type="Int32" />
+          <NavigationProperty Name="Araba" Relationship="Self.FK_Araba_Sirket" FromRole="Sirket" ToRole="Araba" />
+        </EntityType>
+        <EntityType Name="sysdiagrams">
+          <Key>
+            <PropertyRef Name="diagram_id" />
+          </Key>
+          <Property Name="name" Type="String" MaxLength="128" FixedLength="false" Unicode="true" Nullable="false" />
+          <Property Name="principal_id" Type="Int32" Nullable="false" />
+          <Property Name="diagram_id" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+          <Property Name="version" Type="Int32" />
+          <Property Name="definition" Type="Binary" MaxLength="Max" FixedLength="false" />
+        </EntityType>
+        <Association Name="FK_Araba_Sirket">
+          <End Role="Sirket" Type="Self.Sirket" Multiplicity="0..1" />
+          <End Role="Araba" Type="Self.Araba" Multiplicity="*" />
+          <ReferentialConstraint>
+            <Principal Role="Sirket">
+              <PropertyRef Name="SirketID" />
+            </Principal>
+            <Dependent Role="Araba">
+              <PropertyRef Name="Sirket" />
+            </Dependent>
+          </ReferentialConstraint>
+        </Association>
+        <Association Name="FK_KiralamaBilgi_Araba">
+          <End Role="Araba" Type="Self.Araba" Multiplicity="0..1" />
+          <End Role="KiralamaBilgi" Type="Self.KiralamaBilgi" Multiplicity="*" />
+          <ReferentialConstraint>
+            <Principal Role="Araba">
+              <PropertyRef Name="AracID" />
+            </Principal>
+            <Dependent Role="KiralamaBilgi">
+              <PropertyRef Name="Arac" />
+            </Dependent>
+          </ReferentialConstraint>
+        </Association>
+        <Association Name="FK_KiralamaBilgi_Kullanici">
+          <End Role="Kullanici" Type="Self.Kullanici" Multiplicity="0..1" />
+          <End Role="KiralamaBilgi" Type="Self.KiralamaBilgi" Multiplicity="*" />
+          <ReferentialConstraint>
+            <Principal Role="Kullanici">
+              <PropertyRef Name="KullaniciID" />
+            </Principal>
+            <Dependent Role="KiralamaBilgi">
+              <PropertyRef Name="Kullanici" />
+            </Dependent>
+          </ReferentialConstraint>
+        </Association>
+        <EntityContainer Name="SOAProjeEntities1" annotation:LazyLoadingEnabled="true">
+          <EntitySet Name="Araba" EntityType="Self.Araba" />
+          <EntitySet Name="KiralamaBilgi" EntityType="Self.KiralamaBilgi" />
+          <EntitySet Name="Kullanici" EntityType="Self.Kullanici" />
+          <EntitySet Name="Sirket" EntityType="Self.Sirket" />
+          <EntitySet Name="sysdiagrams" EntityType="Self.sysdiagrams" />
+          <AssociationSet Name="FK_Araba_Sirket" Association="Self.FK_Araba_Sirket">
+            <End Role="Sirket" EntitySet="Sirket" />
+            <End Role="Araba" EntitySet="Araba" />
+          </AssociationSet>
+          <AssociationSet Name="FK_KiralamaBilgi_Araba" Association="Self.FK_KiralamaBilgi_Araba">
+            <End Role="Araba" EntitySet="Araba" />
+            <End Role="KiralamaBilgi" EntitySet="KiralamaBilgi" />
+          </AssociationSet>
+          <AssociationSet Name="FK_KiralamaBilgi_Kullanici" Association="Self.FK_KiralamaBilgi_Kullanici">
+            <End Role="Kullanici" EntitySet="Kullanici" />
+            <End Role="KiralamaBilgi" EntitySet="KiralamaBilgi" />
+          </AssociationSet>
+        </EntityContainer>
+      </Schema>
+    </edmx:ConceptualModels>
+    <!-- C-S mapping content -->
+    <edmx:Mappings>
+      <Mapping Space="C-S" xmlns="http://schemas.microsoft.com/ado/2009/11/mapping/cs">
+        <EntityContainerMapping StorageEntityContainer="SOAProjeModelStoreContainer" CdmEntityContainer="SOAProjeEntities1">
+          <EntitySetMapping Name="Araba">
+            <EntityTypeMapping TypeName="SOAProjeModel.Araba">
+              <MappingFragment StoreEntitySet="Araba">
+                <ScalarProperty Name="AracID" ColumnName="AracID" />
+                <ScalarProperty Name="AracMarka" ColumnName="AracMarka" />
+                <ScalarProperty Name="AracModel" ColumnName="AracModel" />
+                <ScalarProperty Name="Plaka" ColumnName="Plaka" />
+                <ScalarProperty Name="EhliyetYasi" ColumnName="EhliyetYasi" />
+                <ScalarProperty Name="YasSiniri" ColumnName="YasSiniri" />
+                <ScalarProperty Name="GunlukSinirKilometre" ColumnName="GunlukSinirKilometre" />
+                <ScalarProperty Name="AnlikKilometre" ColumnName="AnlikKilometre" />
+                <ScalarProperty Name="Airbag" ColumnName="Airbag" />
+                <ScalarProperty Name="BagajHacmi" ColumnName="BagajHacmi" />
+                <ScalarProperty Name="KoltukSayisi" ColumnName="KoltukSayisi" />
+                <ScalarProperty Name="KiralamaBedeli" ColumnName="KiralamaBedeli" />
+                <ScalarProperty Name="Sirket" ColumnName="Sirket" />
+              </MappingFragment>
+            </EntityTypeMapping>
+          </EntitySetMapping>
+          <EntitySetMapping Name="KiralamaBilgi">
+            <EntityTypeMapping TypeName="SOAProjeModel.KiralamaBilgi">
+              <MappingFragment StoreEntitySet="KiralamaBilgi">
+                <ScalarProperty Name="KiralamaID" ColumnName="KiralamaID" />
+                <ScalarProperty Name="VerilisTarihi" ColumnName="VerilisTarihi" />
+                <ScalarProperty Name="AlinisTarihi" ColumnName="AlinisTarihi" />
+                <ScalarProperty Name="VerilisKilometre" ColumnName="VerilisKilometre" />
+                <ScalarProperty Name="GidilenKilometre" ColumnName="GidilenKilometre" />
+                <ScalarProperty Name="AlinanUcret" ColumnName="AlinanUcret" />
+                <ScalarProperty Name="Kullanici" ColumnName="Kullanici" />
+                <ScalarProperty Name="Arac" ColumnName="Arac" />
+              </MappingFragment>
+            </EntityTypeMapping>
+          </EntitySetMapping>
+          <EntitySetMapping Name="Kullanici">
+            <EntityTypeMapping TypeName="SOAProjeModel.Kullanici">
+              <MappingFragment StoreEntitySet="Kullanici">
+                <ScalarProperty Name="KullaniciID" ColumnName="KullaniciID" />
+                <ScalarProperty Name="Ad" ColumnName="Ad" />
+                <ScalarProperty Name="Soyad" ColumnName="Soyad" />
+                <ScalarProperty Name="Adres" ColumnName="Adres" />
+                <ScalarProperty Name="Telefon" ColumnName="Telefon" />
+                <ScalarProperty Name="Email" ColumnName="Email" />
+                <ScalarProperty Name="Sifre" ColumnName="Sifre" />
+                <ScalarProperty Name="Rol" ColumnName="Rol" />
+              </MappingFragment>
+            </EntityTypeMapping>
+          </EntitySetMapping>
+          <EntitySetMapping Name="Sirket">
+            <EntityTypeMapping TypeName="SOAProjeModel.Sirket">
+              <MappingFragment StoreEntitySet="Sirket">
+                <ScalarProperty Name="SirketID" ColumnName="SirketID" />
+                <ScalarProperty Name="SirketAd" ColumnName="SirketAd" />
+                <ScalarProperty Name="Sehir" ColumnName="Sehir" />
+                <ScalarProperty Name="SirketAdres" ColumnName="SirketAdres" />
+                <ScalarProperty Name="AracSayisi" ColumnName="AracSayisi" />
+              </MappingFragment>
+            </EntityTypeMapping>
+          </EntitySetMapping>
+          <EntitySetMapping Name="sysdiagrams">
+            <EntityTypeMapping TypeName="SOAProjeModel.sysdiagrams">
+              <MappingFragment StoreEntitySet="sysdiagrams">
+                <ScalarProperty Name="name" ColumnName="name" />
+                <ScalarProperty Name="principal_id" ColumnName="principal_id" />
+                <ScalarProperty Name="diagram_id" ColumnName="diagram_id" />
+                <ScalarProperty Name="version" ColumnName="version" />
+                <ScalarProperty Name="definition" ColumnName="definition" />
+              </MappingFragment>
+            </EntityTypeMapping>
+          </EntitySetMapping>
+        </EntityContainerMapping>
+      </Mapping>
+    </edmx:Mappings>
+  </edmx:Runtime>
+  <!-- EF Designer content (DO NOT EDIT MANUALLY BELOW HERE) -->
+  <Designer xmlns="http://schemas.microsoft.com/ado/2009/11/edmx">
+    <Connection>
+      <DesignerInfoPropertySet>
+        <DesignerProperty Name="MetadataArtifactProcessing" Value="EmbedInOutputAssembly" />
+      </DesignerInfoPropertySet>
+    </Connection>
+    <Options>
+      <DesignerInfoPropertySet>
+        <DesignerProperty Name="ValidateOnBuild" Value="true" />
+        <DesignerProperty Name="EnablePluralization" Value="false" />
+        <DesignerProperty Name="IncludeForeignKeysInModel" Value="true" />
+        <DesignerProperty Name="UseLegacyProvider" Value="false" />
+        <DesignerProperty Name="CodeGenerationStrategy" Value="None" />
+      </DesignerInfoPropertySet>
+    </Options>
+    <!-- Diagram content (shape and connector positions) -->
+    <Diagrams></Diagrams>
+  </Designer>
+</edmx:Edmx>

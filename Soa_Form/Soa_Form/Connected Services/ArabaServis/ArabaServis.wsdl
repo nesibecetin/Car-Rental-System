@@ -1,0 +1,128 @@
+<?xml version="1.0" encoding="utf-8"?>
+<wsdl:definitions xmlns:soap="http://schemas.xmlsoap.org/wsdl/soap/" xmlns:soapenc="http://schemas.xmlsoap.org/soap/encoding/" xmlns:tm="http://microsoft.com/wsdl/mime/textMatching/" xmlns:mime="http://schemas.xmlsoap.org/wsdl/mime/" xmlns:tns="http://tempuri.org/" xmlns:http="http://schemas.xmlsoap.org/wsdl/http/" xmlns:s="http://www.w3.org/2001/XMLSchema" xmlns:soap12="http://schemas.xmlsoap.org/wsdl/soap12/" targetNamespace="http://tempuri.org/" xmlns:wsdl="http://schemas.xmlsoap.org/wsdl/">
+  <wsdl:types>
+    <s:schema elementFormDefault="qualified" targetNamespace="http://tempuri.org/">
+      <s:element name="InsertAraba">
+        <s:complexType>
+          <s:sequence>
+            <s:element minOccurs="0" maxOccurs="1" name="entity" type="tns:Araba" />
+          </s:sequence>
+        </s:complexType>
+      </s:element>
+      <s:complexType name="Araba">
+        <s:sequence>
+          <s:element minOccurs="1" maxOccurs="1" name="AracID" type="s:int" />
+          <s:element minOccurs="0" maxOccurs="1" name="AracMarka" type="s:string" />
+          <s:element minOccurs="0" maxOccurs="1" name="AracModel" type="s:string" />
+          <s:element minOccurs="0" maxOccurs="1" name="Plaka" type="s:string" />
+          <s:element minOccurs="1" maxOccurs="1" name="EhliyetYasi" type="s:int" />
+          <s:element minOccurs="1" maxOccurs="1" name="YasSiniri" type="s:int" />
+          <s:element minOccurs="1" maxOccurs="1" name="GunkukSinirKilometre" type="s:int" />
+          <s:element minOccurs="1" maxOccurs="1" name="AnlikKilometre" type="s:int" />
+          <s:element minOccurs="0" maxOccurs="1" name="Airbag" type="s:string" />
+          <s:element minOccurs="1" maxOccurs="1" name="BagajHacmi" type="s:int" />
+          <s:element minOccurs="1" maxOccurs="1" name="KoltukSayisi" type="s:int" />
+          <s:element minOccurs="1" maxOccurs="1" name="KiralamaBedeli" type="s:int" />
+          <s:element minOccurs="1" maxOccurs="1" name="Sirket" type="s:int" />
+          <s:element minOccurs="0" maxOccurs="1" name="Resim" type="s:string" />
+          <s:element minOccurs="0" maxOccurs="1" name="Durum" type="s:string" />
+          <s:element minOccurs="0" maxOccurs="1" name="AraList" type="tns:ArrayOfAraba" />
+        </s:sequence>
+      </s:complexType>
+      <s:complexType name="ArrayOfAraba">
+        <s:sequence>
+          <s:element minOccurs="0" maxOccurs="unbounded" name="Araba" nillable="true" type="tns:Araba" />
+        </s:sequence>
+      </s:complexType>
+      <s:element name="InsertArabaResponse">
+        <s:complexType>
+          <s:sequence>
+            <s:element minOccurs="1" maxOccurs="1" name="InsertArabaResult" type="s:boolean" />
+          </s:sequence>
+        </s:complexType>
+      </s:element>
+      <s:element name="SelectAllAraba">
+        <s:complexType />
+      </s:element>
+      <s:element name="SelectAllArabaResponse">
+        <s:complexType>
+          <s:sequence>
+            <s:element minOccurs="0" maxOccurs="1" name="SelectAllArabaResult" type="tns:ArrayOfAraba" />
+          </s:sequence>
+        </s:complexType>
+      </s:element>
+    </s:schema>
+  </wsdl:types>
+  <wsdl:message name="InsertArabaSoapIn">
+    <wsdl:part name="parameters" element="tns:InsertAraba" />
+  </wsdl:message>
+  <wsdl:message name="InsertArabaSoapOut">
+    <wsdl:part name="parameters" element="tns:InsertArabaResponse" />
+  </wsdl:message>
+  <wsdl:message name="SelectAllArabaSoapIn">
+    <wsdl:part name="parameters" element="tns:SelectAllAraba" />
+  </wsdl:message>
+  <wsdl:message name="SelectAllArabaSoapOut">
+    <wsdl:part name="parameters" element="tns:SelectAllArabaResponse" />
+  </wsdl:message>
+  <wsdl:portType name="ArabaServisSoap">
+    <wsdl:operation name="InsertAraba">
+      <wsdl:input message="tns:InsertArabaSoapIn" />
+      <wsdl:output message="tns:InsertArabaSoapOut" />
+    </wsdl:operation>
+    <wsdl:operation name="SelectAllAraba">
+      <wsdl:input message="tns:SelectAllArabaSoapIn" />
+      <wsdl:output message="tns:SelectAllArabaSoapOut" />
+    </wsdl:operation>
+  </wsdl:portType>
+  <wsdl:binding name="ArabaServisSoap" type="tns:ArabaServisSoap">
+    <soap:binding transport="http://schemas.xmlsoap.org/soap/http" />
+    <wsdl:operation name="InsertAraba">
+      <soap:operation soapAction="http://tempuri.org/InsertAraba" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="SelectAllAraba">
+      <soap:operation soapAction="http://tempuri.org/SelectAllAraba" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+  </wsdl:binding>
+  <wsdl:binding name="ArabaServisSoap12" type="tns:ArabaServisSoap">
+    <soap12:binding transport="http://schemas.xmlsoap.org/soap/http" />
+    <wsdl:operation name="InsertAraba">
+      <soap12:operation soapAction="http://tempuri.org/InsertAraba" style="document" />
+      <wsdl:input>
+        <soap12:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap12:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="SelectAllAraba">
+      <soap12:operation soapAction="http://tempuri.org/SelectAllAraba" style="document" />
+      <wsdl:input>
+        <soap12:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap12:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+  </wsdl:binding>
+  <wsdl:service name="ArabaServis">
+    <wsdl:port name="ArabaServisSoap" binding="tns:ArabaServisSoap">
+      <soap:address location="http://localhost:52257/ArabaServis.asmx" />
+    </wsdl:port>
+    <wsdl:port name="ArabaServisSoap12" binding="tns:ArabaServisSoap12">
+      <soap12:address location="http://localhost:52257/ArabaServis.asmx" />
+    </wsdl:port>
+  </wsdl:service>
+</wsdl:definitions>
