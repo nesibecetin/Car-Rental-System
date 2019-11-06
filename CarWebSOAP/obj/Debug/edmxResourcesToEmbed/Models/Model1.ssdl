@@ -1,0 +1,122 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Schema Namespace="SOAProjeModel.Store" Provider="System.Data.SqlClient" ProviderManifestToken="2012" Alias="Self" xmlns:store="http://schemas.microsoft.com/ado/2007/12/edm/EntityStoreSchemaGenerator" xmlns:customannotation="http://schemas.microsoft.com/ado/2013/11/edm/customannotation" xmlns="http://schemas.microsoft.com/ado/2009/11/edm/ssdl">
+  <EntityType Name="Araba">
+    <Key>
+      <PropertyRef Name="AracID" />
+    </Key>
+    <Property Name="AracID" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+    <Property Name="AracMarka" Type="nvarchar" MaxLength="50" />
+    <Property Name="AracModel" Type="nvarchar" MaxLength="50" />
+    <Property Name="Plaka" Type="nvarchar" MaxLength="50" />
+    <Property Name="EhliyetYasi" Type="nvarchar" MaxLength="50" />
+    <Property Name="YasSiniri" Type="nvarchar" MaxLength="50" />
+    <Property Name="GunlukSinirKilometre" Type="int" />
+    <Property Name="AnlikKilometre" Type="int" />
+    <Property Name="Airbag" Type="bit" />
+    <Property Name="BagajHacmi" Type="int" />
+    <Property Name="KoltukSayisi" Type="int" />
+    <Property Name="KiralamaBedeli" Type="int" />
+    <Property Name="Sirket" Type="int" />
+  </EntityType>
+  <EntityType Name="KiralamaBilgi">
+    <Key>
+      <PropertyRef Name="KiralamaID" />
+    </Key>
+    <Property Name="KiralamaID" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+    <Property Name="VerilisTarihi" Type="nvarchar" MaxLength="50" />
+    <Property Name="AlinisTarihi" Type="nvarchar" MaxLength="50" />
+    <Property Name="VerilisKilometre" Type="int" />
+    <Property Name="GidilenKilometre" Type="int" />
+    <Property Name="AlinanUcret" Type="int" />
+    <Property Name="Kullanici" Type="int" />
+    <Property Name="Arac" Type="int" />
+  </EntityType>
+  <EntityType Name="Kullanici">
+    <Key>
+      <PropertyRef Name="KullaniciID" />
+    </Key>
+    <Property Name="KullaniciID" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+    <Property Name="Ad" Type="nvarchar" MaxLength="50" />
+    <Property Name="Soyad" Type="nvarchar" MaxLength="50" />
+    <Property Name="Adres" Type="nvarchar" MaxLength="50" />
+    <Property Name="Telefon" Type="nvarchar" MaxLength="50" />
+    <Property Name="Email" Type="nvarchar" MaxLength="50" />
+    <Property Name="Sifre" Type="nvarchar" MaxLength="50" />
+    <Property Name="Rol" Type="varchar" MaxLength="50" />
+  </EntityType>
+  <EntityType Name="Sirket">
+    <Key>
+      <PropertyRef Name="SirketID" />
+    </Key>
+    <Property Name="SirketID" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+    <Property Name="SirketAd" Type="nvarchar" MaxLength="50" />
+    <Property Name="Sehir" Type="nvarchar" MaxLength="50" />
+    <Property Name="SirketAdres" Type="nvarchar" MaxLength="50" />
+    <Property Name="AracSayisi" Type="int" />
+  </EntityType>
+  <EntityType Name="sysdiagrams">
+    <Key>
+      <PropertyRef Name="diagram_id" />
+    </Key>
+    <Property Name="name" Type="nvarchar" MaxLength="128" Nullable="false" />
+    <Property Name="principal_id" Type="int" Nullable="false" />
+    <Property Name="diagram_id" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+    <Property Name="version" Type="int" />
+    <Property Name="definition" Type="varbinary(max)" />
+  </EntityType>
+  <Association Name="FK_Araba_Sirket">
+    <End Role="Sirket" Type="Self.Sirket" Multiplicity="0..1" />
+    <End Role="Araba" Type="Self.Araba" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="Sirket">
+        <PropertyRef Name="SirketID" />
+      </Principal>
+      <Dependent Role="Araba">
+        <PropertyRef Name="Sirket" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK_KiralamaBilgi_Araba">
+    <End Role="Araba" Type="Self.Araba" Multiplicity="0..1" />
+    <End Role="KiralamaBilgi" Type="Self.KiralamaBilgi" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="Araba">
+        <PropertyRef Name="AracID" />
+      </Principal>
+      <Dependent Role="KiralamaBilgi">
+        <PropertyRef Name="Arac" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK_KiralamaBilgi_Kullanici">
+    <End Role="Kullanici" Type="Self.Kullanici" Multiplicity="0..1" />
+    <End Role="KiralamaBilgi" Type="Self.KiralamaBilgi" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="Kullanici">
+        <PropertyRef Name="KullaniciID" />
+      </Principal>
+      <Dependent Role="KiralamaBilgi">
+        <PropertyRef Name="Kullanici" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <EntityContainer Name="SOAProjeModelStoreContainer">
+    <EntitySet Name="Araba" EntityType="Self.Araba" Schema="dbo" store:Type="Tables" />
+    <EntitySet Name="KiralamaBilgi" EntityType="Self.KiralamaBilgi" Schema="dbo" store:Type="Tables" />
+    <EntitySet Name="Kullanici" EntityType="Self.Kullanici" Schema="dbo" store:Type="Tables" />
+    <EntitySet Name="Sirket" EntityType="Self.Sirket" Schema="dbo" store:Type="Tables" />
+    <EntitySet Name="sysdiagrams" EntityType="Self.sysdiagrams" Schema="dbo" store:Type="Tables" />
+    <AssociationSet Name="FK_Araba_Sirket" Association="Self.FK_Araba_Sirket">
+      <End Role="Sirket" EntitySet="Sirket" />
+      <End Role="Araba" EntitySet="Araba" />
+    </AssociationSet>
+    <AssociationSet Name="FK_KiralamaBilgi_Araba" Association="Self.FK_KiralamaBilgi_Araba">
+      <End Role="Araba" EntitySet="Araba" />
+      <End Role="KiralamaBilgi" EntitySet="KiralamaBilgi" />
+    </AssociationSet>
+    <AssociationSet Name="FK_KiralamaBilgi_Kullanici" Association="Self.FK_KiralamaBilgi_Kullanici">
+      <End Role="Kullanici" EntitySet="Kullanici" />
+      <End Role="KiralamaBilgi" EntitySet="KiralamaBilgi" />
+    </AssociationSet>
+  </EntityContainer>
+</Schema>

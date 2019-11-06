@@ -1,0 +1,707 @@
+c:\users\ayrem\Source\Repos\ArabaK\ArabaK\bin\ApplicationInsights.config
+c:\users\ayrem\Source\Repos\ArabaK\ArabaK\bin\ArabaK.dll.config
+c:\users\ayrem\Source\Repos\ArabaK\ArabaK\bin\ArabaK.dll
+c:\users\ayrem\Source\Repos\ArabaK\ArabaK\bin\ArabaK.pdb
+c:\users\ayrem\Source\Repos\ArabaK\ArabaK\bin\roslyn\csc.exe
+c:\users\ayrem\Source\Repos\ArabaK\ArabaK\bin\roslyn\csc.exe.config
+c:\users\ayrem\Source\Repos\ArabaK\ArabaK\bin\roslyn\csc.rsp
+c:\users\ayrem\Source\Repos\ArabaK\ArabaK\bin\roslyn\csi.exe
+c:\users\ayrem\Source\Repos\ArabaK\ArabaK\bin\roslyn\csi.exe.config
+c:\users\ayrem\Source\Repos\ArabaK\ArabaK\bin\roslyn\csi.rsp
+c:\users\ayrem\Source\Repos\ArabaK\ArabaK\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+c:\users\ayrem\Source\Repos\ArabaK\ArabaK\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+c:\users\ayrem\Source\Repos\ArabaK\ArabaK\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+c:\users\ayrem\Source\Repos\ArabaK\ArabaK\bin\roslyn\Microsoft.CodeAnalysis.dll
+c:\users\ayrem\Source\Repos\ArabaK\ArabaK\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+c:\users\ayrem\Source\Repos\ArabaK\ArabaK\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+c:\users\ayrem\Source\Repos\ArabaK\ArabaK\bin\roslyn\Microsoft.CSharp.Core.targets
+c:\users\ayrem\Source\Repos\ArabaK\ArabaK\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+c:\users\ayrem\Source\Repos\ArabaK\ArabaK\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+c:\users\ayrem\Source\Repos\ArabaK\ArabaK\bin\roslyn\Microsoft.VisualBasic.Core.targets
+c:\users\ayrem\Source\Repos\ArabaK\ArabaK\bin\roslyn\Microsoft.Win32.Primitives.dll
+c:\users\ayrem\Source\Repos\ArabaK\ArabaK\bin\roslyn\System.AppContext.dll
+c:\users\ayrem\Source\Repos\ArabaK\ArabaK\bin\roslyn\System.Collections.Immutable.dll
+c:\users\ayrem\Source\Repos\ArabaK\ArabaK\bin\roslyn\System.Console.dll
+c:\users\ayrem\Source\Repos\ArabaK\ArabaK\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+c:\users\ayrem\Source\Repos\ArabaK\ArabaK\bin\roslyn\System.Diagnostics.Process.dll
+c:\users\ayrem\Source\Repos\ArabaK\ArabaK\bin\roslyn\System.Diagnostics.StackTrace.dll
+c:\users\ayrem\Source\Repos\ArabaK\ArabaK\bin\roslyn\System.IO.Compression.dll
+c:\users\ayrem\Source\Repos\ArabaK\ArabaK\bin\roslyn\System.IO.FileSystem.dll
+c:\users\ayrem\Source\Repos\ArabaK\ArabaK\bin\roslyn\System.IO.FileSystem.DriveInfo.dll
+c:\users\ayrem\Source\Repos\ArabaK\ArabaK\bin\roslyn\System.IO.FileSystem.Primitives.dll
+c:\users\ayrem\Source\Repos\ArabaK\ArabaK\bin\roslyn\System.IO.Pipes.dll
+c:\users\ayrem\Source\Repos\ArabaK\ArabaK\bin\roslyn\System.Reflection.Metadata.dll
+c:\users\ayrem\Source\Repos\ArabaK\ArabaK\bin\roslyn\System.Security.AccessControl.dll
+c:\users\ayrem\Source\Repos\ArabaK\ArabaK\bin\roslyn\System.Security.Claims.dll
+c:\users\ayrem\Source\Repos\ArabaK\ArabaK\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+c:\users\ayrem\Source\Repos\ArabaK\ArabaK\bin\roslyn\System.Security.Cryptography.Encoding.dll
+c:\users\ayrem\Source\Repos\ArabaK\ArabaK\bin\roslyn\System.Security.Cryptography.Primitives.dll
+c:\users\ayrem\Source\Repos\ArabaK\ArabaK\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+c:\users\ayrem\Source\Repos\ArabaK\ArabaK\bin\roslyn\System.Security.Principal.Windows.dll
+c:\users\ayrem\Source\Repos\ArabaK\ArabaK\bin\roslyn\System.Text.Encoding.CodePages.dll
+c:\users\ayrem\Source\Repos\ArabaK\ArabaK\bin\roslyn\System.Threading.Thread.dll
+c:\users\ayrem\Source\Repos\ArabaK\ArabaK\bin\roslyn\System.ValueTuple.dll
+c:\users\ayrem\Source\Repos\ArabaK\ArabaK\bin\roslyn\System.Xml.ReaderWriter.dll
+c:\users\ayrem\Source\Repos\ArabaK\ArabaK\bin\roslyn\System.Xml.XmlDocument.dll
+c:\users\ayrem\Source\Repos\ArabaK\ArabaK\bin\roslyn\System.Xml.XPath.dll
+c:\users\ayrem\Source\Repos\ArabaK\ArabaK\bin\roslyn\System.Xml.XPath.XDocument.dll
+c:\users\ayrem\Source\Repos\ArabaK\ArabaK\bin\roslyn\vbc.exe
+c:\users\ayrem\Source\Repos\ArabaK\ArabaK\bin\roslyn\vbc.exe.config
+c:\users\ayrem\Source\Repos\ArabaK\ArabaK\bin\roslyn\vbc.rsp
+c:\users\ayrem\Source\Repos\ArabaK\ArabaK\bin\roslyn\VBCSCompiler.exe
+c:\users\ayrem\Source\Repos\ArabaK\ArabaK\bin\roslyn\VBCSCompiler.exe.config
+c:\users\ayrem\Source\Repos\ArabaK\ArabaK\bin\Antlr3.Runtime.dll
+c:\users\ayrem\Source\Repos\ArabaK\ArabaK\bin\Microsoft.AI.Agent.Intercept.dll
+c:\users\ayrem\Source\Repos\ArabaK\ArabaK\bin\Microsoft.AI.DependencyCollector.dll
+c:\users\ayrem\Source\Repos\ArabaK\ArabaK\bin\Microsoft.AI.PerfCounterCollector.dll
+c:\users\ayrem\Source\Repos\ArabaK\ArabaK\bin\Microsoft.AI.ServerTelemetryChannel.dll
+c:\users\ayrem\Source\Repos\ArabaK\ArabaK\bin\Microsoft.AI.Web.dll
+c:\users\ayrem\Source\Repos\ArabaK\ArabaK\bin\Microsoft.AI.WindowsServer.dll
+c:\users\ayrem\Source\Repos\ArabaK\ArabaK\bin\Microsoft.ApplicationInsights.dll
+c:\users\ayrem\Source\Repos\ArabaK\ArabaK\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+c:\users\ayrem\Source\Repos\ArabaK\ArabaK\bin\Microsoft.Web.Infrastructure.dll
+c:\users\ayrem\Source\Repos\ArabaK\ArabaK\bin\Newtonsoft.Json.dll
+c:\users\ayrem\Source\Repos\ArabaK\ArabaK\bin\System.Web.Helpers.dll
+c:\users\ayrem\Source\Repos\ArabaK\ArabaK\bin\System.Web.Mvc.dll
+c:\users\ayrem\Source\Repos\ArabaK\ArabaK\bin\System.Web.Optimization.dll
+c:\users\ayrem\Source\Repos\ArabaK\ArabaK\bin\System.Web.Razor.dll
+c:\users\ayrem\Source\Repos\ArabaK\ArabaK\bin\System.Web.WebPages.Deployment.dll
+c:\users\ayrem\Source\Repos\ArabaK\ArabaK\bin\System.Web.WebPages.dll
+c:\users\ayrem\Source\Repos\ArabaK\ArabaK\bin\System.Web.WebPages.Razor.dll
+c:\users\ayrem\Source\Repos\ArabaK\ArabaK\bin\WebGrease.dll
+c:\users\ayrem\Source\Repos\ArabaK\ArabaK\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+c:\users\ayrem\Source\Repos\ArabaK\ArabaK\bin\System.Web.Helpers.xml
+c:\users\ayrem\Source\Repos\ArabaK\ArabaK\bin\System.Web.Mvc.xml
+c:\users\ayrem\Source\Repos\ArabaK\ArabaK\bin\System.Web.Optimization.xml
+c:\users\ayrem\Source\Repos\ArabaK\ArabaK\bin\System.Web.Razor.xml
+c:\users\ayrem\Source\Repos\ArabaK\ArabaK\bin\System.Web.WebPages.xml
+c:\users\ayrem\Source\Repos\ArabaK\ArabaK\bin\System.Web.WebPages.Deployment.xml
+c:\users\ayrem\Source\Repos\ArabaK\ArabaK\bin\System.Web.WebPages.Razor.xml
+c:\users\ayrem\Source\Repos\ArabaK\ArabaK\bin\Antlr3.Runtime.pdb
+c:\users\ayrem\Source\Repos\ArabaK\ArabaK\bin\Newtonsoft.Json.xml
+c:\users\ayrem\Source\Repos\ArabaK\ArabaK\bin\Microsoft.ApplicationInsights.xml
+c:\users\ayrem\Source\Repos\ArabaK\ArabaK\bin\Microsoft.AI.DependencyCollector.xml
+c:\users\ayrem\Source\Repos\ArabaK\ArabaK\bin\Microsoft.AI.ServerTelemetryChannel.xml
+c:\users\ayrem\Source\Repos\ArabaK\ArabaK\bin\Microsoft.AI.WindowsServer.xml
+c:\users\ayrem\Source\Repos\ArabaK\ArabaK\bin\Microsoft.AI.Web.xml
+c:\users\ayrem\Source\Repos\ArabaK\ArabaK\obj\Debug\ArabaK.csprojResolveAssemblyReference.cache
+c:\users\ayrem\Source\Repos\ArabaK\ArabaK\obj\Debug\ArabaK.csproj.CoreCompileInputs.cache
+c:\users\ayrem\Source\Repos\ArabaK\ArabaK\obj\Debug\ArabaK.csproj.CopyComplete
+c:\users\ayrem\Source\Repos\ArabaK\ArabaK\obj\Debug\ArabaK.dll
+c:\users\ayrem\Source\Repos\ArabaK\ArabaK\obj\Debug\ArabaK.pdb
+C:\Users\ayrem\Desktop\ArabaK\ArabaK\bin\ApplicationInsights.config
+C:\Users\ayrem\Desktop\ArabaK\ArabaK\bin\ArabaK.dll.config
+C:\Users\ayrem\Desktop\ArabaK\ArabaK\bin\ArabaK.dll
+C:\Users\ayrem\Desktop\ArabaK\ArabaK\bin\ArabaK.pdb
+C:\Users\ayrem\Desktop\ArabaK\ArabaK\bin\roslyn\csc.exe
+C:\Users\ayrem\Desktop\ArabaK\ArabaK\bin\roslyn\csc.exe.config
+C:\Users\ayrem\Desktop\ArabaK\ArabaK\bin\roslyn\csc.rsp
+C:\Users\ayrem\Desktop\ArabaK\ArabaK\bin\roslyn\csi.exe
+C:\Users\ayrem\Desktop\ArabaK\ArabaK\bin\roslyn\csi.exe.config
+C:\Users\ayrem\Desktop\ArabaK\ArabaK\bin\roslyn\csi.rsp
+C:\Users\ayrem\Desktop\ArabaK\ArabaK\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\ayrem\Desktop\ArabaK\ArabaK\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\ayrem\Desktop\ArabaK\ArabaK\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\ayrem\Desktop\ArabaK\ArabaK\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\ayrem\Desktop\ArabaK\ArabaK\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\ayrem\Desktop\ArabaK\ArabaK\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\ayrem\Desktop\ArabaK\ArabaK\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\ayrem\Desktop\ArabaK\ArabaK\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\ayrem\Desktop\ArabaK\ArabaK\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\ayrem\Desktop\ArabaK\ArabaK\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\ayrem\Desktop\ArabaK\ArabaK\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\ayrem\Desktop\ArabaK\ArabaK\bin\roslyn\System.AppContext.dll
+C:\Users\ayrem\Desktop\ArabaK\ArabaK\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\ayrem\Desktop\ArabaK\ArabaK\bin\roslyn\System.Console.dll
+C:\Users\ayrem\Desktop\ArabaK\ArabaK\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\ayrem\Desktop\ArabaK\ArabaK\bin\roslyn\System.Diagnostics.Process.dll
+C:\Users\ayrem\Desktop\ArabaK\ArabaK\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\ayrem\Desktop\ArabaK\ArabaK\bin\roslyn\System.IO.Compression.dll
+C:\Users\ayrem\Desktop\ArabaK\ArabaK\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\ayrem\Desktop\ArabaK\ArabaK\bin\roslyn\System.IO.FileSystem.DriveInfo.dll
+C:\Users\ayrem\Desktop\ArabaK\ArabaK\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\ayrem\Desktop\ArabaK\ArabaK\bin\roslyn\System.IO.Pipes.dll
+C:\Users\ayrem\Desktop\ArabaK\ArabaK\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\ayrem\Desktop\ArabaK\ArabaK\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\ayrem\Desktop\ArabaK\ArabaK\bin\roslyn\System.Security.Claims.dll
+C:\Users\ayrem\Desktop\ArabaK\ArabaK\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\ayrem\Desktop\ArabaK\ArabaK\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\ayrem\Desktop\ArabaK\ArabaK\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\ayrem\Desktop\ArabaK\ArabaK\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\ayrem\Desktop\ArabaK\ArabaK\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\ayrem\Desktop\ArabaK\ArabaK\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\ayrem\Desktop\ArabaK\ArabaK\bin\roslyn\System.Threading.Thread.dll
+C:\Users\ayrem\Desktop\ArabaK\ArabaK\bin\roslyn\System.ValueTuple.dll
+C:\Users\ayrem\Desktop\ArabaK\ArabaK\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\ayrem\Desktop\ArabaK\ArabaK\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\ayrem\Desktop\ArabaK\ArabaK\bin\roslyn\System.Xml.XPath.dll
+C:\Users\ayrem\Desktop\ArabaK\ArabaK\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\ayrem\Desktop\ArabaK\ArabaK\bin\roslyn\vbc.exe
+C:\Users\ayrem\Desktop\ArabaK\ArabaK\bin\roslyn\vbc.exe.config
+C:\Users\ayrem\Desktop\ArabaK\ArabaK\bin\roslyn\vbc.rsp
+C:\Users\ayrem\Desktop\ArabaK\ArabaK\bin\roslyn\VBCSCompiler.exe
+C:\Users\ayrem\Desktop\ArabaK\ArabaK\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\ayrem\Desktop\ArabaK\ArabaK\bin\Antlr3.Runtime.dll
+C:\Users\ayrem\Desktop\ArabaK\ArabaK\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\ayrem\Desktop\ArabaK\ArabaK\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\ayrem\Desktop\ArabaK\ArabaK\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\ayrem\Desktop\ArabaK\ArabaK\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\ayrem\Desktop\ArabaK\ArabaK\bin\Microsoft.AI.Web.dll
+C:\Users\ayrem\Desktop\ArabaK\ArabaK\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\ayrem\Desktop\ArabaK\ArabaK\bin\Microsoft.ApplicationInsights.dll
+C:\Users\ayrem\Desktop\ArabaK\ArabaK\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\ayrem\Desktop\ArabaK\ArabaK\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\ayrem\Desktop\ArabaK\ArabaK\bin\Newtonsoft.Json.dll
+C:\Users\ayrem\Desktop\ArabaK\ArabaK\bin\System.Web.Helpers.dll
+C:\Users\ayrem\Desktop\ArabaK\ArabaK\bin\System.Web.Mvc.dll
+C:\Users\ayrem\Desktop\ArabaK\ArabaK\bin\System.Web.Optimization.dll
+C:\Users\ayrem\Desktop\ArabaK\ArabaK\bin\System.Web.Razor.dll
+C:\Users\ayrem\Desktop\ArabaK\ArabaK\bin\System.Web.WebPages.Deployment.dll
+C:\Users\ayrem\Desktop\ArabaK\ArabaK\bin\System.Web.WebPages.dll
+C:\Users\ayrem\Desktop\ArabaK\ArabaK\bin\System.Web.WebPages.Razor.dll
+C:\Users\ayrem\Desktop\ArabaK\ArabaK\bin\WebGrease.dll
+C:\Users\ayrem\Desktop\ArabaK\ArabaK\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\ayrem\Desktop\ArabaK\ArabaK\bin\System.Web.Helpers.xml
+C:\Users\ayrem\Desktop\ArabaK\ArabaK\bin\System.Web.Mvc.xml
+C:\Users\ayrem\Desktop\ArabaK\ArabaK\bin\System.Web.Optimization.xml
+C:\Users\ayrem\Desktop\ArabaK\ArabaK\bin\System.Web.Razor.xml
+C:\Users\ayrem\Desktop\ArabaK\ArabaK\bin\System.Web.WebPages.xml
+C:\Users\ayrem\Desktop\ArabaK\ArabaK\bin\System.Web.WebPages.Deployment.xml
+C:\Users\ayrem\Desktop\ArabaK\ArabaK\bin\System.Web.WebPages.Razor.xml
+C:\Users\ayrem\Desktop\ArabaK\ArabaK\bin\Antlr3.Runtime.pdb
+C:\Users\ayrem\Desktop\ArabaK\ArabaK\bin\Newtonsoft.Json.xml
+C:\Users\ayrem\Desktop\ArabaK\ArabaK\bin\Microsoft.ApplicationInsights.xml
+C:\Users\ayrem\Desktop\ArabaK\ArabaK\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\ayrem\Desktop\ArabaK\ArabaK\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\ayrem\Desktop\ArabaK\ArabaK\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\ayrem\Desktop\ArabaK\ArabaK\bin\Microsoft.AI.Web.xml
+C:\Users\ayrem\Desktop\ArabaK\ArabaK\obj\Debug\ArabaK.csprojResolveAssemblyReference.cache
+C:\Users\ayrem\Desktop\ArabaK\ArabaK\obj\Debug\ArabaK.csproj.CoreCompileInputs.cache
+C:\Users\ayrem\Desktop\ArabaK\ArabaK\obj\Debug\ArabaK.csproj.CopyComplete
+C:\Users\ayrem\Desktop\ArabaK\ArabaK\obj\Debug\ArabaK.dll
+C:\Users\ayrem\Desktop\ArabaK\ArabaK\obj\Debug\ArabaK.pdb
+C:\Users\ayrem\Desktop\ArabaK\ArabaK\bin\EntityFramework.dll
+C:\Users\ayrem\Desktop\ArabaK\ArabaK\bin\EntityFramework.SqlServer.dll
+C:\Users\ayrem\Desktop\ArabaK\ArabaK\bin\EntityFramework.xml
+C:\Users\ayrem\Desktop\ArabaK\ArabaK\bin\EntityFramework.SqlServer.xml
+C:\Users\ayrem\Desktop\ArabaK\ArabaK\bin\System.Net.Http.Formatting.dll
+C:\Users\ayrem\Desktop\ArabaK\ArabaK\bin\System.Web.Http.dll
+C:\Users\ayrem\Desktop\ArabaK\ArabaK\bin\System.Web.Http.WebHost.dll
+C:\Users\ayrem\Desktop\ArabaK\ArabaK\bin\System.Net.Http.Formatting.xml
+C:\Users\ayrem\Desktop\ArabaK\ArabaK\bin\System.Web.Http.xml
+C:\Users\ayrem\Desktop\ArabaK\ArabaK\bin\System.Web.Http.WebHost.xml
+C:\Users\aysegul\Desktop\ArabaK\ArabaK\bin\ApplicationInsights.config
+C:\Users\aysegul\Desktop\ArabaK\ArabaK\bin\ArabaK.dll.config
+C:\Users\aysegul\Desktop\ArabaK\ArabaK\bin\ArabaK.dll
+C:\Users\aysegul\Desktop\ArabaK\ArabaK\bin\ArabaK.pdb
+C:\Users\aysegul\Desktop\ArabaK\ArabaK\bin\roslyn\csc.exe
+C:\Users\aysegul\Desktop\ArabaK\ArabaK\bin\roslyn\csc.exe.config
+C:\Users\aysegul\Desktop\ArabaK\ArabaK\bin\roslyn\csc.rsp
+C:\Users\aysegul\Desktop\ArabaK\ArabaK\bin\roslyn\csi.exe
+C:\Users\aysegul\Desktop\ArabaK\ArabaK\bin\roslyn\csi.exe.config
+C:\Users\aysegul\Desktop\ArabaK\ArabaK\bin\roslyn\csi.rsp
+C:\Users\aysegul\Desktop\ArabaK\ArabaK\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\aysegul\Desktop\ArabaK\ArabaK\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\aysegul\Desktop\ArabaK\ArabaK\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\aysegul\Desktop\ArabaK\ArabaK\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\aysegul\Desktop\ArabaK\ArabaK\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\aysegul\Desktop\ArabaK\ArabaK\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\aysegul\Desktop\ArabaK\ArabaK\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\aysegul\Desktop\ArabaK\ArabaK\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\aysegul\Desktop\ArabaK\ArabaK\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\aysegul\Desktop\ArabaK\ArabaK\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\aysegul\Desktop\ArabaK\ArabaK\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\aysegul\Desktop\ArabaK\ArabaK\bin\roslyn\System.AppContext.dll
+C:\Users\aysegul\Desktop\ArabaK\ArabaK\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\aysegul\Desktop\ArabaK\ArabaK\bin\roslyn\System.Console.dll
+C:\Users\aysegul\Desktop\ArabaK\ArabaK\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\aysegul\Desktop\ArabaK\ArabaK\bin\roslyn\System.Diagnostics.Process.dll
+C:\Users\aysegul\Desktop\ArabaK\ArabaK\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\aysegul\Desktop\ArabaK\ArabaK\bin\roslyn\System.IO.Compression.dll
+C:\Users\aysegul\Desktop\ArabaK\ArabaK\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\aysegul\Desktop\ArabaK\ArabaK\bin\roslyn\System.IO.FileSystem.DriveInfo.dll
+C:\Users\aysegul\Desktop\ArabaK\ArabaK\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\aysegul\Desktop\ArabaK\ArabaK\bin\roslyn\System.IO.Pipes.dll
+C:\Users\aysegul\Desktop\ArabaK\ArabaK\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\aysegul\Desktop\ArabaK\ArabaK\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\aysegul\Desktop\ArabaK\ArabaK\bin\roslyn\System.Security.Claims.dll
+C:\Users\aysegul\Desktop\ArabaK\ArabaK\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\aysegul\Desktop\ArabaK\ArabaK\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\aysegul\Desktop\ArabaK\ArabaK\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\aysegul\Desktop\ArabaK\ArabaK\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\aysegul\Desktop\ArabaK\ArabaK\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\aysegul\Desktop\ArabaK\ArabaK\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\aysegul\Desktop\ArabaK\ArabaK\bin\roslyn\System.Threading.Thread.dll
+C:\Users\aysegul\Desktop\ArabaK\ArabaK\bin\roslyn\System.ValueTuple.dll
+C:\Users\aysegul\Desktop\ArabaK\ArabaK\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\aysegul\Desktop\ArabaK\ArabaK\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\aysegul\Desktop\ArabaK\ArabaK\bin\roslyn\System.Xml.XPath.dll
+C:\Users\aysegul\Desktop\ArabaK\ArabaK\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\aysegul\Desktop\ArabaK\ArabaK\bin\roslyn\vbc.exe
+C:\Users\aysegul\Desktop\ArabaK\ArabaK\bin\roslyn\vbc.exe.config
+C:\Users\aysegul\Desktop\ArabaK\ArabaK\bin\roslyn\vbc.rsp
+C:\Users\aysegul\Desktop\ArabaK\ArabaK\bin\roslyn\VBCSCompiler.exe
+C:\Users\aysegul\Desktop\ArabaK\ArabaK\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\aysegul\Desktop\ArabaK\ArabaK\bin\Antlr3.Runtime.dll
+C:\Users\aysegul\Desktop\ArabaK\ArabaK\bin\EntityFramework.dll
+C:\Users\aysegul\Desktop\ArabaK\ArabaK\bin\EntityFramework.SqlServer.dll
+C:\Users\aysegul\Desktop\ArabaK\ArabaK\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\aysegul\Desktop\ArabaK\ArabaK\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\aysegul\Desktop\ArabaK\ArabaK\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\aysegul\Desktop\ArabaK\ArabaK\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\aysegul\Desktop\ArabaK\ArabaK\bin\Microsoft.AI.Web.dll
+C:\Users\aysegul\Desktop\ArabaK\ArabaK\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\aysegul\Desktop\ArabaK\ArabaK\bin\Microsoft.ApplicationInsights.dll
+C:\Users\aysegul\Desktop\ArabaK\ArabaK\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\aysegul\Desktop\ArabaK\ArabaK\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\aysegul\Desktop\ArabaK\ArabaK\bin\Newtonsoft.Json.dll
+C:\Users\aysegul\Desktop\ArabaK\ArabaK\bin\System.Net.Http.Formatting.dll
+C:\Users\aysegul\Desktop\ArabaK\ArabaK\bin\System.Web.Helpers.dll
+C:\Users\aysegul\Desktop\ArabaK\ArabaK\bin\System.Web.Http.dll
+C:\Users\aysegul\Desktop\ArabaK\ArabaK\bin\System.Web.Http.WebHost.dll
+C:\Users\aysegul\Desktop\ArabaK\ArabaK\bin\System.Web.Mvc.dll
+C:\Users\aysegul\Desktop\ArabaK\ArabaK\bin\System.Web.Optimization.dll
+C:\Users\aysegul\Desktop\ArabaK\ArabaK\bin\System.Web.Razor.dll
+C:\Users\aysegul\Desktop\ArabaK\ArabaK\bin\System.Web.WebPages.Deployment.dll
+C:\Users\aysegul\Desktop\ArabaK\ArabaK\bin\System.Web.WebPages.dll
+C:\Users\aysegul\Desktop\ArabaK\ArabaK\bin\System.Web.WebPages.Razor.dll
+C:\Users\aysegul\Desktop\ArabaK\ArabaK\bin\WebGrease.dll
+C:\Users\aysegul\Desktop\ArabaK\ArabaK\bin\EntityFramework.xml
+C:\Users\aysegul\Desktop\ArabaK\ArabaK\bin\EntityFramework.SqlServer.xml
+C:\Users\aysegul\Desktop\ArabaK\ArabaK\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\aysegul\Desktop\ArabaK\ArabaK\bin\System.Net.Http.Formatting.xml
+C:\Users\aysegul\Desktop\ArabaK\ArabaK\bin\System.Web.Http.xml
+C:\Users\aysegul\Desktop\ArabaK\ArabaK\bin\System.Web.Http.WebHost.xml
+C:\Users\aysegul\Desktop\ArabaK\ArabaK\bin\System.Web.Helpers.xml
+C:\Users\aysegul\Desktop\ArabaK\ArabaK\bin\System.Web.Mvc.xml
+C:\Users\aysegul\Desktop\ArabaK\ArabaK\bin\System.Web.Optimization.xml
+C:\Users\aysegul\Desktop\ArabaK\ArabaK\bin\System.Web.Razor.xml
+C:\Users\aysegul\Desktop\ArabaK\ArabaK\bin\System.Web.WebPages.xml
+C:\Users\aysegul\Desktop\ArabaK\ArabaK\bin\System.Web.WebPages.Deployment.xml
+C:\Users\aysegul\Desktop\ArabaK\ArabaK\bin\System.Web.WebPages.Razor.xml
+C:\Users\aysegul\Desktop\ArabaK\ArabaK\bin\Antlr3.Runtime.pdb
+C:\Users\aysegul\Desktop\ArabaK\ArabaK\bin\Newtonsoft.Json.xml
+C:\Users\aysegul\Desktop\ArabaK\ArabaK\bin\Microsoft.ApplicationInsights.xml
+C:\Users\aysegul\Desktop\ArabaK\ArabaK\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\aysegul\Desktop\ArabaK\ArabaK\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\aysegul\Desktop\ArabaK\ArabaK\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\aysegul\Desktop\ArabaK\ArabaK\bin\Microsoft.AI.Web.xml
+C:\Users\aysegul\Desktop\ArabaK\ArabaK\obj\Debug\ArabaK.csprojResolveAssemblyReference.cache
+C:\Users\aysegul\Desktop\ArabaK\ArabaK\obj\Debug\ArabaK.csproj.CoreCompileInputs.cache
+C:\Users\aysegul\Desktop\ArabaK\ArabaK\obj\Debug\ArabaK.dll
+C:\Users\aysegul\Desktop\ArabaK\ArabaK\obj\Debug\ArabaK.pdb
+C:\Users\ayrem\Desktop\ArabaK2\ArabaK\bin\ApplicationInsights.config
+C:\Users\ayrem\Desktop\ArabaK2\ArabaK\bin\ArabaK.dll.config
+C:\Users\ayrem\Desktop\ArabaK2\ArabaK\bin\ArabaK.dll
+C:\Users\ayrem\Desktop\ArabaK2\ArabaK\bin\ArabaK.pdb
+C:\Users\ayrem\Desktop\ArabaK2\ArabaK\bin\roslyn\csc.exe
+C:\Users\ayrem\Desktop\ArabaK2\ArabaK\bin\roslyn\csc.exe.config
+C:\Users\ayrem\Desktop\ArabaK2\ArabaK\bin\roslyn\csc.rsp
+C:\Users\ayrem\Desktop\ArabaK2\ArabaK\bin\roslyn\csi.exe
+C:\Users\ayrem\Desktop\ArabaK2\ArabaK\bin\roslyn\csi.exe.config
+C:\Users\ayrem\Desktop\ArabaK2\ArabaK\bin\roslyn\csi.rsp
+C:\Users\ayrem\Desktop\ArabaK2\ArabaK\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\ayrem\Desktop\ArabaK2\ArabaK\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\ayrem\Desktop\ArabaK2\ArabaK\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\ayrem\Desktop\ArabaK2\ArabaK\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\ayrem\Desktop\ArabaK2\ArabaK\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\ayrem\Desktop\ArabaK2\ArabaK\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\ayrem\Desktop\ArabaK2\ArabaK\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\ayrem\Desktop\ArabaK2\ArabaK\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\ayrem\Desktop\ArabaK2\ArabaK\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\ayrem\Desktop\ArabaK2\ArabaK\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\ayrem\Desktop\ArabaK2\ArabaK\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\ayrem\Desktop\ArabaK2\ArabaK\bin\roslyn\System.AppContext.dll
+C:\Users\ayrem\Desktop\ArabaK2\ArabaK\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\ayrem\Desktop\ArabaK2\ArabaK\bin\roslyn\System.Console.dll
+C:\Users\ayrem\Desktop\ArabaK2\ArabaK\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\ayrem\Desktop\ArabaK2\ArabaK\bin\roslyn\System.Diagnostics.Process.dll
+C:\Users\ayrem\Desktop\ArabaK2\ArabaK\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\ayrem\Desktop\ArabaK2\ArabaK\bin\roslyn\System.IO.Compression.dll
+C:\Users\ayrem\Desktop\ArabaK2\ArabaK\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\ayrem\Desktop\ArabaK2\ArabaK\bin\roslyn\System.IO.FileSystem.DriveInfo.dll
+C:\Users\ayrem\Desktop\ArabaK2\ArabaK\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\ayrem\Desktop\ArabaK2\ArabaK\bin\roslyn\System.IO.Pipes.dll
+C:\Users\ayrem\Desktop\ArabaK2\ArabaK\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\ayrem\Desktop\ArabaK2\ArabaK\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\ayrem\Desktop\ArabaK2\ArabaK\bin\roslyn\System.Security.Claims.dll
+C:\Users\ayrem\Desktop\ArabaK2\ArabaK\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\ayrem\Desktop\ArabaK2\ArabaK\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\ayrem\Desktop\ArabaK2\ArabaK\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\ayrem\Desktop\ArabaK2\ArabaK\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\ayrem\Desktop\ArabaK2\ArabaK\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\ayrem\Desktop\ArabaK2\ArabaK\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\ayrem\Desktop\ArabaK2\ArabaK\bin\roslyn\System.Threading.Thread.dll
+C:\Users\ayrem\Desktop\ArabaK2\ArabaK\bin\roslyn\System.ValueTuple.dll
+C:\Users\ayrem\Desktop\ArabaK2\ArabaK\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\ayrem\Desktop\ArabaK2\ArabaK\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\ayrem\Desktop\ArabaK2\ArabaK\bin\roslyn\System.Xml.XPath.dll
+C:\Users\ayrem\Desktop\ArabaK2\ArabaK\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\ayrem\Desktop\ArabaK2\ArabaK\bin\roslyn\vbc.exe
+C:\Users\ayrem\Desktop\ArabaK2\ArabaK\bin\roslyn\vbc.exe.config
+C:\Users\ayrem\Desktop\ArabaK2\ArabaK\bin\roslyn\vbc.rsp
+C:\Users\ayrem\Desktop\ArabaK2\ArabaK\bin\roslyn\VBCSCompiler.exe
+C:\Users\ayrem\Desktop\ArabaK2\ArabaK\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\ayrem\Desktop\ArabaK2\ArabaK\bin\Antlr3.Runtime.dll
+C:\Users\ayrem\Desktop\ArabaK2\ArabaK\bin\EntityFramework.dll
+C:\Users\ayrem\Desktop\ArabaK2\ArabaK\bin\EntityFramework.SqlServer.dll
+C:\Users\ayrem\Desktop\ArabaK2\ArabaK\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\ayrem\Desktop\ArabaK2\ArabaK\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\ayrem\Desktop\ArabaK2\ArabaK\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\ayrem\Desktop\ArabaK2\ArabaK\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\ayrem\Desktop\ArabaK2\ArabaK\bin\Microsoft.AI.Web.dll
+C:\Users\ayrem\Desktop\ArabaK2\ArabaK\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\ayrem\Desktop\ArabaK2\ArabaK\bin\Microsoft.ApplicationInsights.dll
+C:\Users\ayrem\Desktop\ArabaK2\ArabaK\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\ayrem\Desktop\ArabaK2\ArabaK\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\ayrem\Desktop\ArabaK2\ArabaK\bin\Newtonsoft.Json.dll
+C:\Users\ayrem\Desktop\ArabaK2\ArabaK\bin\System.Net.Http.Formatting.dll
+C:\Users\ayrem\Desktop\ArabaK2\ArabaK\bin\System.Web.Helpers.dll
+C:\Users\ayrem\Desktop\ArabaK2\ArabaK\bin\System.Web.Http.dll
+C:\Users\ayrem\Desktop\ArabaK2\ArabaK\bin\System.Web.Http.WebHost.dll
+C:\Users\ayrem\Desktop\ArabaK2\ArabaK\bin\System.Web.Mvc.dll
+C:\Users\ayrem\Desktop\ArabaK2\ArabaK\bin\System.Web.Optimization.dll
+C:\Users\ayrem\Desktop\ArabaK2\ArabaK\bin\System.Web.Razor.dll
+C:\Users\ayrem\Desktop\ArabaK2\ArabaK\bin\System.Web.WebPages.Deployment.dll
+C:\Users\ayrem\Desktop\ArabaK2\ArabaK\bin\System.Web.WebPages.dll
+C:\Users\ayrem\Desktop\ArabaK2\ArabaK\bin\System.Web.WebPages.Razor.dll
+C:\Users\ayrem\Desktop\ArabaK2\ArabaK\bin\WebGrease.dll
+C:\Users\ayrem\Desktop\ArabaK2\ArabaK\bin\EntityFramework.xml
+C:\Users\ayrem\Desktop\ArabaK2\ArabaK\bin\EntityFramework.SqlServer.xml
+C:\Users\ayrem\Desktop\ArabaK2\ArabaK\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\ayrem\Desktop\ArabaK2\ArabaK\bin\System.Net.Http.Formatting.xml
+C:\Users\ayrem\Desktop\ArabaK2\ArabaK\bin\System.Web.Http.xml
+C:\Users\ayrem\Desktop\ArabaK2\ArabaK\bin\System.Web.Http.WebHost.xml
+C:\Users\ayrem\Desktop\ArabaK2\ArabaK\bin\System.Web.Helpers.xml
+C:\Users\ayrem\Desktop\ArabaK2\ArabaK\bin\System.Web.Mvc.xml
+C:\Users\ayrem\Desktop\ArabaK2\ArabaK\bin\System.Web.Optimization.xml
+C:\Users\ayrem\Desktop\ArabaK2\ArabaK\bin\System.Web.Razor.xml
+C:\Users\ayrem\Desktop\ArabaK2\ArabaK\bin\System.Web.WebPages.xml
+C:\Users\ayrem\Desktop\ArabaK2\ArabaK\bin\System.Web.WebPages.Deployment.xml
+C:\Users\ayrem\Desktop\ArabaK2\ArabaK\bin\System.Web.WebPages.Razor.xml
+C:\Users\ayrem\Desktop\ArabaK2\ArabaK\bin\Antlr3.Runtime.pdb
+C:\Users\ayrem\Desktop\ArabaK2\ArabaK\bin\Newtonsoft.Json.xml
+C:\Users\ayrem\Desktop\ArabaK2\ArabaK\bin\Microsoft.ApplicationInsights.xml
+C:\Users\ayrem\Desktop\ArabaK2\ArabaK\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\ayrem\Desktop\ArabaK2\ArabaK\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\ayrem\Desktop\ArabaK2\ArabaK\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\ayrem\Desktop\ArabaK2\ArabaK\bin\Microsoft.AI.Web.xml
+C:\Users\ayrem\Desktop\ArabaK2\ArabaK\obj\Debug\ArabaK.csprojResolveAssemblyReference.cache
+C:\Users\ayrem\Desktop\ArabaK2\ArabaK\obj\Debug\ArabaK.csproj.CoreCompileInputs.cache
+C:\Users\ayrem\Desktop\ArabaK2\ArabaK\obj\Debug\ArabaK.csproj.CopyComplete
+C:\Users\ayrem\Desktop\ArabaK2\ArabaK\obj\Debug\ArabaK.dll
+C:\Users\ayrem\Desktop\ArabaK2\ArabaK\obj\Debug\ArabaK.pdb
+C:\Users\ayrem\Desktop\ArabaK2 - Kopya\ArabaK\bin\ApplicationInsights.config
+C:\Users\ayrem\Desktop\ArabaK2 - Kopya\ArabaK\bin\ArabaK.dll.config
+C:\Users\ayrem\Desktop\ArabaK2 - Kopya\ArabaK\bin\ArabaK.dll
+C:\Users\ayrem\Desktop\ArabaK2 - Kopya\ArabaK\bin\ArabaK.pdb
+C:\Users\ayrem\Desktop\ArabaK2 - Kopya\ArabaK\bin\roslyn\csc.exe
+C:\Users\ayrem\Desktop\ArabaK2 - Kopya\ArabaK\bin\roslyn\csc.exe.config
+C:\Users\ayrem\Desktop\ArabaK2 - Kopya\ArabaK\bin\roslyn\csc.rsp
+C:\Users\ayrem\Desktop\ArabaK2 - Kopya\ArabaK\bin\roslyn\csi.exe
+C:\Users\ayrem\Desktop\ArabaK2 - Kopya\ArabaK\bin\roslyn\csi.exe.config
+C:\Users\ayrem\Desktop\ArabaK2 - Kopya\ArabaK\bin\roslyn\csi.rsp
+C:\Users\ayrem\Desktop\ArabaK2 - Kopya\ArabaK\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\ayrem\Desktop\ArabaK2 - Kopya\ArabaK\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\ayrem\Desktop\ArabaK2 - Kopya\ArabaK\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\ayrem\Desktop\ArabaK2 - Kopya\ArabaK\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\ayrem\Desktop\ArabaK2 - Kopya\ArabaK\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\ayrem\Desktop\ArabaK2 - Kopya\ArabaK\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\ayrem\Desktop\ArabaK2 - Kopya\ArabaK\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\ayrem\Desktop\ArabaK2 - Kopya\ArabaK\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\ayrem\Desktop\ArabaK2 - Kopya\ArabaK\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\ayrem\Desktop\ArabaK2 - Kopya\ArabaK\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\ayrem\Desktop\ArabaK2 - Kopya\ArabaK\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\ayrem\Desktop\ArabaK2 - Kopya\ArabaK\bin\roslyn\System.AppContext.dll
+C:\Users\ayrem\Desktop\ArabaK2 - Kopya\ArabaK\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\ayrem\Desktop\ArabaK2 - Kopya\ArabaK\bin\roslyn\System.Console.dll
+C:\Users\ayrem\Desktop\ArabaK2 - Kopya\ArabaK\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\ayrem\Desktop\ArabaK2 - Kopya\ArabaK\bin\roslyn\System.Diagnostics.Process.dll
+C:\Users\ayrem\Desktop\ArabaK2 - Kopya\ArabaK\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\ayrem\Desktop\ArabaK2 - Kopya\ArabaK\bin\roslyn\System.IO.Compression.dll
+C:\Users\ayrem\Desktop\ArabaK2 - Kopya\ArabaK\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\ayrem\Desktop\ArabaK2 - Kopya\ArabaK\bin\roslyn\System.IO.FileSystem.DriveInfo.dll
+C:\Users\ayrem\Desktop\ArabaK2 - Kopya\ArabaK\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\ayrem\Desktop\ArabaK2 - Kopya\ArabaK\bin\roslyn\System.IO.Pipes.dll
+C:\Users\ayrem\Desktop\ArabaK2 - Kopya\ArabaK\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\ayrem\Desktop\ArabaK2 - Kopya\ArabaK\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\ayrem\Desktop\ArabaK2 - Kopya\ArabaK\bin\roslyn\System.Security.Claims.dll
+C:\Users\ayrem\Desktop\ArabaK2 - Kopya\ArabaK\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\ayrem\Desktop\ArabaK2 - Kopya\ArabaK\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\ayrem\Desktop\ArabaK2 - Kopya\ArabaK\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\ayrem\Desktop\ArabaK2 - Kopya\ArabaK\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\ayrem\Desktop\ArabaK2 - Kopya\ArabaK\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\ayrem\Desktop\ArabaK2 - Kopya\ArabaK\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\ayrem\Desktop\ArabaK2 - Kopya\ArabaK\bin\roslyn\System.Threading.Thread.dll
+C:\Users\ayrem\Desktop\ArabaK2 - Kopya\ArabaK\bin\roslyn\System.ValueTuple.dll
+C:\Users\ayrem\Desktop\ArabaK2 - Kopya\ArabaK\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\ayrem\Desktop\ArabaK2 - Kopya\ArabaK\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\ayrem\Desktop\ArabaK2 - Kopya\ArabaK\bin\roslyn\System.Xml.XPath.dll
+C:\Users\ayrem\Desktop\ArabaK2 - Kopya\ArabaK\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\ayrem\Desktop\ArabaK2 - Kopya\ArabaK\bin\roslyn\vbc.exe
+C:\Users\ayrem\Desktop\ArabaK2 - Kopya\ArabaK\bin\roslyn\vbc.exe.config
+C:\Users\ayrem\Desktop\ArabaK2 - Kopya\ArabaK\bin\roslyn\vbc.rsp
+C:\Users\ayrem\Desktop\ArabaK2 - Kopya\ArabaK\bin\roslyn\VBCSCompiler.exe
+C:\Users\ayrem\Desktop\ArabaK2 - Kopya\ArabaK\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\ayrem\Desktop\ArabaK2 - Kopya\ArabaK\bin\Antlr3.Runtime.dll
+C:\Users\ayrem\Desktop\ArabaK2 - Kopya\ArabaK\bin\EntityFramework.dll
+C:\Users\ayrem\Desktop\ArabaK2 - Kopya\ArabaK\bin\EntityFramework.SqlServer.dll
+C:\Users\ayrem\Desktop\ArabaK2 - Kopya\ArabaK\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\ayrem\Desktop\ArabaK2 - Kopya\ArabaK\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\ayrem\Desktop\ArabaK2 - Kopya\ArabaK\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\ayrem\Desktop\ArabaK2 - Kopya\ArabaK\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\ayrem\Desktop\ArabaK2 - Kopya\ArabaK\bin\Microsoft.AI.Web.dll
+C:\Users\ayrem\Desktop\ArabaK2 - Kopya\ArabaK\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\ayrem\Desktop\ArabaK2 - Kopya\ArabaK\bin\Microsoft.ApplicationInsights.dll
+C:\Users\ayrem\Desktop\ArabaK2 - Kopya\ArabaK\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\ayrem\Desktop\ArabaK2 - Kopya\ArabaK\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\ayrem\Desktop\ArabaK2 - Kopya\ArabaK\bin\Newtonsoft.Json.dll
+C:\Users\ayrem\Desktop\ArabaK2 - Kopya\ArabaK\bin\System.Net.Http.Formatting.dll
+C:\Users\ayrem\Desktop\ArabaK2 - Kopya\ArabaK\bin\System.Web.Helpers.dll
+C:\Users\ayrem\Desktop\ArabaK2 - Kopya\ArabaK\bin\System.Web.Http.dll
+C:\Users\ayrem\Desktop\ArabaK2 - Kopya\ArabaK\bin\System.Web.Http.WebHost.dll
+C:\Users\ayrem\Desktop\ArabaK2 - Kopya\ArabaK\bin\System.Web.Mvc.dll
+C:\Users\ayrem\Desktop\ArabaK2 - Kopya\ArabaK\bin\System.Web.Optimization.dll
+C:\Users\ayrem\Desktop\ArabaK2 - Kopya\ArabaK\bin\System.Web.Razor.dll
+C:\Users\ayrem\Desktop\ArabaK2 - Kopya\ArabaK\bin\System.Web.WebPages.Deployment.dll
+C:\Users\ayrem\Desktop\ArabaK2 - Kopya\ArabaK\bin\System.Web.WebPages.dll
+C:\Users\ayrem\Desktop\ArabaK2 - Kopya\ArabaK\bin\System.Web.WebPages.Razor.dll
+C:\Users\ayrem\Desktop\ArabaK2 - Kopya\ArabaK\bin\WebGrease.dll
+C:\Users\ayrem\Desktop\ArabaK2 - Kopya\ArabaK\bin\EntityFramework.xml
+C:\Users\ayrem\Desktop\ArabaK2 - Kopya\ArabaK\bin\EntityFramework.SqlServer.xml
+C:\Users\ayrem\Desktop\ArabaK2 - Kopya\ArabaK\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\ayrem\Desktop\ArabaK2 - Kopya\ArabaK\bin\System.Net.Http.Formatting.xml
+C:\Users\ayrem\Desktop\ArabaK2 - Kopya\ArabaK\bin\System.Web.Http.xml
+C:\Users\ayrem\Desktop\ArabaK2 - Kopya\ArabaK\bin\System.Web.Http.WebHost.xml
+C:\Users\ayrem\Desktop\ArabaK2 - Kopya\ArabaK\bin\System.Web.Helpers.xml
+C:\Users\ayrem\Desktop\ArabaK2 - Kopya\ArabaK\bin\System.Web.Mvc.xml
+C:\Users\ayrem\Desktop\ArabaK2 - Kopya\ArabaK\bin\System.Web.Optimization.xml
+C:\Users\ayrem\Desktop\ArabaK2 - Kopya\ArabaK\bin\System.Web.Razor.xml
+C:\Users\ayrem\Desktop\ArabaK2 - Kopya\ArabaK\bin\System.Web.WebPages.xml
+C:\Users\ayrem\Desktop\ArabaK2 - Kopya\ArabaK\bin\System.Web.WebPages.Deployment.xml
+C:\Users\ayrem\Desktop\ArabaK2 - Kopya\ArabaK\bin\System.Web.WebPages.Razor.xml
+C:\Users\ayrem\Desktop\ArabaK2 - Kopya\ArabaK\bin\Antlr3.Runtime.pdb
+C:\Users\ayrem\Desktop\ArabaK2 - Kopya\ArabaK\bin\Newtonsoft.Json.xml
+C:\Users\ayrem\Desktop\ArabaK2 - Kopya\ArabaK\bin\Microsoft.ApplicationInsights.xml
+C:\Users\ayrem\Desktop\ArabaK2 - Kopya\ArabaK\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\ayrem\Desktop\ArabaK2 - Kopya\ArabaK\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\ayrem\Desktop\ArabaK2 - Kopya\ArabaK\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\ayrem\Desktop\ArabaK2 - Kopya\ArabaK\bin\Microsoft.AI.Web.xml
+C:\Users\ayrem\Desktop\ArabaK2 - Kopya\ArabaK\obj\Debug\ArabaK.csprojResolveAssemblyReference.cache
+C:\Users\ayrem\Desktop\ArabaK2 - Kopya\ArabaK\obj\Debug\ArabaK.csproj.CoreCompileInputs.cache
+C:\Users\ayrem\Desktop\ArabaK2 - Kopya\ArabaK\obj\Debug\ArabaK.csproj.CopyComplete
+C:\Users\ayrem\Desktop\ArabaK2 - Kopya\ArabaK\obj\Debug\ArabaK.dll
+C:\Users\ayrem\Desktop\ArabaK2 - Kopya\ArabaK\obj\Debug\ArabaK.pdb
+C:\Users\ayrem\Desktop\ArabaK2 - Kopya - Kopya\ArabaK\bin\ApplicationInsights.config
+C:\Users\ayrem\Desktop\ArabaK2 - Kopya - Kopya\ArabaK\bin\ArabaK.dll.config
+C:\Users\ayrem\Desktop\ArabaK2 - Kopya - Kopya\ArabaK\bin\ArabaK.dll
+C:\Users\ayrem\Desktop\ArabaK2 - Kopya - Kopya\ArabaK\bin\ArabaK.pdb
+C:\Users\ayrem\Desktop\ArabaK2 - Kopya - Kopya\ArabaK\bin\roslyn\csc.exe
+C:\Users\ayrem\Desktop\ArabaK2 - Kopya - Kopya\ArabaK\bin\roslyn\csc.exe.config
+C:\Users\ayrem\Desktop\ArabaK2 - Kopya - Kopya\ArabaK\bin\roslyn\csc.rsp
+C:\Users\ayrem\Desktop\ArabaK2 - Kopya - Kopya\ArabaK\bin\roslyn\csi.exe
+C:\Users\ayrem\Desktop\ArabaK2 - Kopya - Kopya\ArabaK\bin\roslyn\csi.exe.config
+C:\Users\ayrem\Desktop\ArabaK2 - Kopya - Kopya\ArabaK\bin\roslyn\csi.rsp
+C:\Users\ayrem\Desktop\ArabaK2 - Kopya - Kopya\ArabaK\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\ayrem\Desktop\ArabaK2 - Kopya - Kopya\ArabaK\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\ayrem\Desktop\ArabaK2 - Kopya - Kopya\ArabaK\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\ayrem\Desktop\ArabaK2 - Kopya - Kopya\ArabaK\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\ayrem\Desktop\ArabaK2 - Kopya - Kopya\ArabaK\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\ayrem\Desktop\ArabaK2 - Kopya - Kopya\ArabaK\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\ayrem\Desktop\ArabaK2 - Kopya - Kopya\ArabaK\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\ayrem\Desktop\ArabaK2 - Kopya - Kopya\ArabaK\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\ayrem\Desktop\ArabaK2 - Kopya - Kopya\ArabaK\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\ayrem\Desktop\ArabaK2 - Kopya - Kopya\ArabaK\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\ayrem\Desktop\ArabaK2 - Kopya - Kopya\ArabaK\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\ayrem\Desktop\ArabaK2 - Kopya - Kopya\ArabaK\bin\roslyn\System.AppContext.dll
+C:\Users\ayrem\Desktop\ArabaK2 - Kopya - Kopya\ArabaK\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\ayrem\Desktop\ArabaK2 - Kopya - Kopya\ArabaK\bin\roslyn\System.Console.dll
+C:\Users\ayrem\Desktop\ArabaK2 - Kopya - Kopya\ArabaK\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\ayrem\Desktop\ArabaK2 - Kopya - Kopya\ArabaK\bin\roslyn\System.Diagnostics.Process.dll
+C:\Users\ayrem\Desktop\ArabaK2 - Kopya - Kopya\ArabaK\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\ayrem\Desktop\ArabaK2 - Kopya - Kopya\ArabaK\bin\roslyn\System.IO.Compression.dll
+C:\Users\ayrem\Desktop\ArabaK2 - Kopya - Kopya\ArabaK\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\ayrem\Desktop\ArabaK2 - Kopya - Kopya\ArabaK\bin\roslyn\System.IO.FileSystem.DriveInfo.dll
+C:\Users\ayrem\Desktop\ArabaK2 - Kopya - Kopya\ArabaK\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\ayrem\Desktop\ArabaK2 - Kopya - Kopya\ArabaK\bin\roslyn\System.IO.Pipes.dll
+C:\Users\ayrem\Desktop\ArabaK2 - Kopya - Kopya\ArabaK\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\ayrem\Desktop\ArabaK2 - Kopya - Kopya\ArabaK\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\ayrem\Desktop\ArabaK2 - Kopya - Kopya\ArabaK\bin\roslyn\System.Security.Claims.dll
+C:\Users\ayrem\Desktop\ArabaK2 - Kopya - Kopya\ArabaK\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\ayrem\Desktop\ArabaK2 - Kopya - Kopya\ArabaK\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\ayrem\Desktop\ArabaK2 - Kopya - Kopya\ArabaK\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\ayrem\Desktop\ArabaK2 - Kopya - Kopya\ArabaK\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\ayrem\Desktop\ArabaK2 - Kopya - Kopya\ArabaK\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\ayrem\Desktop\ArabaK2 - Kopya - Kopya\ArabaK\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\ayrem\Desktop\ArabaK2 - Kopya - Kopya\ArabaK\bin\roslyn\System.Threading.Thread.dll
+C:\Users\ayrem\Desktop\ArabaK2 - Kopya - Kopya\ArabaK\bin\roslyn\System.ValueTuple.dll
+C:\Users\ayrem\Desktop\ArabaK2 - Kopya - Kopya\ArabaK\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\ayrem\Desktop\ArabaK2 - Kopya - Kopya\ArabaK\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\ayrem\Desktop\ArabaK2 - Kopya - Kopya\ArabaK\bin\roslyn\System.Xml.XPath.dll
+C:\Users\ayrem\Desktop\ArabaK2 - Kopya - Kopya\ArabaK\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\ayrem\Desktop\ArabaK2 - Kopya - Kopya\ArabaK\bin\roslyn\vbc.exe
+C:\Users\ayrem\Desktop\ArabaK2 - Kopya - Kopya\ArabaK\bin\roslyn\vbc.exe.config
+C:\Users\ayrem\Desktop\ArabaK2 - Kopya - Kopya\ArabaK\bin\roslyn\vbc.rsp
+C:\Users\ayrem\Desktop\ArabaK2 - Kopya - Kopya\ArabaK\bin\roslyn\VBCSCompiler.exe
+C:\Users\ayrem\Desktop\ArabaK2 - Kopya - Kopya\ArabaK\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\ayrem\Desktop\ArabaK2 - Kopya - Kopya\ArabaK\bin\Antlr3.Runtime.dll
+C:\Users\ayrem\Desktop\ArabaK2 - Kopya - Kopya\ArabaK\bin\EntityFramework.dll
+C:\Users\ayrem\Desktop\ArabaK2 - Kopya - Kopya\ArabaK\bin\EntityFramework.SqlServer.dll
+C:\Users\ayrem\Desktop\ArabaK2 - Kopya - Kopya\ArabaK\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\ayrem\Desktop\ArabaK2 - Kopya - Kopya\ArabaK\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\ayrem\Desktop\ArabaK2 - Kopya - Kopya\ArabaK\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\ayrem\Desktop\ArabaK2 - Kopya - Kopya\ArabaK\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\ayrem\Desktop\ArabaK2 - Kopya - Kopya\ArabaK\bin\Microsoft.AI.Web.dll
+C:\Users\ayrem\Desktop\ArabaK2 - Kopya - Kopya\ArabaK\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\ayrem\Desktop\ArabaK2 - Kopya - Kopya\ArabaK\bin\Microsoft.ApplicationInsights.dll
+C:\Users\ayrem\Desktop\ArabaK2 - Kopya - Kopya\ArabaK\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\ayrem\Desktop\ArabaK2 - Kopya - Kopya\ArabaK\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\ayrem\Desktop\ArabaK2 - Kopya - Kopya\ArabaK\bin\Newtonsoft.Json.dll
+C:\Users\ayrem\Desktop\ArabaK2 - Kopya - Kopya\ArabaK\bin\System.Net.Http.Formatting.dll
+C:\Users\ayrem\Desktop\ArabaK2 - Kopya - Kopya\ArabaK\bin\System.Web.Helpers.dll
+C:\Users\ayrem\Desktop\ArabaK2 - Kopya - Kopya\ArabaK\bin\System.Web.Http.dll
+C:\Users\ayrem\Desktop\ArabaK2 - Kopya - Kopya\ArabaK\bin\System.Web.Http.WebHost.dll
+C:\Users\ayrem\Desktop\ArabaK2 - Kopya - Kopya\ArabaK\bin\System.Web.Mvc.dll
+C:\Users\ayrem\Desktop\ArabaK2 - Kopya - Kopya\ArabaK\bin\System.Web.Optimization.dll
+C:\Users\ayrem\Desktop\ArabaK2 - Kopya - Kopya\ArabaK\bin\System.Web.Razor.dll
+C:\Users\ayrem\Desktop\ArabaK2 - Kopya - Kopya\ArabaK\bin\System.Web.WebPages.Deployment.dll
+C:\Users\ayrem\Desktop\ArabaK2 - Kopya - Kopya\ArabaK\bin\System.Web.WebPages.dll
+C:\Users\ayrem\Desktop\ArabaK2 - Kopya - Kopya\ArabaK\bin\System.Web.WebPages.Razor.dll
+C:\Users\ayrem\Desktop\ArabaK2 - Kopya - Kopya\ArabaK\bin\WebGrease.dll
+C:\Users\ayrem\Desktop\ArabaK2 - Kopya - Kopya\ArabaK\bin\EntityFramework.xml
+C:\Users\ayrem\Desktop\ArabaK2 - Kopya - Kopya\ArabaK\bin\EntityFramework.SqlServer.xml
+C:\Users\ayrem\Desktop\ArabaK2 - Kopya - Kopya\ArabaK\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\ayrem\Desktop\ArabaK2 - Kopya - Kopya\ArabaK\bin\System.Net.Http.Formatting.xml
+C:\Users\ayrem\Desktop\ArabaK2 - Kopya - Kopya\ArabaK\bin\System.Web.Http.xml
+C:\Users\ayrem\Desktop\ArabaK2 - Kopya - Kopya\ArabaK\bin\System.Web.Http.WebHost.xml
+C:\Users\ayrem\Desktop\ArabaK2 - Kopya - Kopya\ArabaK\bin\System.Web.Helpers.xml
+C:\Users\ayrem\Desktop\ArabaK2 - Kopya - Kopya\ArabaK\bin\System.Web.Mvc.xml
+C:\Users\ayrem\Desktop\ArabaK2 - Kopya - Kopya\ArabaK\bin\System.Web.Optimization.xml
+C:\Users\ayrem\Desktop\ArabaK2 - Kopya - Kopya\ArabaK\bin\System.Web.Razor.xml
+C:\Users\ayrem\Desktop\ArabaK2 - Kopya - Kopya\ArabaK\bin\System.Web.WebPages.xml
+C:\Users\ayrem\Desktop\ArabaK2 - Kopya - Kopya\ArabaK\bin\System.Web.WebPages.Deployment.xml
+C:\Users\ayrem\Desktop\ArabaK2 - Kopya - Kopya\ArabaK\bin\System.Web.WebPages.Razor.xml
+C:\Users\ayrem\Desktop\ArabaK2 - Kopya - Kopya\ArabaK\bin\Antlr3.Runtime.pdb
+C:\Users\ayrem\Desktop\ArabaK2 - Kopya - Kopya\ArabaK\bin\Newtonsoft.Json.xml
+C:\Users\ayrem\Desktop\ArabaK2 - Kopya - Kopya\ArabaK\bin\Microsoft.ApplicationInsights.xml
+C:\Users\ayrem\Desktop\ArabaK2 - Kopya - Kopya\ArabaK\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\ayrem\Desktop\ArabaK2 - Kopya - Kopya\ArabaK\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\ayrem\Desktop\ArabaK2 - Kopya - Kopya\ArabaK\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\ayrem\Desktop\ArabaK2 - Kopya - Kopya\ArabaK\bin\Microsoft.AI.Web.xml
+C:\Users\ayrem\Desktop\ArabaK2 - Kopya - Kopya\ArabaK\obj\Debug\ArabaK.csprojResolveAssemblyReference.cache
+C:\Users\ayrem\Desktop\ArabaK2 - Kopya - Kopya\ArabaK\obj\Debug\ArabaK.csproj.CoreCompileInputs.cache
+C:\Users\ayrem\Desktop\ArabaK2 - Kopya - Kopya\ArabaK\obj\Debug\ArabaK.csproj.CopyComplete
+C:\Users\ayrem\Desktop\ArabaK2 - Kopya - Kopya\ArabaK\obj\Debug\ArabaK.dll
+C:\Users\ayrem\Desktop\ArabaK2 - Kopya - Kopya\ArabaK\obj\Debug\ArabaK.pdb
+C:\Users\ayrem\Desktop\Yeni klasör (2)\ArabaK2 - Kopya - Kopya\ArabaK\obj\Debug\ArabaK.csprojResolveAssemblyReference.cache
+C:\Users\ayrem\Desktop\Yeni klasör (2)\ArabaK2 - Kopya - Kopya\ArabaK\obj\Debug\ArabaK.csproj.CoreCompileInputs.cache
+C:\Users\ayrem\Desktop\Yeni klasör (2)\ArabaK2 - Kopya - Kopya\ArabaK\obj\Debug\ArabaK.dll
+C:\Users\ayrem\Desktop\Yeni klasör (2)\ArabaK2 - Kopya - Kopya\ArabaK\obj\Debug\ArabaK.pdb
+C:\Users\ayrem\Desktop\Yeni klasör (2)\ArabaK2 - Kopya - Kopya\ArabaK\bin\ApplicationInsights.config
+C:\Users\ayrem\Desktop\Yeni klasör (2)\ArabaK2 - Kopya - Kopya\ArabaK\bin\ArabaK.dll.config
+C:\Users\ayrem\Desktop\Yeni klasör (2)\ArabaK2 - Kopya - Kopya\ArabaK\bin\ArabaK.dll
+C:\Users\ayrem\Desktop\Yeni klasör (2)\ArabaK2 - Kopya - Kopya\ArabaK\bin\ArabaK.pdb
+C:\Users\ayrem\Desktop\Yeni klasör (2)\ArabaK2 - Kopya - Kopya\ArabaK\bin\roslyn\csc.exe
+C:\Users\ayrem\Desktop\Yeni klasör (2)\ArabaK2 - Kopya - Kopya\ArabaK\bin\roslyn\csc.exe.config
+C:\Users\ayrem\Desktop\Yeni klasör (2)\ArabaK2 - Kopya - Kopya\ArabaK\bin\roslyn\csc.rsp
+C:\Users\ayrem\Desktop\Yeni klasör (2)\ArabaK2 - Kopya - Kopya\ArabaK\bin\roslyn\csi.exe
+C:\Users\ayrem\Desktop\Yeni klasör (2)\ArabaK2 - Kopya - Kopya\ArabaK\bin\roslyn\csi.exe.config
+C:\Users\ayrem\Desktop\Yeni klasör (2)\ArabaK2 - Kopya - Kopya\ArabaK\bin\roslyn\csi.rsp
+C:\Users\ayrem\Desktop\Yeni klasör (2)\ArabaK2 - Kopya - Kopya\ArabaK\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\ayrem\Desktop\Yeni klasör (2)\ArabaK2 - Kopya - Kopya\ArabaK\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\ayrem\Desktop\Yeni klasör (2)\ArabaK2 - Kopya - Kopya\ArabaK\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\ayrem\Desktop\Yeni klasör (2)\ArabaK2 - Kopya - Kopya\ArabaK\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\ayrem\Desktop\Yeni klasör (2)\ArabaK2 - Kopya - Kopya\ArabaK\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\ayrem\Desktop\Yeni klasör (2)\ArabaK2 - Kopya - Kopya\ArabaK\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\ayrem\Desktop\Yeni klasör (2)\ArabaK2 - Kopya - Kopya\ArabaK\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\ayrem\Desktop\Yeni klasör (2)\ArabaK2 - Kopya - Kopya\ArabaK\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\ayrem\Desktop\Yeni klasör (2)\ArabaK2 - Kopya - Kopya\ArabaK\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\ayrem\Desktop\Yeni klasör (2)\ArabaK2 - Kopya - Kopya\ArabaK\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\ayrem\Desktop\Yeni klasör (2)\ArabaK2 - Kopya - Kopya\ArabaK\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\ayrem\Desktop\Yeni klasör (2)\ArabaK2 - Kopya - Kopya\ArabaK\bin\roslyn\System.AppContext.dll
+C:\Users\ayrem\Desktop\Yeni klasör (2)\ArabaK2 - Kopya - Kopya\ArabaK\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\ayrem\Desktop\Yeni klasör (2)\ArabaK2 - Kopya - Kopya\ArabaK\bin\roslyn\System.Console.dll
+C:\Users\ayrem\Desktop\Yeni klasör (2)\ArabaK2 - Kopya - Kopya\ArabaK\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\ayrem\Desktop\Yeni klasör (2)\ArabaK2 - Kopya - Kopya\ArabaK\bin\roslyn\System.Diagnostics.Process.dll
+C:\Users\ayrem\Desktop\Yeni klasör (2)\ArabaK2 - Kopya - Kopya\ArabaK\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\ayrem\Desktop\Yeni klasör (2)\ArabaK2 - Kopya - Kopya\ArabaK\bin\roslyn\System.IO.Compression.dll
+C:\Users\ayrem\Desktop\Yeni klasör (2)\ArabaK2 - Kopya - Kopya\ArabaK\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\ayrem\Desktop\Yeni klasör (2)\ArabaK2 - Kopya - Kopya\ArabaK\bin\roslyn\System.IO.FileSystem.DriveInfo.dll
+C:\Users\ayrem\Desktop\Yeni klasör (2)\ArabaK2 - Kopya - Kopya\ArabaK\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\ayrem\Desktop\Yeni klasör (2)\ArabaK2 - Kopya - Kopya\ArabaK\bin\roslyn\System.IO.Pipes.dll
+C:\Users\ayrem\Desktop\Yeni klasör (2)\ArabaK2 - Kopya - Kopya\ArabaK\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\ayrem\Desktop\Yeni klasör (2)\ArabaK2 - Kopya - Kopya\ArabaK\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\ayrem\Desktop\Yeni klasör (2)\ArabaK2 - Kopya - Kopya\ArabaK\bin\roslyn\System.Security.Claims.dll
+C:\Users\ayrem\Desktop\Yeni klasör (2)\ArabaK2 - Kopya - Kopya\ArabaK\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\ayrem\Desktop\Yeni klasör (2)\ArabaK2 - Kopya - Kopya\ArabaK\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\ayrem\Desktop\Yeni klasör (2)\ArabaK2 - Kopya - Kopya\ArabaK\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\ayrem\Desktop\Yeni klasör (2)\ArabaK2 - Kopya - Kopya\ArabaK\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\ayrem\Desktop\Yeni klasör (2)\ArabaK2 - Kopya - Kopya\ArabaK\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\ayrem\Desktop\Yeni klasör (2)\ArabaK2 - Kopya - Kopya\ArabaK\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\ayrem\Desktop\Yeni klasör (2)\ArabaK2 - Kopya - Kopya\ArabaK\bin\roslyn\System.Threading.Thread.dll
+C:\Users\ayrem\Desktop\Yeni klasör (2)\ArabaK2 - Kopya - Kopya\ArabaK\bin\roslyn\System.ValueTuple.dll
+C:\Users\ayrem\Desktop\Yeni klasör (2)\ArabaK2 - Kopya - Kopya\ArabaK\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\ayrem\Desktop\Yeni klasör (2)\ArabaK2 - Kopya - Kopya\ArabaK\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\ayrem\Desktop\Yeni klasör (2)\ArabaK2 - Kopya - Kopya\ArabaK\bin\roslyn\System.Xml.XPath.dll
+C:\Users\ayrem\Desktop\Yeni klasör (2)\ArabaK2 - Kopya - Kopya\ArabaK\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\ayrem\Desktop\Yeni klasör (2)\ArabaK2 - Kopya - Kopya\ArabaK\bin\roslyn\vbc.exe
+C:\Users\ayrem\Desktop\Yeni klasör (2)\ArabaK2 - Kopya - Kopya\ArabaK\bin\roslyn\vbc.exe.config
+C:\Users\ayrem\Desktop\Yeni klasör (2)\ArabaK2 - Kopya - Kopya\ArabaK\bin\roslyn\vbc.rsp
+C:\Users\ayrem\Desktop\Yeni klasör (2)\ArabaK2 - Kopya - Kopya\ArabaK\bin\roslyn\VBCSCompiler.exe
+C:\Users\ayrem\Desktop\Yeni klasör (2)\ArabaK2 - Kopya - Kopya\ArabaK\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\ayrem\Desktop\Yeni klasör (2)\ArabaK2 - Kopya - Kopya\ArabaK\bin\Antlr3.Runtime.dll
+C:\Users\ayrem\Desktop\Yeni klasör (2)\ArabaK2 - Kopya - Kopya\ArabaK\bin\EntityFramework.dll
+C:\Users\ayrem\Desktop\Yeni klasör (2)\ArabaK2 - Kopya - Kopya\ArabaK\bin\EntityFramework.SqlServer.dll
+C:\Users\ayrem\Desktop\Yeni klasör (2)\ArabaK2 - Kopya - Kopya\ArabaK\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\ayrem\Desktop\Yeni klasör (2)\ArabaK2 - Kopya - Kopya\ArabaK\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\ayrem\Desktop\Yeni klasör (2)\ArabaK2 - Kopya - Kopya\ArabaK\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\ayrem\Desktop\Yeni klasör (2)\ArabaK2 - Kopya - Kopya\ArabaK\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\ayrem\Desktop\Yeni klasör (2)\ArabaK2 - Kopya - Kopya\ArabaK\bin\Microsoft.AI.Web.dll
+C:\Users\ayrem\Desktop\Yeni klasör (2)\ArabaK2 - Kopya - Kopya\ArabaK\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\ayrem\Desktop\Yeni klasör (2)\ArabaK2 - Kopya - Kopya\ArabaK\bin\Microsoft.ApplicationInsights.dll
+C:\Users\ayrem\Desktop\Yeni klasör (2)\ArabaK2 - Kopya - Kopya\ArabaK\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\ayrem\Desktop\Yeni klasör (2)\ArabaK2 - Kopya - Kopya\ArabaK\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\ayrem\Desktop\Yeni klasör (2)\ArabaK2 - Kopya - Kopya\ArabaK\bin\Newtonsoft.Json.dll
+C:\Users\ayrem\Desktop\Yeni klasör (2)\ArabaK2 - Kopya - Kopya\ArabaK\bin\SOABusiness.dll
+C:\Users\ayrem\Desktop\Yeni klasör (2)\ArabaK2 - Kopya - Kopya\ArabaK\bin\SOAModel.dll
+C:\Users\ayrem\Desktop\Yeni klasör (2)\ArabaK2 - Kopya - Kopya\ArabaK\bin\System.Net.Http.Formatting.dll
+C:\Users\ayrem\Desktop\Yeni klasör (2)\ArabaK2 - Kopya - Kopya\ArabaK\bin\System.Web.Helpers.dll
+C:\Users\ayrem\Desktop\Yeni klasör (2)\ArabaK2 - Kopya - Kopya\ArabaK\bin\System.Web.Http.dll
+C:\Users\ayrem\Desktop\Yeni klasör (2)\ArabaK2 - Kopya - Kopya\ArabaK\bin\System.Web.Http.WebHost.dll
+C:\Users\ayrem\Desktop\Yeni klasör (2)\ArabaK2 - Kopya - Kopya\ArabaK\bin\System.Web.Mvc.dll
+C:\Users\ayrem\Desktop\Yeni klasör (2)\ArabaK2 - Kopya - Kopya\ArabaK\bin\System.Web.Optimization.dll
+C:\Users\ayrem\Desktop\Yeni klasör (2)\ArabaK2 - Kopya - Kopya\ArabaK\bin\System.Web.Razor.dll
+C:\Users\ayrem\Desktop\Yeni klasör (2)\ArabaK2 - Kopya - Kopya\ArabaK\bin\System.Web.WebPages.Deployment.dll
+C:\Users\ayrem\Desktop\Yeni klasör (2)\ArabaK2 - Kopya - Kopya\ArabaK\bin\System.Web.WebPages.dll
+C:\Users\ayrem\Desktop\Yeni klasör (2)\ArabaK2 - Kopya - Kopya\ArabaK\bin\System.Web.WebPages.Razor.dll
+C:\Users\ayrem\Desktop\Yeni klasör (2)\ArabaK2 - Kopya - Kopya\ArabaK\bin\WebGrease.dll
+C:\Users\ayrem\Desktop\Yeni klasör (2)\ArabaK2 - Kopya - Kopya\ArabaK\bin\SOAData.dll
+C:\Users\ayrem\Desktop\Yeni klasör (2)\ArabaK2 - Kopya - Kopya\ArabaK\bin\SOACommons.dll
+C:\Users\ayrem\Desktop\Yeni klasör (2)\ArabaK2 - Kopya - Kopya\ArabaK\bin\EntityFramework.xml
+C:\Users\ayrem\Desktop\Yeni klasör (2)\ArabaK2 - Kopya - Kopya\ArabaK\bin\EntityFramework.SqlServer.xml
+C:\Users\ayrem\Desktop\Yeni klasör (2)\ArabaK2 - Kopya - Kopya\ArabaK\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\ayrem\Desktop\Yeni klasör (2)\ArabaK2 - Kopya - Kopya\ArabaK\bin\SOABusiness.pdb
+C:\Users\ayrem\Desktop\Yeni klasör (2)\ArabaK2 - Kopya - Kopya\ArabaK\bin\SOAModel.pdb
+C:\Users\ayrem\Desktop\Yeni klasör (2)\ArabaK2 - Kopya - Kopya\ArabaK\bin\System.Net.Http.Formatting.xml
+C:\Users\ayrem\Desktop\Yeni klasör (2)\ArabaK2 - Kopya - Kopya\ArabaK\bin\System.Web.Http.xml
+C:\Users\ayrem\Desktop\Yeni klasör (2)\ArabaK2 - Kopya - Kopya\ArabaK\bin\System.Web.Http.WebHost.xml
+C:\Users\ayrem\Desktop\Yeni klasör (2)\ArabaK2 - Kopya - Kopya\ArabaK\bin\System.Web.Helpers.xml
+C:\Users\ayrem\Desktop\Yeni klasör (2)\ArabaK2 - Kopya - Kopya\ArabaK\bin\System.Web.Mvc.xml
+C:\Users\ayrem\Desktop\Yeni klasör (2)\ArabaK2 - Kopya - Kopya\ArabaK\bin\System.Web.Optimization.xml
+C:\Users\ayrem\Desktop\Yeni klasör (2)\ArabaK2 - Kopya - Kopya\ArabaK\bin\System.Web.Razor.xml
+C:\Users\ayrem\Desktop\Yeni klasör (2)\ArabaK2 - Kopya - Kopya\ArabaK\bin\System.Web.WebPages.xml
+C:\Users\ayrem\Desktop\Yeni klasör (2)\ArabaK2 - Kopya - Kopya\ArabaK\bin\System.Web.WebPages.Deployment.xml
+C:\Users\ayrem\Desktop\Yeni klasör (2)\ArabaK2 - Kopya - Kopya\ArabaK\bin\System.Web.WebPages.Razor.xml
+C:\Users\ayrem\Desktop\Yeni klasör (2)\ArabaK2 - Kopya - Kopya\ArabaK\bin\Antlr3.Runtime.pdb
+C:\Users\ayrem\Desktop\Yeni klasör (2)\ArabaK2 - Kopya - Kopya\ArabaK\bin\Newtonsoft.Json.xml
+C:\Users\ayrem\Desktop\Yeni klasör (2)\ArabaK2 - Kopya - Kopya\ArabaK\bin\Microsoft.ApplicationInsights.xml
+C:\Users\ayrem\Desktop\Yeni klasör (2)\ArabaK2 - Kopya - Kopya\ArabaK\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\ayrem\Desktop\Yeni klasör (2)\ArabaK2 - Kopya - Kopya\ArabaK\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\ayrem\Desktop\Yeni klasör (2)\ArabaK2 - Kopya - Kopya\ArabaK\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\ayrem\Desktop\Yeni klasör (2)\ArabaK2 - Kopya - Kopya\ArabaK\bin\Microsoft.AI.Web.xml
+C:\Users\ayrem\Desktop\Yeni klasör (2)\ArabaK2 - Kopya - Kopya\ArabaK\bin\SOAData.pdb
+C:\Users\ayrem\Desktop\Yeni klasör (2)\ArabaK2 - Kopya - Kopya\ArabaK\bin\SOACommons.pdb
+C:\Users\ayrem\Desktop\Yeni klasör (2)\ArabaK2 - Kopya - Kopya\ArabaK\obj\Debug\ArabaK.csproj.CopyComplete
+C:\Users\ayrem\Desktop\Yeni klasör (2)\ArabaK2 - Kopya - Kopya\ArabaK\bin\SOA_Web_Api.dll
+C:\Users\ayrem\Desktop\Yeni klasör (2)\ArabaK2 - Kopya - Kopya\ArabaK\bin\SOA_Web_Api.pdb
+C:\Users\ayrem\Desktop\Yeni klasör (2)\ArabaK2 - Kopya - Kopya\ArabaK\bin\SOA_Web_Api.dll.config
